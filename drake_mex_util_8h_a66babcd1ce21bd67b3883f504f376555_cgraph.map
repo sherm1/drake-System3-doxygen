@@ -1,0 +1,9 @@
+<map id="eigenToMSSPoly" name="eigenToMSSPoly">
+<area shape="rect" id="node2" href="$drake_mex_util_8h.html#ae9c2703d688ea3fbec50f6a4a51d9aa1" title="eigenToMatlab" alt="" coords="195,5,302,32"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8h.html#ad75fec8332633fd9f39f79461e5d91b8" title="mexCallMATLABsafe" alt="" coords="176,56,321,83"/>
+<area shape="rect" id="node6" href="$drake_mex_util_8h.html#a1a32330619d207b0facf0e5711263e68" title="trigPolyToEigen" alt="" coords="192,107,305,133"/>
+<area shape="rect" id="node4" href="$drake_debug_mex_8cpp.html#af56110aa10fde712e1cc1235edf235a9" title="mexCallMATLABWithTrap" alt="" coords="369,5,543,32"/>
+<area shape="rect" id="node5" href="$drake_debug_mex_8cpp.html#a859f0f135d8ea5e54f49c58ffdfc912d" title="mexPrintf" alt="" coords="417,56,495,83"/>
+<area shape="rect" id="node7" href="$drake_mex_util_8cpp.html#ae1bd3b74d65984aab593228bf4f60844" title="msspolyToEigen" alt="" coords="397,107,515,133"/>
+<area shape="rect" id="node8" href="$drake_mex_util_8cpp.html#af003ced56a50849150021ef0ac7f2885" title="mxGetPropertySafe" alt="" coords="591,132,727,159"/>
+</map>

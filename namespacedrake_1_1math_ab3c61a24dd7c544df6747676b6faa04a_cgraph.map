@@ -1,0 +1,4 @@
+<map id="closestExpmap" name="closestExpmap">
+<area shape="rect" id="node2" href="$autodiff_8h.html#a585272fa110644dd1627097dfaa7a7d4" title="Overloads round to mimic std::round from &lt;cmath&gt;. " alt="" coords="165,5,220,32"/>
+<area shape="rect" id="node3" href="$autodiff_8h.html#ade59d5c5d809f1cdb177cb682fcb2445" title="Overloads floor to mimic std::floor from &lt;cmath&gt;. " alt="" coords="169,56,216,83"/>
+</map>

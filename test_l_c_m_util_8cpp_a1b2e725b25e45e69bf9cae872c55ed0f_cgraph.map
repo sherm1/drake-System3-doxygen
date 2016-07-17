@@ -1,0 +1,9 @@
+<map id="testPolynomial" name="testPolynomial">
+<area shape="rect" id="node2" href="$lcm_util_8cpp.html#a54f6689cd3ad77da0fc4e709a5e4edb7" title="encodePolynomial" alt="" coords="170,56,298,83"/>
+<area shape="rect" id="node6" href="$lcm_util_8cpp.html#a0d64a8194d065aa8dca12d6a31e0b3be" title="decodePolynomial" alt="" coords="170,107,298,133"/>
+<area shape="rect" id="node7" href="$test_util_8h.html#a034eb373ac0f02ffdfe1ef3fc704b72d" title="valuecheck" alt="" coords="191,157,277,184"/>
+<area shape="rect" id="node8" href="$class_polynomial.html#a88eee5c6437b921a0d9947a7e9dada9d" title="Checks if a (univariate) Polynomial is approximately equal to this one. " alt="" coords="161,208,307,235"/>
+<area shape="rect" id="node3" href="$drake_util_8h.html#a446641c6fd4dd7ec952d8d484cf582a2" title="eigenVectorToStdVector" alt="" coords="392,5,555,32"/>
+<area shape="rect" id="node4" href="$class_polynomial.html#aeb731f53eb738041d601b31af0420dab" title="Polynomial::getCoefficients" alt="" coords="384,56,563,83"/>
+<area shape="rect" id="node5" href="$class_polynomial.html#aff581e43b827443c31650278c002c0c1" title="Returns the number of unique Monomials (and thus the number of coefficients) in this Polynomial..." alt="" coords="355,107,592,133"/>
+</map>

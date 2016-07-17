@@ -1,0 +1,36 @@
+<map id="mxGetPrSafe" name="mxGetPrSafe">
+<area shape="rect" id="node2" href="$n_waypoint_cubic_spline_free_knot_timesmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="203,5,301,32"/>
+<area shape="rect" id="node3" href="$construct_ptr_rigid_body_constraint_8h.html#ac7f10e3c1453c44ecb297a74cad81b77" title="rigidBodyConstraintParse\lTspan" alt="" coords="167,57,337,98"/>
+<area shape="rect" id="node5" href="$construct_ptr_rigid_body_constraint_8cpp.html#add2577641ab52739d8b50a29ab22fb3f" title="rigidBodyConstraintParse3d\lUnitVector" alt="" coords="161,122,343,163"/>
+<area shape="rect" id="node6" href="$construct_ptr_rigid_body_constraint_8cpp.html#ad9b6f1deb4432b92336ed8fa2520414d" title="rigidBodyConstraintParseQuat" alt="" coords="153,188,351,215"/>
+<area shape="rect" id="node7" href="$rigid_body_tree_mex_conversions_8h.html#a0086483e0b75541ab5dd349142a63cb5" title="fromMexUnsafe" alt="" coords="196,239,308,265"/>
+<area shape="rect" id="node8" href="$surface_tangentsmex_8cpp.html#a47548f9a581788a1a4d97cb75b583833" title="getTangentsArray" alt="" coords="190,289,314,316"/>
+<area shape="rect" id="node10" href="$construct_q_p_locomotion_planmex_8cpp.html#ac8a52d57c5cc39560ec8053676bcfc01" title="setUpBodyMotions" alt="" coords="733,720,865,747"/>
+<area shape="rect" id="node12" href="$is_collision_free__mex_8cpp.html#a9bde605fdcfe99bedceaa3be3f9ad6f0" title="shiftAndTransform" alt="" coords="189,340,315,367"/>
+<area shape="rect" id="node13" href="$is_collision_free__mex_8cpp.html#a670ccdb76941e87ce1e0ead9c5f9f8c0" title="isCollisionFree" alt="" coords="469,365,575,392"/>
+<area shape="rect" id="node15" href="$replan_funnels__mex_8cpp.html#aba397ad2b579031966591c10091d7396" title="ptToPolyBullet" alt="" coords="199,593,305,620"/>
+<area shape="rect" id="node16" href="$replan_funnels__mex_8cpp.html#ae80338b37f2f11b318a29194db3ea4eb" title="penetrationCost" alt="" coords="465,543,579,569"/>
+<area shape="rect" id="node17" href="$replan_funnels__mex_8cpp.html#a048c212f3d91e5c7ea2a04a3ff6e8d66" title="snopt_userfun" alt="" coords="747,517,850,544"/>
+<area shape="rect" id="node21" href="$replan_funnels__mex_8cpp.html#ae651f34c821c560cf4bcd6f8f9e4ea3c" title="containmentConstraint" alt="" coords="446,492,598,519"/>
+<area shape="rect" id="node22" href="$replan_funnels__mex_8cpp.html#ac08b35ba661e28bcfd53c6a22013eff7" title="isInsideInlet" alt="" coords="1027,644,1118,671"/>
+<area shape="rect" id="node23" href="$drake_mex_util_8h.html#a64c6b7b7127d4dd95646f460c591064f" title="matlabToStdVector" alt="" coords="185,745,319,772"/>
+<area shape="rect" id="node25" href="$drake_mex_util_8cpp.html#a14807222c6247f3687ff9fd04e5f72ff" title="matlabToStdVector\&lt;\l double \&gt;" alt="" coords="181,797,323,838"/>
+<area shape="rect" id="node33" href="$drake_mex_util_8h.html#acf1905cff99aa719542a528109f76d10" title="matlabToEigenMap" alt="" coords="185,863,319,889"/>
+<area shape="rect" id="node35" href="$standard_mex_conversions_8h.html#a821cef4bffa2f7a3f188e9c0436ba661" title="isConvertibleFromMex" alt="" coords="177,913,327,940"/>
+<area shape="rect" id="node4" href="$construct_ptr_rigid_body_constraintmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="473,129,571,156"/>
+<area shape="rect" id="node9" href="$surface_tangentsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="473,289,571,316"/>
+<area shape="rect" id="node11" href="$construct_q_p_locomotion_planmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1449,771,1547,797"/>
+<area shape="rect" id="node14" href="$is_collision_free__mex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="750,365,847,392"/>
+<area shape="rect" id="node20" href="$replan_funnels__mex_8cpp.html#a670ccdb76941e87ce1e0ead9c5f9f8c0" title="isCollisionFree" alt="" coords="1019,593,1126,620"/>
+<area shape="rect" id="node18" href="$replan_funnels__mex_8cpp.html#a7a09b7d0875ed3da122d4ee1f42ac747" title="shiftFunnel_snopt" alt="" coords="1011,531,1135,557"/>
+<area shape="rect" id="node19" href="$replan_funnels__mex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1273,593,1370,620"/>
+<area shape="rect" id="node24" href="$drake_mex_util_8h.html#a49a631d099faa4061563c8f03289dc0f" title="matlabToCArrayOfArrays" alt="" coords="439,745,605,772"/>
+<area shape="rect" id="node26" href="$n_waypoint_cubic_splinemex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="473,913,571,940"/>
+<area shape="rect" id="node27" href="$compute_s1_trajmex_8cpp.html#a25b89463c06ade5ad73c24a56eb88dad" title="matlabPPFormToPiecewisePolynomial" alt="" coords="399,863,645,889"/>
+<area shape="rect" id="node29" href="$construct_q_p_locomotion_planmex_8cpp.html#a0e086cce771efe8a331b9cd5d0c6a379" title="matlabCoefsAndBreaksToPiecewise\lPolynomial" alt="" coords="407,797,637,838"/>
+<area shape="rect" id="node28" href="$compute_s1_trajmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="750,863,847,889"/>
+<area shape="rect" id="node30" href="$construct_q_p_locomotion_planmex_8cpp.html#a9e2d12c2b92d12201fafc75ef824ae9b" title="matlabExpPlusPPToExponential\lPlusPiecewisePolynomial" alt="" coords="693,797,904,838"/>
+<area shape="rect" id="node31" href="$construct_q_p_locomotion_planmex_8cpp.html#a85f73bb40f8ab1b3be7c0bf5bc08accc" title="matlabExpPlusPPOrPPTrajectory\lOrVectorToExponentialPlusPiecewise\lPolynomial" alt="" coords="952,789,1193,845"/>
+<area shape="rect" id="node32" href="$construct_q_p_locomotion_planmex_8cpp.html#a781f1af328acede2778a0e141506ac17" title="setUpLyapunovFunction" alt="" coords="1241,771,1401,797"/>
+<area shape="rect" id="node34" href="$drake_mex_util_8h.html#aec11e7ad1086e9446a5086264a634090" title="taylorVarToEigen" alt="" coords="461,964,583,991"/>
+</map>

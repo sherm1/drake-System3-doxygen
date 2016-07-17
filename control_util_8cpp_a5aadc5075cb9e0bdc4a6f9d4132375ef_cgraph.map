@@ -1,0 +1,21 @@
+<map id="evaluateXYZExpmapCubicSpline" name="evaluateXYZExpmapCubicSpline">
+<area shape="rect" id="node2" href="$class_piecewise_polynomial.html#aa186c04292c38dc34d8e5c58e6643434" title="PiecewisePolynomial\l::value" alt="" coords="285,163,430,204"/>
+<area shape="rect" id="node10" href="$class_piecewise_polynomial.html#a55e621de02140ec8ffa75dcad8888921" title="Takes the derivative of this PiecewisePolynomial. " alt="" coords="285,287,430,328"/>
+<area shape="rect" id="node11" href="$namespacedrake_1_1math.html#a4bc8c0d47e42141e066c524543c5dd92" title="drake::math::expmap2quat" alt="" coords="269,356,446,382"/>
+<area shape="rect" id="node18" href="$namespacedrake_1_1math.html#a2131d12e81399c3201b29118d59adc87" title="drake::math::autoDiffToValue\lMatrix" alt="" coords="263,407,452,448"/>
+<area shape="rect" id="node19" href="$namespacedrake_1_1math.html#a3607753ce14d5404a48f81757be2b929" title="drake::math::quat2rotmat" alt="" coords="273,473,441,500"/>
+<area shape="rect" id="node20" href="$drake_geometry_util_8h.html#a0264b15dc8d7200823b191d2d3a95025" title="quatdot2angularvelMatrix" alt="" coords="275,524,440,550"/>
+<area shape="rect" id="node3" href="$class_piecewise_function.html#aa35609bb4c7fc71304c47fd0132ae828" title="PiecewiseFunction::\lgetSegmentIndex" alt="" coords="539,104,678,146"/>
+<area shape="rect" id="node4" href="$class_piecewise_function.html#a17e20f6b6982b3b67a96c9e7b2486e8d" title="PiecewiseFunction::\lgetStartTime" alt="" coords="765,39,904,80"/>
+<area shape="rect" id="node5" href="$class_piecewise_function.html#a153c61dac33235418d1642e2372cbe72" title="PiecewiseFunction::\lgetEndTime" alt="" coords="765,163,904,204"/>
+<area shape="rect" id="node7" href="$class_piecewise_polynomial.html#acff48ea2602882b13d890bd2751590da" title="PiecewisePolynomial\l::rows" alt="" coords="536,222,681,263"/>
+<area shape="rect" id="node8" href="$class_piecewise_polynomial.html#a6ddb58a344114da2999204c069ae3f91" title="PiecewisePolynomial\l::cols" alt="" coords="536,287,681,328"/>
+<area shape="rect" id="node9" href="$class_piecewise_polynomial.html#acc6f9183863aadee5e7e1cc317c1c57d" title="PiecewisePolynomial\l::segmentValueAtGlobalAbscissa" alt="" coords="500,39,717,80"/>
+<area shape="rect" id="node6" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="952,134,1109,175"/>
+<area shape="rect" id="node12" href="$namespacedrake_1_1math_1_1internal.html#a01dad140d10cda5a14ee7a51a532081c" title="drake::math::internal\l::expmap2quatDegenerate" alt="" coords="521,352,696,394"/>
+<area shape="rect" id="node13" href="$namespacedrake_1_1math_1_1internal.html#af04b4d15cac27d0880fe4ca074efe050" title="drake::math::internal\l::expmap2quatNonDegenerate" alt="" coords="510,418,707,459"/>
+<area shape="rect" id="node14" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="793,374,877,401"/>
+<area shape="rect" id="node16" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="793,425,876,452"/>
+<area shape="rect" id="node17" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="795,476,874,502"/>
+<area shape="rect" id="node15" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="955,418,1107,459"/>
+</map>

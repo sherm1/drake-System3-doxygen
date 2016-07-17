@@ -1,0 +1,5 @@
+<map id="centerOfMassJacobianDotTimesV" name="centerOfMassJacobianDotTimesV">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a00c84201366009d652b1e0ccb7c9365e" title="centroidalMomentumMatrix\lDotTimesV" alt="" coords="272,5,451,47"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#aa89c75d11ad5f5a27bf2b0e8363cdd9a" title="getMass" alt="" coords="325,71,397,98"/>
+<area shape="rect" id="node4" href="$class_rigid_body_tree.html#a53fb9334effd9f1306fe6128534525df" title="isBodyPartOfRobot" alt="" coords="499,71,632,98"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="convexHull" name="convexHull">
+<area shape="rect" id="node2" href="$convex_hull_8cpp.html#a65d51932bae4751520e590719bcb564c" title="signedDistanceInsideConvexHull" alt="" coords="137,147,347,174"/>
+<area shape="rect" id="node12" href="$struct_point.html#a854b1a304f08929cf02275921926acc7" title="Point::operator\&lt;" alt="" coords="185,198,299,225"/>
+<area shape="rect" id="node3" href="$class_q_p_locomotion_plan.html#ab6dcb1484b8d1b7b65574e7b74f2629a" title="QPLocomotionPlan::create\lQPControllerInput" alt="" coords="395,5,573,47"/>
+<area shape="rect" id="node4" href="$convex_hull_8cpp.html#a319240a960604861f2b5c9581ee27585" title="inConvexHull" alt="" coords="436,71,532,98"/>
+<area shape="rect" id="node8" href="$test_convex_hull_8cpp.html#ab1061ba02d27409cd839d853e6813a43" title="testDistanceFromHull" alt="" coords="655,122,801,149"/>
+<area shape="rect" id="node9" href="$test_convex_hull_8cpp.html#ac4a68be2e230c133c0ec134c59061870" title="testRealData" alt="" coords="679,173,777,199"/>
+<area shape="rect" id="node10" href="$test_convex_hull_8cpp.html#a6b7c4fadefc11ac16caa4a8fc9ddad7c" title="testDuplicates" alt="" coords="431,223,537,250"/>
+<area shape="rect" id="node11" href="$test_convex_hull_8cpp.html#affa1d8d5698b0f75b45804e5e060ed56" title="testRandomTriangles" alt="" coords="412,274,556,301"/>
+<area shape="rect" id="node5" href="$test_convex_hull_8cpp.html#a14f9174a0ee09ed581cd3617df63750f" title="testConvexHull" alt="" coords="674,21,782,47"/>
+<area shape="rect" id="node7" href="$test_convex_hull_8cpp.html#a3c4eec1534b07b8768f4418dc022fb5e" title="testRandomConvexCombinations" alt="" coords="621,71,835,98"/>
+<area shape="rect" id="node6" href="$test_convex_hull_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="883,147,933,174"/>
+</map>

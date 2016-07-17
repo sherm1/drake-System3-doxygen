@@ -1,0 +1,4 @@
+<map id="InheritInputPort" name="InheritInputPort">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_cascade.html#aaff2ec0f5605e185230312fdb1bddbdd" title="Takes over ownership of the two System objects and connects the outputs of first to the inputs of sec..." alt="" coords="321,5,492,47"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_system_diagram.html#a22291c5129ebddfa6c8c431e273bb9d9" title="Takes ownership of the given System and returns an unowned, raw pointer to the concrete type for conv..." alt="" coords="163,38,273,65"/>
+</map>

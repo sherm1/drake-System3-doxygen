@@ -1,0 +1,12 @@
+<map id="zeroConfiguration" name="zeroConfiguration">
+<area shape="rect" id="node2" href="$class_fixed_joint.html#a4f66cae0f282cdf6744d697ac568df19" title="FixedJoint::frictionTorque" alt="" coords="209,5,375,32"/>
+<area shape="rect" id="node3" href="$class_quaternion_floating_joint.html#a50a8c43868665ccd32d0ff3e978ae9a9" title="QuaternionFloatingJoint\l::isFloating" alt="" coords="213,57,371,98"/>
+<area shape="rect" id="node4" href="$class_roll_pitch_yaw_floating_joint.html#a50a8c43868665ccd32d0ff3e978ae9a9" title="RollPitchYawFloatingJoint\l::isFloating" alt="" coords="206,122,378,163"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#a17ae481ffe3d1b726e0c6456c408ca4f" title="RigidBodyTree::getZeroConfiguration" alt="" coords="176,188,408,215"/>
+<area shape="rect" id="node6" href="$approximate_i_k_e_i_q_pmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="Use Frank&#39;s fastQP code (mexed) [q, info] = approximateIKEIQPmex(objgetMexModelPtr, q0, q_nom, Q, varargin) info = 0 on success, 1 on failure. " alt="" coords="493,100,591,127"/>
+<area shape="rect" id="node7" href="$class_all_bodies_closest_distance_constraint.html#a302d353202ad6a2122f16ac152ffa8f3" title="AllBodiesClosestDistance\lConstraint::updateRobot" alt="" coords="456,151,628,193"/>
+<area shape="rect" id="node10" href="$test_approximate_i_k_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="517,217,567,244"/>
+<area shape="rect" id="node11" href="$test_i_k_8cpp.html#ac6833d850124eab6e5d3bbde6b25e1d0" title="GTEST_TEST" alt="" coords="491,268,593,295"/>
+<area shape="rect" id="node8" href="$class_all_bodies_closest_distance_constraint.html#ada730417b9c91b62e57ff86cb88af711" title="AllBodiesClosestDistance\lConstraint::AllBodiesClosest\lDistanceConstraint" alt="" coords="676,112,864,168"/>
+<area shape="rect" id="node9" href="$update_ptr_rigid_body_constraintmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="721,192,819,219"/>
+</map>

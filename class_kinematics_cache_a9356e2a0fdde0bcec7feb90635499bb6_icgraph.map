@@ -1,0 +1,27 @@
+<map id="checkCachedKinematicsSettings" name="checkCachedKinematicsSettings">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a999060c06e9cee6777f56402c1a9607e" title="Computes the kinematics on the given cache. " alt="" coords="280,5,473,32"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#a071032b888187504c53f1b1c2d4d6357" title="RigidBodyTree::worldMomentum\lMatrix" alt="" coords="272,57,481,98"/>
+<area shape="rect" id="node4" href="$class_rigid_body_tree.html#a0d81651606976b5b3f29bca93424f203" title="RigidBodyTree::worldMomentum\lMatrixDotTimesV" alt="" coords="272,122,481,163"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#a9366fe9ba92a1132aed22ccab92bdf65" title="RigidBodyTree::centerOfMass" alt="" coords="279,188,474,215"/>
+<area shape="rect" id="node6" href="$class_rigid_body_tree.html#ade7e0e47eae301799761ecb89f76305d" title="RigidBodyTree::centerOfMass\lJacobian" alt="" coords="279,239,474,281"/>
+<area shape="rect" id="node7" href="$class_rigid_body_tree.html#ac22881ff88fdb61f8ae374cdd714d906" title="RigidBodyTree::geometric\lJacobian" alt="" coords="291,305,462,346"/>
+<area shape="rect" id="node8" href="$class_rigid_body_tree.html#a9ab43a9241e1fd4e16cef7c0a97c21f6" title="RigidBodyTree::geometric\lJacobianDotTimesV" alt="" coords="291,370,462,411"/>
+<area shape="rect" id="node9" href="$class_rigid_body_tree.html#a8614c37baa04ecdf8dcdc30daf636075" title="RigidBodyTree::relativeTwist" alt="" coords="285,436,469,463"/>
+<area shape="rect" id="node10" href="$class_rigid_body_tree.html#a78f6dd7d8f772c8f4b9e2bf98fa94614" title="RigidBodyTree::transform\lSpatialAcceleration" alt="" coords="293,487,461,529"/>
+<area shape="rect" id="node11" href="$class_rigid_body_tree.html#afee6e49de6ef9ad40934215e0b40f477" title="RigidBodyTree::relativeTransform" alt="" coords="271,553,482,580"/>
+<area shape="rect" id="node12" href="$class_rigid_body_tree.html#a0401831d011a884852a6a8134891569e" title="RigidBodyTree::massMatrix" alt="" coords="285,604,468,631"/>
+<area shape="rect" id="node13" href="$class_rigid_body_tree.html#af0694d93e6621fa549e686df04dbe551" title="RigidBodyTree::inverseDynamics" alt="" coords="271,655,483,681"/>
+<area shape="rect" id="node14" href="$class_rigid_body_tree.html#a201afbcc663240808b70c0ae30d9e64d" title="RigidBodyTree::forwardKin\lPositionGradient" alt="" coords="289,706,464,747"/>
+<area shape="rect" id="node15" href="$class_rigid_body_tree.html#a8dc0b25e8bb3dcd6ab3bc14355bb3176" title="RigidBodyTree::transform\lPointsJacobianDotTimesV" alt="" coords="289,771,464,813"/>
+<area shape="rect" id="node24" href="$class_rigid_body_tree.html#a03c30ef4c083a5a6efde7a5f37d6c450" title="RigidBodyTree::relativeQuaternion\lJacobianDotTimesV" alt="" coords="268,837,485,878"/>
+<area shape="rect" id="node25" href="$class_rigid_body_tree.html#a21cb3526addac4f34add1261b83ab277" title="RigidBodyTree::relativeRoll\lPitchYawJacobianDotTimesV" alt="" coords="281,902,473,943"/>
+<area shape="rect" id="node26" href="$solve_l_c_pmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="328,968,425,995"/>
+<area shape="rect" id="node16" href="$control_util_8cpp.html#af039c04e600e5015c8950cb3d1c1f59c" title="contactConstraintsBV" alt="" coords="571,661,721,688"/>
+<area shape="rect" id="node20" href="$class_rigid_body_tree.html#a89bbf896a1a8115b63eeb4d53e52f0da" title="RigidBodyTree::positionConstraints\lJacDotTimesV" alt="" coords="533,713,759,754"/>
+<area shape="rect" id="node21" href="$class_rigid_body_tree.html#a16f1259b0d554f01408052d4a9ddc83d" title="RigidBodyTree::addRobotFromSDF" alt="" coords="533,779,759,805"/>
+<area shape="rect" id="node22" href="$rigid_body_tree_mex_functions_8cpp.html#a57f89ce171698f9e87d529e265a9b070" title="forwardJacDotTimesVTemp" alt="" coords="557,880,735,907"/>
+<area shape="rect" id="node23" href="$debug_manipulator_dynamics_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="621,829,671,856"/>
+<area shape="rect" id="node17" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="807,654,984,695"/>
+<area shape="rect" id="node18" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="1032,625,1217,666"/>
+<area shape="rect" id="node19" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1076,691,1173,717"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="rotmat2quat" name="rotmat2quat">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math.html#ad09a8fff808ed9e5f002685351e7a422" title="rotmat2Representation" alt="" coords="176,161,329,187"/>
+<area shape="rect" id="node3" href="$control_util_8cpp.html#a975ef9836d30ba61c102b422a63d0157" title="bodySpatialMotionPD" alt="" coords="179,211,326,238"/>
+<area shape="rect" id="node7" href="$class_drake_1_1_bot_visualizer.html#af25246d29ab06c15c5b0caf1441fa3bf" title="Drake::BotVisualizer\l::publishLoadRobot" alt="" coords="182,263,323,304"/>
+<area shape="rect" id="node10" href="$class_drake_1_1_bot_visualizer.html#a65b6a0fb2f191fe113ac10d357b32282" title="Drake::BotVisualizer\l::output" alt="" coords="182,328,323,369"/>
+<area shape="rect" id="node11" href="$class_rigid_body_tree.html#a5a1743d3c12160dbe44354ba11f4ac28" title="RigidBodyTree::relativeQuaternion" alt="" coords="144,394,361,421"/>
+<area shape="rect" id="node23" href="$class_q_p_locomotion_plan.html#ab6dcb1484b8d1b7b65574e7b74f2629a" title="QPLocomotionPlan::create\lQPControllerInput" alt="" coords="163,445,342,487"/>
+<area shape="rect" id="node24" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="155,605,350,631"/>
+<area shape="rect" id="node4" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="429,60,607,101"/>
+<area shape="rect" id="node5" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="675,5,860,47"/>
+<area shape="rect" id="node6" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="719,71,816,98"/>
+<area shape="rect" id="node8" href="$class_drake_1_1_bot_visualizer.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="Drake::BotVisualizer\l::init" alt="" coords="447,125,589,167"/>
+<area shape="rect" id="node9" href="$class_drake_1_1_bot_visualizer.html#a470110100d9ffbe21539a070a72127e4" title="Drake::BotVisualizer\l::BotVisualizer" alt="" coords="697,125,838,167"/>
+<area shape="rect" id="node12" href="$class_world_quat_constraint.html#a2714c9aef212f89987907615f197dd9f" title="WorldQuatConstraint\l::evalOrientationProduct" alt="" coords="438,191,598,232"/>
+<area shape="rect" id="node13" href="$class_relative_quat_constraint.html#a2714c9aef212f89987907615f197dd9f" title="RelativeQuatConstraint\l::evalOrientationProduct" alt="" coords="438,256,598,297"/>
+<area shape="rect" id="node14" href="$class_world_gaze_orient_constraint.html#ac5d3a7512066c0e3802fd4815cc9c481" title="WorldGazeOrientConstraint\l::evalOrientation" alt="" coords="427,321,609,363"/>
+<area shape="rect" id="node15" href="$class_world_fixed_orient_constraint.html#af36a897174660b6105f4c03056f90051" title="WorldFixedOrientConstraint\l::eval_valid" alt="" coords="427,387,609,428"/>
+<area shape="rect" id="node16" href="$class_world_fixed_body_pose_constraint.html#af36a897174660b6105f4c03056f90051" title="WorldFixedBodyPoseConstraint\l::eval_valid" alt="" coords="415,452,621,493"/>
+<area shape="rect" id="node17" href="$class_rigid_body_tree.html#a7471fedf59ca6818dc7665f6b4d2d23d" title="RigidBodyTree::relativeQuaternion\lJacobian" alt="" coords="409,517,627,559"/>
+<area shape="rect" id="node18" href="$class_rigid_body_tree.html#a03c30ef4c083a5a6efde7a5f37d6c450" title="RigidBodyTree::relativeQuaternion\lJacobianDotTimesV" alt="" coords="409,583,627,624"/>
+<area shape="rect" id="node20" href="$rigid_body_tree_mex_functions_8cpp.html#aba639e1647efde18ce2af9406fa9e65e" title="forwardKinTemp" alt="" coords="461,649,575,675"/>
+<area shape="rect" id="node19" href="$rigid_body_tree_mex_functions_8cpp.html#a57f89ce171698f9e87d529e265a9b070" title="forwardJacDotTimesVTemp" alt="" coords="678,590,857,617"/>
+<area shape="rect" id="node21" href="$rigid_body_tree_mex_functions_8h.html#a1475d3381700dd97a358d042107bae96" title="forwardKinmex" alt="" coords="714,649,821,675"/>
+<area shape="rect" id="node22" href="$forward_kinmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="908,649,1005,675"/>
+<area shape="rect" id="node25" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="469,699,567,726"/>
+</map>

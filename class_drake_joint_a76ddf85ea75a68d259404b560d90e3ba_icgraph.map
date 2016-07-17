@@ -1,0 +1,11 @@
+<map id="randomConfiguration" name="randomConfiguration">
+<area shape="rect" id="node2" href="$class_fixed_joint.html#a4f66cae0f282cdf6744d697ac568df19" title="FixedJoint::frictionTorque" alt="" coords="200,5,367,32"/>
+<area shape="rect" id="node3" href="$class_quaternion_floating_joint.html#a50a8c43868665ccd32d0ff3e978ae9a9" title="QuaternionFloatingJoint\l::isFloating" alt="" coords="204,57,363,98"/>
+<area shape="rect" id="node4" href="$class_roll_pitch_yaw_floating_joint.html#a50a8c43868665ccd32d0ff3e978ae9a9" title="RollPitchYawFloatingJoint\l::isFloating" alt="" coords="197,122,369,163"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#a39a917484f853b16fadcfd714433a219" title="RigidBodyTree::getRandom\lConfiguration" alt="" coords="193,187,373,229"/>
+<area shape="rect" id="node6" href="$benchmark_rigid_body_tree_8cpp.html#a4cd827595ec2069fecdc09aef0a079a5" title="testScenario1" alt="" coords="421,119,524,145"/>
+<area shape="rect" id="node8" href="$benchmark_rigid_body_tree_8cpp.html#a149a49f7b5e678f48f4a9db65c5b0e58" title="testScenario2" alt="" coords="421,169,524,196"/>
+<area shape="rect" id="node9" href="$compare_parsersmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="424,220,521,247"/>
+<area shape="rect" id="node10" href="$debug_manipulator_dynamics_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="447,271,498,297"/>
+<area shape="rect" id="node7" href="$benchmark_rigid_body_tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="572,144,623,171"/>
+</map>

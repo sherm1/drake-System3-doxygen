@@ -1,0 +1,6 @@
+<map id="frictionTorque" name="frictionTorque">
+<area shape="rect" id="node2" href="$class_drake_joint.html#a633b35ddb31caeca5aef7a0819c7ea6f" title="DrakeJoint::getNumVelocities" alt="" coords="160,5,353,32"/>
+<area shape="rect" id="node3" href="$class_drake_joint.html#aded5256128eac40f9b93ddbdc927c801" title="DrakeJoint::getPositionName" alt="" coords="161,56,352,83"/>
+<area shape="rect" id="node4" href="$class_drake_joint.html#ae852676bf8ee37ce1cedd47dbbc3fbc9" title="DrakeJoint::zeroConfiguration" alt="" coords="161,107,352,133"/>
+<area shape="rect" id="node5" href="$class_drake_joint.html#a76ddf85ea75a68d259404b560d90e3ba" title="DrakeJoint::randomConfiguration" alt="" coords="152,157,361,184"/>
+</map>

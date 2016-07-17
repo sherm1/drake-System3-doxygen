@@ -1,0 +1,12 @@
+<map id="qdot2v" name="qdot2v">
+<area shape="rect" id="node2" href="$class_drake_joint.html#a633b35ddb31caeca5aef7a0819c7ea6f" title="DrakeJoint::getNumVelocities" alt="" coords="112,5,305,32"/>
+<area shape="rect" id="node3" href="$class_drake_joint.html#a350be3d17b88146433c6b963f96528aa" title="DrakeJoint::getNumPositions" alt="" coords="113,56,304,83"/>
+<area shape="rect" id="node4" href="$namespacedrake_1_1math.html#a3607753ce14d5404a48f81757be2b929" title="drake::math::quat2rotmat" alt="" coords="125,107,293,133"/>
+<area shape="rect" id="node5" href="$drake_geometry_util_8h.html#a0dcd96faa05315270ac2517a02500f60" title="normalizeVec" alt="" coords="158,157,259,184"/>
+<area shape="rect" id="node11" href="$drake_geometry_util_8h.html#a0264b15dc8d7200823b191d2d3a95025" title="quatdot2angularvelMatrix" alt="" coords="126,208,291,235"/>
+<area shape="rect" id="node6" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="401,81,485,108"/>
+<area shape="rect" id="node8" href="$drake_gradient_util_8h.html#a94e7f89e2f4658e85200497129578c17" title="transposeGrad" alt="" coords="389,132,496,159"/>
+<area shape="rect" id="node9" href="$drake_gradient_util_8h.html#a029a2cfc4ee647e40f438eb22fb0b179" title="matGradMultMat" alt="" coords="383,183,502,209"/>
+<area shape="rect" id="node10" href="$drake_geometry_util_8h.html#a34917b65df62e6c5142901e038d62396" title="rotationRepresentationSize" alt="" coords="353,233,532,260"/>
+<area shape="rect" id="node7" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="580,74,732,115"/>
+</map>

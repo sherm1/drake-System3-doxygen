@@ -1,0 +1,8 @@
+<map id="PiecewiseFunction" name="PiecewiseFunction">
+<area shape="rect" id="node2" href="$class_exponential_plus_piecewise_polynomial.html" title="y(t) = K * exp(A * (t &#45; t_j)) * alpha.col(j) + piecewise_polynomial_part(t) " alt="" coords="184,5,383,47"/>
+<area shape="rect" id="node3" href="$class_exponential_plus_piecewise_polynomial.html" title="ExponentialPlusPiecewise\lPolynomial\&lt; double \&gt;" alt="" coords="196,71,371,112"/>
+<area shape="rect" id="node4" href="$class_piecewise_polynomial_base.html" title="PiecewisePolynomialBase" alt="" coords="196,137,371,163"/>
+<area shape="rect" id="node5" href="$class_piecewise_polynomial.html" title="A scalar multi&#45;variate piecewise polynomial. " alt="" coords="431,64,576,105"/>
+<area shape="rect" id="node6" href="$class_piecewise_polynomial.html" title="PiecewisePolynomial\l\&lt; double \&gt;" alt="" coords="431,129,576,171"/>
+<area shape="rect" id="node7" href="$class_spline_information.html" title="SplineInformation" alt="" coords="443,195,564,222"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="get_model_vector" name="get_model_vector">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_output_port3.html#a9e7076fd8475b478a8ef8dc392a92d6e" title="Returns a const reference to a value of the type that this OutputPort3 will present at run time..." alt="" coords="179,5,369,47"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_abstract_value.html#ab6d4fa0cabdfa30da4b22d5dcd77e0fc" title="Returns the value wrapped in this AbstractValue, which must be of exactly type T. ..." alt="" coords="189,71,359,112"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_vector_object.html#a9ab2f738e32ea90524b00d1e2e4d0f45" title="Returns a const reference to the VectorInterface object owned by this VectorObject, if any. " alt="" coords="176,136,372,177"/>
+</map>

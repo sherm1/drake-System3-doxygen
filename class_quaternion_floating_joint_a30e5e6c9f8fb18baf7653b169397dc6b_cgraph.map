@@ -1,0 +1,4 @@
+<map id="motionSubspaceDotTimesV" name="motionSubspaceDotTimesV">
+<area shape="rect" id="node2" href="$class_drake_joint.html#a350be3d17b88146433c6b963f96528aa" title="DrakeJoint::getNumPositions" alt="" coords="237,5,428,32"/>
+<area shape="rect" id="node3" href="$class_drake_joint.html#a633b35ddb31caeca5aef7a0819c7ea6f" title="DrakeJoint::getNumVelocities" alt="" coords="236,56,429,83"/>
+</map>

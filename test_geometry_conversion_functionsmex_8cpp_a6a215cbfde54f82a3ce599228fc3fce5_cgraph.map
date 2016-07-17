@@ -1,0 +1,25 @@
+<map id="mexFunction" name="mexFunction">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math.html#a5c277cbd19703e215becf571e32cc750" title="drake::math::quat2rpy" alt="" coords="179,5,328,32"/>
+<area shape="rect" id="node3" href="$drake_geometry_util_8h.html#a6cc73a83ac8396bafa14dee7f319db15" title="angularvel2quatdotMatrix" alt="" coords="171,56,336,83"/>
+<area shape="rect" id="node4" href="$drake_geometry_util_8h.html#a5ab694ac4a585b5d64cdd56bd9322de0" title="angularvel2rpydotMatrix" alt="" coords="174,107,333,133"/>
+<area shape="rect" id="node8" href="$drake_geometry_util_8h.html#a5cbf802e82c618223171a6f729087bd3" title="rpydot2angularvelMatrix" alt="" coords="174,157,333,184"/>
+<area shape="rect" id="node9" href="$drake_geometry_util_8h.html#a0264b15dc8d7200823b191d2d3a95025" title="quatdot2angularvelMatrix" alt="" coords="171,360,336,387"/>
+<area shape="rect" id="node10" href="$namespace_drake.html#a8ad03d134f41ff68958da87c1a6bb460" title="Initialize a single autodiff matrix given the corresponding value matrix. " alt="" coords="175,411,331,437"/>
+<area shape="rect" id="node11" href="$namespacedrake_1_1math.html#a2131d12e81399c3201b29118d59adc87" title="drake::math::autoDiffToValue\lMatrix" alt="" coords="159,462,348,503"/>
+<area shape="rect" id="node12" href="$namespacedrake_1_1math.html#af00cd34bea44b187b01da164d5207ae3" title="drake::math::autoDiffToGradient\lMatrix" alt="" coords="151,527,356,569"/>
+<area shape="rect" id="node15" href="$namespacedrake_1_1math.html#a3607753ce14d5404a48f81757be2b929" title="drake::math::quat2rotmat" alt="" coords="169,593,337,620"/>
+<area shape="rect" id="node16" href="$drake_geometry_util_8h.html#a67cc899178d1e560bcfdd5634bfa8252" title="dquat2rotmat" alt="" coords="204,309,303,336"/>
+<area shape="rect" id="node22" href="$drake_geometry_util_8h.html#a8fbd79738258ef736c818dcb36dd9645" title="drotmat2rpy" alt="" coords="409,259,500,285"/>
+<area shape="rect" id="node23" href="$drake_geometry_util_8h.html#a1bb1675bea9de0e6b21f13d751d39878" title="drotmat2quat" alt="" coords="405,208,504,235"/>
+<area shape="rect" id="node24" href="$drake_mex_util_8h.html#ae9c2703d688ea3fbec50f6a4a51d9aa1" title="eigenToMatlab" alt="" coords="200,644,307,671"/>
+<area shape="rect" id="node5" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="415,157,494,184"/>
+<area shape="rect" id="node7" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="413,107,496,133"/>
+<area shape="rect" id="node6" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="792,150,944,191"/>
+<area shape="rect" id="node13" href="$group__vector__concept.html#gabe2c712db37a45754da01eb7ceb3f8be" title="size() " alt="" coords="411,535,499,561"/>
+<area shape="rect" id="node14" href="$struct_drake_1_1internal_1_1_size_dispatch.html#aea06aba4744fb839844167104aa3ff9e" title="Drake::internal::SizeDispatch\l::eval" alt="" coords="553,527,744,569"/>
+<area shape="rect" id="node17" href="$drake_geometry_util_8h.html#a0dcd96faa05315270ac2517a02500f60" title="normalizeVec" alt="" coords="404,309,505,336"/>
+<area shape="rect" id="node18" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="607,208,691,235"/>
+<area shape="rect" id="node19" href="$drake_gradient_util_8h.html#a94e7f89e2f4658e85200497129578c17" title="transposeGrad" alt="" coords="595,259,702,285"/>
+<area shape="rect" id="node20" href="$drake_gradient_util_8h.html#a029a2cfc4ee647e40f438eb22fb0b179" title="matGradMultMat" alt="" coords="589,309,708,336"/>
+<area shape="rect" id="node21" href="$drake_geometry_util_8h.html#a34917b65df62e6c5142901e038d62396" title="rotationRepresentationSize" alt="" coords="559,360,738,387"/>
+</map>

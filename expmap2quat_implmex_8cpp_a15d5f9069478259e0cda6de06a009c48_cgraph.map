@@ -1,0 +1,14 @@
+<map id="expmap2quatWithGradient" name="expmap2quatWithGradient">
+<area shape="rect" id="node2" href="$namespace_drake.html#a8ad03d134f41ff68958da87c1a6bb460" title="Initialize a single autodiff matrix given the corresponding value matrix. " alt="" coords="254,19,410,46"/>
+<area shape="rect" id="node3" href="$namespacedrake_1_1math.html#a4bc8c0d47e42141e066c524543c5dd92" title="drake::math::expmap2quat" alt="" coords="243,70,421,97"/>
+<area shape="rect" id="node10" href="$namespacedrake_1_1math.html#a2131d12e81399c3201b29118d59adc87" title="drake::math::autoDiffToValue\lMatrix" alt="" coords="237,121,427,163"/>
+<area shape="rect" id="node11" href="$namespacedrake_1_1math.html#af00cd34bea44b187b01da164d5207ae3" title="drake::math::autoDiffToGradient\lMatrix" alt="" coords="229,187,435,228"/>
+<area shape="rect" id="node4" href="$namespacedrake_1_1math_1_1internal.html#a01dad140d10cda5a14ee7a51a532081c" title="drake::math::internal\l::expmap2quatDegenerate" alt="" coords="494,5,669,47"/>
+<area shape="rect" id="node5" href="$namespacedrake_1_1math_1_1internal.html#af04b4d15cac27d0880fe4ca074efe050" title="drake::math::internal\l::expmap2quatNonDegenerate" alt="" coords="483,71,680,112"/>
+<area shape="rect" id="node6" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="781,27,865,54"/>
+<area shape="rect" id="node8" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="782,78,865,105"/>
+<area shape="rect" id="node9" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="784,129,863,155"/>
+<area shape="rect" id="node7" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="967,71,1119,112"/>
+<area shape="rect" id="node12" href="$group__vector__concept.html#gabe2c712db37a45754da01eb7ceb3f8be" title="size() " alt="" coords="537,194,625,221"/>
+<area shape="rect" id="node13" href="$struct_drake_1_1internal_1_1_size_dispatch.html#aea06aba4744fb839844167104aa3ff9e" title="Drake::internal::SizeDispatch\l::eval" alt="" coords="728,187,919,228"/>
+</map>

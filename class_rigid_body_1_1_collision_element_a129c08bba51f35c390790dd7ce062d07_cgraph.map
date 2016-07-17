@@ -1,0 +1,6 @@
+<map id="~CollisionElement" name="~CollisionElement">
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_element.html#a6c717aacfd45cb9f2c235788eadd9db6" title="DrakeCollision::Element\l::clone" alt="" coords="180,5,341,47"/>
+<area shape="rect" id="node4" href="$class_drake_collision_1_1_element.html#ab2e56b37e291aca210708d15171fd630" title="Returns true if this element should be checked for collisions with the other object. " alt="" coords="180,71,341,112"/>
+<area shape="rect" id="node3" href="$class_drake_collision_1_1_element.html#a82f6e1ddea08d4963e955607b262d4e2" title="DrakeCollision::Element\l::Element" alt="" coords="397,5,558,47"/>
+<area shape="rect" id="node5" href="$namespace_drake_collision.html#acdf2797372e685a58cc51072edfdf5a6" title="DrakeCollision::operator\&lt;\&lt;" alt="" coords="389,78,565,105"/>
+</map>

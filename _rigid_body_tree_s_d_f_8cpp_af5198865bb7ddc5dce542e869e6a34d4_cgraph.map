@@ -1,0 +1,17 @@
+<map id="parseSDFCollision" name="parseSDFCollision">
+<area shape="rect" id="node2" href="$xml_util_8cpp.html#a28217f3dff8d56054c78adc3456ec87a" title="poseValueToTransform" alt="" coords="197,5,352,32"/>
+<area shape="rect" id="node4" href="$class_rigid_body.html#af8370604529de0f829b8424e1288a104" title="Name of the body. " alt="" coords="214,56,335,83"/>
+<area shape="rect" id="node5" href="$class_drake_collision_1_1_element.html#a65bbc5f796b738f269e6f37eef4473a5" title="Flags this collision element to be static, i.e. " alt="" coords="194,107,355,149"/>
+<area shape="rect" id="node6" href="$_rigid_body_tree_s_d_f_8cpp.html#a52f8508c51ac670c213f0c01ac98fc0c" title="parseSDFGeometry" alt="" coords="206,173,343,200"/>
+<area shape="rect" id="node16" href="$class_rigid_body_tree.html#a220c9feb46f775e418f0932e716eed66" title="RigidBodyTree::addCollision\lElement" alt="" coords="183,225,367,266"/>
+<area shape="rect" id="node3" href="$drake_geometry_util_8h.html#a909df638aadb862da458adb42b6f2304" title="rpy2rotmat" alt="" coords="452,5,536,32"/>
+<area shape="rect" id="node7" href="$xml_util_8cpp.html#ae9d96acb316c2cb79985a7d2aea36582" title="parseVectorValue" alt="" coords="431,56,557,83"/>
+<area shape="rect" id="node8" href="$class_drake_shapes_1_1_element.html#aec2093d1fe73741dc0bd19bf28335a72" title="DrakeShapes::Element\l::setGeometry" alt="" coords="416,107,572,149"/>
+<area shape="rect" id="node11" href="$xml_util_8h.html#a862f5c5ab017eba1d3a803da23bea7fd" title="parseScalarValue" alt="" coords="432,173,556,200"/>
+<area shape="rect" id="node12" href="$xml_util_8cpp.html#a49395735f1df374269e70f3a09a8b2ed" title="parseStringValue" alt="" coords="433,224,555,251"/>
+<area shape="rect" id="node13" href="$xml_util_8cpp.html#a68ca6467d59c8d504e7839b7045d57d5" title="resolveFilename" alt="" coords="437,275,551,301"/>
+<area shape="rect" id="node14" href="$xml_util_8cpp.html#a79693f0b1ef48d90a0c32d5a768f5073" title="Parses a three vector value from parameter strval. " alt="" coords="415,325,573,352"/>
+<area shape="rect" id="node9" href="$class_drake_shapes_1_1_geometry.html#adb2c413c33c5ff7f311639db01a32a69" title="DrakeShapes::Geometry\l::clone" alt="" coords="621,107,787,149"/>
+<area shape="rect" id="node10" href="$class_drake_shapes_1_1_geometry.html#addb32f0091124e3b461bec6677b2e17b" title="DrakeShapes::Geometry\l::Geometry" alt="" coords="835,107,1000,149"/>
+<area shape="rect" id="node15" href="$xml_util_8cpp.html#a2d342ff61301a136b3ba5f1db0bf0424" title="Converts a string to a double value. " alt="" coords="649,325,759,352"/>
+</map>

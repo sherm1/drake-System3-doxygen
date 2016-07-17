@@ -1,0 +1,4 @@
+<map id="get_mutable_value" name="get_mutable_value">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_cache_entry.html#af9fff9d65697ce472a17c99a070c3628" title="Return a mutable pointer to the AbstractValue contained in this cache entry, regardless of whether it..." alt="" coords="194,5,341,47"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_abstract_value.html#a427cf5a05f32818c30963b2c760f4808" title="Returns the value wrapped in this AbstractValue, which must be of exactly type T. ..." alt="" coords="183,71,352,112"/>
+</map>

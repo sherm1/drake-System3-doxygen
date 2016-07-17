@@ -1,0 +1,8 @@
+<map id="drake/systems/robotInterfaces/BodyMotionData.h" name="drake/systems/robotInterfaces/BodyMotionData.h">
+<area shape="rect" id="node5" href="$_piecewise_polynomial_8h.html" title="drake/systems/trajectories\l/PiecewisePolynomial.h" alt="" coords="312,95,488,136"/>
+<area shape="rect" id="node6" href="$_piecewise_polynomial_base_8h.html" title="drake/systems/trajectories\l/PiecewisePolynomialBase.h" alt="" coords="139,184,330,225"/>
+<area shape="rect" id="node10" href="$_polynomial_8h.html" title="drake/util/Polynomial.h" alt="" coords="887,191,1041,218"/>
+<area shape="rect" id="node7" href="$_piecewise_function_8h.html" title="PiecewiseFunction.h" alt="" coords="187,281,330,307"/>
+<area shape="rect" id="node17" href="$core_2_gradient_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="1480,281,1627,307"/>
+<area shape="rect" id="node20" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="1481,363,1625,404"/>
+</map>

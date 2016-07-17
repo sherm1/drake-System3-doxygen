@@ -1,0 +1,5 @@
+<map id="mexFunction" name="mexFunction">
+<area shape="rect" id="node2" href="$drake_mex_util_8cpp.html#aa711ef3046dbfc38f54f769417041117" title="getDrakeMexPointer" alt="" coords="185,5,325,32"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8cpp.html#af003ced56a50849150021ef0ac7f2885" title="mxGetPropertySafe" alt="" coords="187,80,323,107"/>
+<area shape="rect" id="node4" href="$class_q_p_locomotion_plan.html#ae526af16e9c7c5cb703ece0cc6c88031" title="QPLocomotionPlan::setDuration" alt="" coords="151,131,359,157"/>
+</map>

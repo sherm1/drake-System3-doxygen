@@ -1,0 +1,5 @@
+<map id="encodePolynomial" name="encodePolynomial">
+<area shape="rect" id="node2" href="$drake_util_8h.html#a446641c6fd4dd7ec952d8d484cf582a2" title="eigenVectorToStdVector" alt="" coords="219,5,381,32"/>
+<area shape="rect" id="node3" href="$class_polynomial.html#aeb731f53eb738041d601b31af0420dab" title="Polynomial::getCoefficients" alt="" coords="211,56,389,83"/>
+<area shape="rect" id="node4" href="$class_polynomial.html#aff581e43b827443c31650278c002c0c1" title="Returns the number of unique Monomials (and thus the number of coefficients) in this Polynomial..." alt="" coords="181,107,419,133"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="CollidesWith" name="CollidesWith">
+<area shape="rect" id="node2" href="$class_rigid_body_1_1_collision_element.html#a6d53712d8ca51183ad3d0813c21e6374" title="Returns true if this element should be checked for collisions with the other object. " alt="" coords="148,5,335,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AddSubsystem" name="AddSubsystem">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_system_diagram.html#aa53e695d5713ab8fb0c79de7e4286d30" title="Connect the given output port into the given input port. " alt="" coords="189,5,259,32"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_system_diagram.html#ad69293176b1c499c00bd56f650401d40" title="The given subsystem InputPort becomes the next InputPort of this SystemDiagram. " alt="" coords="169,56,279,83"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_system_diagram.html#aa6c5a544b7f73b7a66010753edcc3a33" title="The given subsystem OutputPort becomes the next OutputPort of this SystemDiagram. ..." alt="" coords="164,107,284,133"/>
+</map>

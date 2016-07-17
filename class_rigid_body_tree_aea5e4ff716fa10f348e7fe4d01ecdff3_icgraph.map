@@ -1,0 +1,7 @@
+<map id="updateStaticCollisionElements" name="updateStaticCollisionElements">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#ad0b6341290f77124117afd48343ef2ef" title="compile" alt="" coords="252,56,319,83"/>
+<area shape="rect" id="node3" href="$_instantaneous_q_p_controller_8h.html#af1f271ec76485fb6c434b7409e881089" title="applyURDFModifications" alt="" coords="367,31,531,57"/>
+<area shape="rect" id="node6" href="$construct_modelmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="400,81,497,108"/>
+<area shape="rect" id="node4" href="$construct_q_p_data_pointer_mex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="612,5,709,32"/>
+<area shape="rect" id="node5" href="$_instantaneous_q_p_controller_8h.html#a7221c4a075805997e61cda28c0e2996d" title="applyURDFModifications" alt="" coords="579,56,743,83"/>
+</map>

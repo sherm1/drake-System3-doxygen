@@ -1,0 +1,6 @@
+<map id="ptToPolyBullet" name="ptToPolyBullet">
+<area shape="rect" id="node2" href="$shift_funnel__snopt__mex_8cpp.html#ae80338b37f2f11b318a29194db3ea4eb" title="penetrationCost" alt="" coords="160,5,273,32"/>
+<area shape="rect" id="node3" href="$shift_funnel__snopt__mex_8cpp.html#a048c212f3d91e5c7ea2a04a3ff6e8d66" title="snopt_userfun" alt="" coords="321,5,424,32"/>
+<area shape="rect" id="node4" href="$shift_funnel__snopt__mex_8cpp.html#a650dc341fce53282356ee5e2d69f1333" title="shiftFunnel" alt="" coords="472,5,557,32"/>
+<area shape="rect" id="node5" href="$shift_funnel__snopt__mex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="605,5,703,32"/>
+</map>

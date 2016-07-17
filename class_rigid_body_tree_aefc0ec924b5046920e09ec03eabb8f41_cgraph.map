@@ -1,0 +1,7 @@
+<map id="resolveCenterOfPressure" name="resolveCenterOfPressure">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a2143f26bf2af3dee7bc681557c5afaba" title="relativeTransform" alt="" coords="242,5,361,32"/>
+<area shape="rect" id="node3" href="$drake_geometry_util_8h.html#afd895f5eb68f330637ec6583297d430d" title="transformSpatialForce" alt="" coords="227,56,376,83"/>
+<area shape="rect" id="node4" href="$drake_util_8cpp.html#ac2ef00f5bd7e364651a1490dcfc6d3d0" title="resolveCenterOfPressure" alt="" coords="219,131,384,157"/>
+<area shape="rect" id="node5" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="432,131,515,157"/>
+<area shape="rect" id="node6" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="563,123,715,165"/>
+</map>

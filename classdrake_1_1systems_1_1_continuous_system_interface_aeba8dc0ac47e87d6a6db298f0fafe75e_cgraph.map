@@ -1,0 +1,5 @@
+<map id="~ContinuousSystemInterface" name="~ContinuousSystemInterface">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_continuous_system_interface.html#ad1851f4abb3853cb723e1442ed58955f" title="Returns a ContinuousState of the same size as the continuous_state allocated in CreateDefaultContext..." alt="" coords="255,5,413,32"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_continuous_system_interface.html#ac3ee6138ed55a9104d03a06cf4c941db" title="Produces the derivatives of the continuous state xc with respect to time. " alt="" coords="267,56,401,83"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_continuous_system_interface.html#a5c5b7dd93906c93b5e17582eb319ce5f" title="Transforms the velocity (v) in the given Context state to the derivative of the configuration (qdot)..." alt="" coords="243,107,425,149"/>
+</map>

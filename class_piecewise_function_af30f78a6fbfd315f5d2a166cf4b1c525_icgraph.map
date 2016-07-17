@@ -1,0 +1,24 @@
+<map id="segmentNumberRangeCheck" name="segmentNumberRangeCheck">
+<area shape="rect" id="node2" href="$class_body_motion_data.html#ab64f2fec934a13fe185635b8a1dc7cf6" title="BodyMotionData::isToeOff\lAllowed" alt="" coords="269,71,443,112"/>
+<area shape="rect" id="node4" href="$class_body_motion_data.html#a0f0e824fc91c94853a8184492f4ee34f" title="BodyMotionData::isInFloating\lBaseNullSpace" alt="" coords="260,136,452,177"/>
+<area shape="rect" id="node5" href="$class_body_motion_data.html#a1b0b3889d608bc7ffb43d84c621a9bfc" title="BodyMotionData::isPoseControlled\lWhenInContact" alt="" coords="244,201,468,243"/>
+<area shape="rect" id="node6" href="$class_piecewise_function.html#aba49a84861c05fb956e8cdbaadb0fc47" title="getStartTime" alt="" coords="308,335,404,362"/>
+<area shape="rect" id="node16" href="$class_piecewise_function.html#ab9da73d633201867cf931680828f6afd" title="getEndTime" alt="" coords="311,525,401,551"/>
+<area shape="rect" id="node20" href="$class_piecewise_polynomial.html#ae43b7521ee9412d8a89d1214c3a82f13" title="PiecewisePolynomial\l::getPolynomial" alt="" coords="787,305,932,347"/>
+<area shape="rect" id="node21" href="$class_piecewise_polynomial.html#abf309ea9d32f27a13ea794d42d2de952" title="PiecewisePolynomial\l::getSegmentPolynomialDegree" alt="" coords="253,648,459,689"/>
+<area shape="rect" id="node22" href="$class_piecewise_polynomial.html#adb5dde221a7a30bab9d4140a76442592" title="PiecewisePolynomial\l::setPolynomialMatrixBlock" alt="" coords="516,783,697,824"/>
+<area shape="rect" id="node23" href="$class_piecewise_polynomial.html#a44d93f2441eaa752b1b6eb5c55c5a6fa" title="PiecewisePolynomial\l::slice" alt="" coords="283,5,429,47"/>
+<area shape="rect" id="node3" href="$class_q_p_locomotion_plan.html#ab6dcb1484b8d1b7b65574e7b74f2629a" title="QPLocomotionPlan::create\lQPControllerInput" alt="" coords="517,115,696,156"/>
+<area shape="rect" id="node7" href="$n_waypoint_cubic_spline_free_knot_timesmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1070,414,1167,441"/>
+<area shape="rect" id="node8" href="$spline_generation_8h.html#aa5293f5a8e466c41d5a26ebde5547240" title="generateSpline" alt="" coords="553,457,661,483"/>
+<area shape="rect" id="node9" href="$spline_generation_8cpp.html#a6a06a3d3095252653412803f304d589f" title="nWaypointCubicSpline" alt="" coords="783,558,936,585"/>
+<area shape="rect" id="node11" href="$test_spline_generation_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1287,533,1338,559"/>
+<area shape="rect" id="node15" href="$test_exponential_plus_piecewise_polynomial_8cpp.html#a84fc80552428f8160c3815968feda220" title="testSimpleCase" alt="" coords="549,406,664,433"/>
+<area shape="rect" id="node14" href="$class_constraint_matrix_singular_error.html#a17b1d4b27b51ed8036bc96e6db7c5145" title="ConstraintMatrixSingular\lError::ConstraintMatrixSingularError" alt="" coords="745,441,973,483"/>
+<area shape="rect" id="node10" href="$test_spline_generation_8cpp.html#aa63b5d289cc80814c58ec8310ed7549f" title="randomSpeedTest" alt="" coords="1055,507,1182,534"/>
+<area shape="rect" id="node12" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="1021,659,1216,686"/>
+<area shape="rect" id="node13" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1264,659,1361,686"/>
+<area shape="rect" id="node17" href="$zmp_util_8cpp.html#ac431b61044eb2bd705b7d164ba93861c" title="s1Trajectory" alt="" coords="560,710,653,737"/>
+<area shape="rect" id="node18" href="$compute_s1_trajmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="811,761,908,787"/>
+<area shape="rect" id="node19" href="$_q_p_locomotion_plan_8cpp.html#a6b3008cbf69cc7b1e3a38d580fe615f5" title="firstOrderHold" alt="" coords="809,710,910,737"/>
+</map>

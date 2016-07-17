@@ -1,0 +1,4 @@
+<map id="getShape" name="getShape">
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_bullet_model.html#a7baa2fa8e78e823d6a37f42e0f311138" title="Computes the set of potential collision points for all eligible pairs of collision geometries in this..." alt="" coords="169,5,351,47"/>
+<area shape="rect" id="node3" href="$class_drake_collision_1_1_bullet_model.html#a65107b2cf0dca012fd488e64fed49af4" title="Computes the point of closest approach between collision elements that are in contact. " alt="" coords="131,71,389,112"/>
+</map>

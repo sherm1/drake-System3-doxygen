@@ -1,0 +1,4 @@
+<map id="IK_cost_fun" name="IK_cost_fun">
+<area shape="rect" id="node2" href="$namespace_drake_1_1systems_1_1plants.html#aeb62fba51720284ff583cc5d92aed0f2" title="snoptIKfun" alt="" coords="144,5,227,32"/>
+<area shape="rect" id="node3" href="$namespace_drake_1_1systems_1_1plants.html#a874a3cb2c0bd165858628d1aed36e829" title="snoptIKtraj_fevalfun" alt="" coords="275,5,408,32"/>
+</map>

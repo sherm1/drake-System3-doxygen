@@ -1,0 +1,8 @@
+<map id="getDrakeMexPointer" name="getDrakeMexPointer">
+<area shape="rect" id="node2" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="227,5,325,32"/>
+<area shape="rect" id="node3" href="$rigid_body_tree_mex_conversions_8h.html#af86d1ccbecdcb347d6960857d08ffe2b" title="fromMexUnsafe" alt="" coords="220,56,332,83"/>
+<area shape="rect" id="node7" href="$drake_mex_util_8h.html#a31228ddb8321eb9ff94e4d318dc8bb36" title="destroyDrakeMexPointer" alt="" coords="193,107,359,133"/>
+<area shape="rect" id="node4" href="$mexify_8h.html#acc5d3d017ff33e04a1a4ed87aa854db4" title="mexCallFunctionUnsafe" alt="" coords="407,31,565,57"/>
+<area shape="rect" id="node5" href="$mexify_8h.html#a16cae84b6c60b2550e6af9286a5bb642" title="fromMex For if you only want to convert a single argument. " alt="" coords="450,81,522,108"/>
+<area shape="rect" id="node6" href="$all_collisionsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="613,81,711,108"/>
+</map>

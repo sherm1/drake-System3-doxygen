@@ -1,0 +1,9 @@
+<map id="angularvel2quatdotMatrix" name="angularvel2quatdotMatrix">
+<area shape="rect" id="node2" href="$class_quaternion_floating_joint.html#af82578235dbef5ecc50e322ba6277c3d" title="QuaternionFloatingJoint\l::v2qdot" alt="" coords="248,5,407,47"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#a7471fedf59ca6818dc7665f6b4d2d23d" title="RigidBodyTree::relativeQuaternion\lJacobian" alt="" coords="219,71,436,112"/>
+<area shape="rect" id="node4" href="$class_rigid_body_tree.html#a03c30ef4c083a5a6efde7a5f37d6c450" title="RigidBodyTree::relativeQuaternion\lJacobianDotTimesV" alt="" coords="219,136,436,177"/>
+<area shape="rect" id="node6" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="230,202,425,229"/>
+<area shape="rect" id="node8" href="$test_geometry_conversion_functionsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="279,253,376,279"/>
+<area shape="rect" id="node5" href="$rigid_body_tree_mex_functions_8cpp.html#a57f89ce171698f9e87d529e265a9b070" title="forwardJacDotTimesVTemp" alt="" coords="484,143,663,170"/>
+<area shape="rect" id="node7" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="525,202,622,229"/>
+</map>

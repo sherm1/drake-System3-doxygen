@@ -1,0 +1,12 @@
+<map id="drake/systems/controllers/LQR.h" name="drake/systems/controllers/LQR.h">
+<area shape="rect" id="node2" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="257,408,401,449"/>
+<area shape="rect" id="node5" href="$_function_8h.html" title="drake/core/Function.h" alt="" coords="435,251,583,278"/>
+<area shape="rect" id="node13" href="$core_2_gradient_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="288,333,371,360"/>
+<area shape="rect" id="node16" href="$_vector_8h.html" title="drake/core/Vector.h" alt="" coords="608,251,744,278"/>
+<area shape="rect" id="node17" href="$autodiff_8h.html" title="Utilities for arithmetic on AutoDiffScalar. " alt="" coords="1918,251,2061,278"/>
+<area shape="rect" id="node20" href="$_linear_system_8h.html" title="drake/systems/LinearSystem.h" alt="" coords="137,95,340,121"/>
+<area shape="rect" id="node22" href="$drake_gradient_util_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="1519,244,1679,285"/>
+<area shape="rect" id="node24" href="$drake_util_8h.html" title="drake/util/drakeUtil.h" alt="" coords="951,251,1092,278"/>
+<area shape="rect" id="node19" href="$math_2_gradient_8h.html" title="drake/math/gradient.h" alt="" coords="1787,333,1935,360"/>
+<area shape="rect" id="node21" href="$_system_8h.html" title="drake/systems/System.h" alt="" coords="155,169,323,196"/>
+</map>

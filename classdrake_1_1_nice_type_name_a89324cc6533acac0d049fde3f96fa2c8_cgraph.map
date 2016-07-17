@@ -1,0 +1,4 @@
+<map id="Get" name="Get">
+<area shape="rect" id="node2" href="$classdrake_1_1_nice_type_name.html#ae348464d50b024fade3c46e95cd7e945" title="Given a compiler&#45;dependent demangled type name string as returned by Demangle(), attempts to form a c..." alt="" coords="96,5,192,32"/>
+<area shape="rect" id="node3" href="$classdrake_1_1_nice_type_name.html#a13ea97365819d400642d83eef2aa0956" title="Using the algorithm appropriate to the current compiler, demangles a type name as returned by typeid(..." alt="" coords="104,56,184,83"/>
+</map>

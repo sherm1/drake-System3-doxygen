@@ -1,0 +1,4 @@
+<map id="getZeroConfiguration" name="getZeroConfiguration">
+<area shape="rect" id="node2" href="$class_drake_joint.html#a350be3d17b88146433c6b963f96528aa" title="DrakeJoint::getNumPositions" alt="" coords="193,5,384,32"/>
+<area shape="rect" id="node3" href="$class_drake_joint.html#ae852676bf8ee37ce1cedd47dbbc3fbc9" title="DrakeJoint::zeroConfiguration" alt="" coords="193,56,384,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="getZeroConfiguration" name="getZeroConfiguration">
+<area shape="rect" id="node2" href="$approximate_i_k_e_i_q_pmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="Use Frank&#39;s fastQP code (mexed) [q, info] = approximateIKEIQPmex(objgetMexModelPtr, q0, q_nom, Q, varargin) info = 0 on success, 1 on failure. " alt="" coords="231,5,328,32"/>
+<area shape="rect" id="node3" href="$class_all_bodies_closest_distance_constraint.html#a302d353202ad6a2122f16ac152ffa8f3" title="AllBodiesClosestDistance\lConstraint::updateRobot" alt="" coords="193,57,365,98"/>
+<area shape="rect" id="node6" href="$test_approximate_i_k_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="254,123,305,149"/>
+<area shape="rect" id="node7" href="$test_i_k_8cpp.html#ac6833d850124eab6e5d3bbde6b25e1d0" title="GTEST_TEST" alt="" coords="228,173,331,200"/>
+<area shape="rect" id="node4" href="$class_all_bodies_closest_distance_constraint.html#ada730417b9c91b62e57ff86cb88af711" title="AllBodiesClosestDistance\lConstraint::AllBodiesClosest\lDistanceConstraint" alt="" coords="413,17,601,73"/>
+<area shape="rect" id="node5" href="$update_ptr_rigid_body_constraintmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="459,97,556,124"/>
+</map>

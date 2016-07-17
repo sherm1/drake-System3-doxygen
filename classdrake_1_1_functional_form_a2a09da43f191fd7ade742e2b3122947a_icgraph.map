@@ -1,0 +1,101 @@
+<map id="FunctionalForm" name="FunctionalForm">
+<area shape="rect" id="node2" href="$classdrake_1_1_functional_form.html#a95751d4f2eb64d6fa18f680f3b260350" title="Construct a constant, zero (0), or undefined (NaN) form with no variables. " alt="" coords="168,5,280,32"/>
+<area shape="rect" id="node3" href="$classdrake_1_1_functional_form.html#ac21f1f2ae4997204ea793826ff88676d" title="Return a zero form with no variables. " alt="" coords="201,56,247,83"/>
+<area shape="rect" id="node4" href="$classdrake_1_1_functional_form.html#a09ac6f311426eb9275a55d4403350af1" title="Return a constant form with no variables. " alt="" coords="187,107,261,133"/>
+<area shape="rect" id="node5" href="$classdrake_1_1_functional_form.html#ad97903a8031fcca91751c1452e1841d0" title="Return a linear form of one or more variables. " alt="" coords="195,157,253,184"/>
+<area shape="rect" id="node6" href="$classdrake_1_1_functional_form.html#a159113590bf7a4946b021ba0db90e9ff" title="Return an affine form of one or more variables. " alt="" coords="197,208,251,235"/>
+<area shape="rect" id="node7" href="$classdrake_1_1_functional_form.html#aa7f7cdf9341d866cc82641eda5c602c7" title="Return a polynomial form of one or more variables. " alt="" coords="181,259,267,285"/>
+<area shape="rect" id="node8" href="$classdrake_1_1_functional_form.html#a404c5e772d8ea206f2c719a39373e0a9" title="Return a differentiable form of one or more variables. " alt="" coords="176,309,272,336"/>
+<area shape="rect" id="node9" href="$classdrake_1_1_functional_form.html#a86739c9d9dd2023bb6e2dd75f3187e2d" title="Return an arbitrary form of one or more variables. " alt="" coords="189,360,259,387"/>
+<area shape="rect" id="node10" href="$classdrake_1_1_functional_form.html#adc0d848b116867f192b83816eedf2f80" title="Return an undefined form of zero or more variables. " alt="" coords="185,411,263,437"/>
+<area shape="rect" id="node11" href="$namespacedrake.html#a434f1d8ba597332ea390bb41a7ca8655" title="drake::operator+" alt="" coords="165,461,283,488"/>
+<area shape="rect" id="node14" href="$namespacedrake.html#a6cfec7012702e20a7914ce511988e193" title="drake::operator&#45;" alt="" coords="167,512,281,539"/>
+<area shape="rect" id="node15" href="$namespacedrake.html#ac19cbd7c044baefe53f34df613ac8f2b" title="drake::operator*" alt="" coords="167,563,281,589"/>
+<area shape="rect" id="node16" href="$namespacedrake.html#acc443029199e68615c9a4c9efee4deb5" title="drake::operator/" alt="" coords="167,613,281,640"/>
+<area shape="rect" id="node17" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="183,2856,265,2883"/>
+<area shape="rect" id="node52" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="183,1068,265,1095"/>
+<area shape="rect" id="node76" href="$namespacedrake.html#a4d9daa23e20328990764f5908fe26e59" title="drake::exp" alt="" coords="183,3419,265,3445"/>
+<area shape="rect" id="node81" href="$namespacedrake.html#a14c7ce755264f6496670d37d7e1a50fb" title="drake::log" alt="" coords="185,3688,263,3715"/>
+<area shape="rect" id="node88" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="185,824,263,851"/>
+<area shape="rect" id="node90" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="182,1981,266,2008"/>
+<area shape="rect" id="node12" href="$class_piecewise_polynomial.html#aa2029da7376950a8d26b6464fe9b63a6" title="PiecewisePolynomial\l\&lt; double \&gt;::PiecewisePolynomial" alt="" coords="337,323,551,365"/>
+<area shape="rect" id="node13" href="$class_polynomial.html#aa8d75e233c2cdc6e09deaa44ebb129c4" title="Specialization of evaluateMultivariate on TaylorVarXd. " alt="" coords="351,258,537,299"/>
+<area shape="rect" id="node18" href="$namespacedrake_1_1math.html#a0d6538743074d86b4dc68c7d0455b680" title="Q = Slerp(q1, q2, f) Spherical linear interpolation between two quaternions This function uses the im..." alt="" coords="379,1829,509,1856"/>
+<area shape="rect" id="node20" href="$_q_p_8cpp.html#a859edbd09d163647ff495b50558d8741" title="myGRBaddconstrs" alt="" coords="378,2881,510,2908"/>
+<area shape="rect" id="node23" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="906,2605,1083,2646"/>
+<area shape="rect" id="node26" href="$approximate_i_k_8cpp.html#ae968e8c2ca448027fb2508168368e086" title="approximateIK" alt="" coords="391,3187,497,3213"/>
+<area shape="rect" id="node29" href="$construct_ptr_rigid_body_constraintmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="395,3237,493,3264"/>
+<area shape="rect" id="node30" href="$class_fixed_axis_one_do_f_joint.html#a4f66cae0f282cdf6744d697ac568df19" title="FixedAxisOneDoFJoint\l\&lt; RevoluteJoint \&gt;::friction\lTorque" alt="" coords="360,3288,528,3344"/>
+<area shape="rect" id="node31" href="$class_prismatic_joint.html#a81b962270f1bbc42a2afb32a9e6673bb" title="PrismaticJoint::Prismatic\lJoint" alt="" coords="361,2629,527,2670"/>
+<area shape="rect" id="node32" href="$class_revolute_joint.html#a6198bde9de6d68bf8825f348e8f74d07" title="RevoluteJoint::RevoluteJoint" alt="" coords="353,2780,535,2807"/>
+<area shape="rect" id="node33" href="$class_piecewise_function.html#aa0e6a330c9017bd82330bd6023346953" title="PiecewiseFunction::\lsegmentTimesEqual" alt="" coords="374,2694,514,2735"/>
+<area shape="rect" id="node38" href="$drake_util_8h.html#a769f238d6c122f76a1b1e508966a22c2" title="resolveCenterOfPressure" alt="" coords="361,2492,527,2519"/>
+<area shape="rect" id="node44" href="$drake_util_8h.html#aa184ae4324e261da884325e0bb865219" title="care" alt="" coords="421,2831,467,2857"/>
+<area shape="rect" id="node46" href="$namespacedrake_1_1util.html#a6bdafd0f065d4f25b011da965def2b25" title="Compares two matrices to determine whether they are equal to within a certain threshold. " alt="" coords="349,2995,539,3021"/>
+<area shape="rect" id="node51" href="$test_util_8h.html#a574928420ddbfe9fa258f30b6615031c" title="valuecheck" alt="" coords="401,3045,487,3072"/>
+<area shape="rect" id="node19" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="623,1829,818,1856"/>
+<area shape="rect" id="node21" href="$_q_p_8cpp.html#a77e3fc394074e835140e22a5bd23af4b" title="gurobiQP" alt="" coords="683,2907,759,2933"/>
+<area shape="rect" id="node22" href="$_q_p_8cpp.html#a232151cd8f3755c63c637aaceadc7156" title="gurobiActiveSetQP" alt="" coords="655,2856,786,2883"/>
+<area shape="rect" id="node24" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="1153,2575,1339,2617"/>
+<area shape="rect" id="node25" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1197,2641,1295,2668"/>
+<area shape="rect" id="node27" href="$approximate_i_kmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,3277,769,3304"/>
+<area shape="rect" id="node28" href="$test_approximate_i_k_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="695,3227,746,3253"/>
+<area shape="rect" id="node34" href="$class_piecewise_polynomial.html#a5fd8f925144c7ba34c2406f62954d94a" title="PiecewisePolynomial\l::operator+=" alt="" coords="648,2609,793,2650"/>
+<area shape="rect" id="node35" href="$class_piecewise_polynomial.html#a3795cfe0cd51e9891d27cdb0bf2f55b6" title="PiecewisePolynomial\l::operator&#45;=" alt="" coords="648,2674,793,2715"/>
+<area shape="rect" id="node36" href="$class_piecewise_polynomial.html#a868dde62a655f092ef3d2233aa6687ef" title="PiecewisePolynomial\l::operator*=" alt="" coords="648,2739,793,2781"/>
+<area shape="rect" id="node37" href="$class_piecewise_polynomial.html#a3ad14253af58f6ba918728486794d0d5" title="Checks if a PiecewisePolynomial is approximately equal to this one. " alt="" coords="648,2543,793,2585"/>
+<area shape="rect" id="node39" href="$control_util_8cpp.html#a8f0c65265834a8f9fbbfb6ba24b35b94" title="individualSupportCOPs" alt="" coords="643,2492,798,2519"/>
+<area shape="rect" id="node40" href="$class_rigid_body_tree.html#aefc0ec924b5046920e09ec03eabb8f41" title="Computes CoP in world frame. " alt="" coords="625,2375,817,2417"/>
+<area shape="rect" id="node41" href="$class_rigid_body_tree.html#aec993b61122226f0532d1a894f4f93ea" title="Returns an integer that will be used as a unique ID for the next model to be added within the rigid b..." alt="" coords="655,2310,787,2351"/>
+<area shape="rect" id="node42" href="$drake_util_8h.html#a37c3a1858bffc163db73598b446cb407" title="addOffset" alt="" coords="682,2120,759,2147"/>
+<area shape="rect" id="node43" href="$resolve_center_of_pressuremex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,2441,769,2468"/>
+<area shape="rect" id="node45" href="$drake_util_8h.html#af230f84bf36a9adb1723a2b7cb22f802" title="lqr" alt="" coords="701,2805,740,2832"/>
+<area shape="rect" id="node47" href="$_instantaneous_q_p_controller_8cpp.html#a018485383255696d37e61dcf44076d0e" title="checkCentroidalMomentumMatches\lTotalWrench" alt="" coords="605,2958,836,2999"/>
+<area shape="rect" id="node48" href="$namespacedrake_1_1systems.html#aca56fc648c42bb2cea76a841904e1ef0" title="drake::systems::TEST_F" alt="" coords="637,3075,804,3101"/>
+<area shape="rect" id="node49" href="$compare_parsersmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,3125,769,3152"/>
+<area shape="rect" id="node50" href="$test_i_k_8cpp.html#ac6833d850124eab6e5d3bbde6b25e1d0" title="GTEST_TEST" alt="" coords="669,3024,772,3051"/>
+<area shape="rect" id="node53" href="$namespacedrake_1_1math.html#a593885e505c3cb0a4c67a016c3d820e1" title="drake::math::axis2quat" alt="" coords="367,643,521,669"/>
+<area shape="rect" id="node54" href="$namespacedrake_1_1math.html#a0fc6e2cf32c5ee278a40ed9da9052e4a" title="drake::math::axis2rotmat" alt="" coords="361,693,527,720"/>
+<area shape="rect" id="node55" href="$namespacedrake_1_1math_1_1internal.html#a9b6439d3ad449e77276e7781ccde5d2d" title="Returns a 3D rotation matrix by theta about the z axis. " alt="" coords="373,1195,515,1237"/>
+<area shape="rect" id="node56" href="$namespacedrake_1_1math.html#a105f79b722b1c15d663b0885c542ebfd" title="drake::math::cylindrical2cartesian" alt="" coords="612,1173,829,1200"/>
+<area shape="rect" id="node58" href="$namespacedrake_1_1math_1_1internal.html#af04b4d15cac27d0880fe4ca074efe050" title="drake::math::internal\l::expmap2quatNonDegenerate" alt="" coords="345,1611,543,1653"/>
+<area shape="rect" id="node59" href="$control_util_8cpp.html#a4184a55e2eea8d76007f2e83d7440bf2" title="surfaceTangents" alt="" coords="385,1931,503,1957"/>
+<area shape="rect" id="node61" href="$class_quat_constraint.html#a7d9d8450de20e7e9e4f9cc6d4f5d3a09" title="QuatConstraint::bounds" alt="" coords="365,1560,523,1587"/>
+<area shape="rect" id="node62" href="$class_gaze_orient_constraint.html#a7d9d8450de20e7e9e4f9cc6d4f5d3a09" title="GazeOrientConstraint\l::bounds" alt="" coords="371,1363,517,1405"/>
+<area shape="rect" id="node63" href="$class_gaze_dir_constraint.html#a7d9d8450de20e7e9e4f9cc6d4f5d3a09" title="GazeDirConstraint::\lbounds" alt="" coords="376,1429,512,1470"/>
+<area shape="rect" id="node64" href="$class_gaze_target_constraint.html#a7d9d8450de20e7e9e4f9cc6d4f5d3a09" title="GazeTargetConstraint\l::bounds" alt="" coords="370,1494,518,1535"/>
+<area shape="rect" id="node65" href="$class_roll_pitch_yaw_floating_joint.html#a071ee3ed5154a8b4a9ce24dd9e7cd807" title="RollPitchYawFloatingJoint\l::motionSubspace" alt="" coords="635,483,807,525"/>
+<area shape="rect" id="node66" href="$class_roll_pitch_yaw_floating_joint.html#a30e5e6c9f8fb18baf7653b169397dc6b" title="RollPitchYawFloatingJoint\l::motionSubspaceDotTimesV" alt="" coords="349,846,539,887"/>
+<area shape="rect" id="node67" href="$class_drake_1_1_rigid_body_depth_sensor.html#ab3159a89ed3d2fcedf3caabaaaa39f5a" title="Drake::RigidBodyDepthSensor\l::RigidBodyDepthSensor" alt="" coords="345,911,543,953"/>
+<area shape="rect" id="node68" href="$class_drake_1_1_rigid_body_magnetometer.html#ae63c4aa4fc9c4177bed9c238e83776de" title="Drake::RigidBodyMagnetometer\l::setDeclination" alt="" coords="341,977,547,1018"/>
+<area shape="rect" id="node69" href="$_rigid_body_tree_contact_8cpp.html#af140f5f497191929a378f9b346d7d429" title="surfaceTangentsSingle" alt="" coords="367,1312,521,1339"/>
+<area shape="rect" id="node70" href="$footstep_collocation_constraints_mex_8cpp.html#abeb34cbbf072c9001ecc53d2a97a9d54" title="constraints" alt="" coords="401,1043,487,1069"/>
+<area shape="rect" id="node71" href="$drake_geometry_util_8h.html#a5ab694ac4a585b5d64cdd56bd9322de0" title="angularvel2rpydotMatrix" alt="" coords="365,592,523,619"/>
+<area shape="rect" id="node72" href="$drake_geometry_util_8h.html#a5cbf802e82c618223171a6f729087bd3" title="rpydot2angularvelMatrix" alt="" coords="365,491,523,517"/>
+<area shape="rect" id="node73" href="$drake_util_8h.html#a62745df4365eb53716d3bf2641b683ee" title="angleAverage" alt="" coords="395,1261,493,1288"/>
+<area shape="rect" id="node74" href="$class_trig_poly.html#a36de9f8eb60c391abc49fea4def70552" title="Given a value for every variable in this expression, evaluates it. " alt="" coords="349,744,539,771"/>
+<area shape="rect" id="node75" href="$class_trig_poly.html#ae4aea2b9dd04ab0f0e84df9fed362a77" title="Partially evaluates this expression, returning the resulting expression. " alt="" coords="363,795,525,821"/>
+<area shape="rect" id="node57" href="$namespacedrake_1_1math.html#a0d51b40d4730286ec3ec94041f5a916d" title="drake::math::cartesian2cylindrical" alt="" coords="612,1677,829,1704"/>
+<area shape="rect" id="node60" href="$control_util_8cpp.html#af039c04e600e5015c8950cb3d1c1f59c" title="contactConstraintsBV" alt="" coords="646,1981,795,2008"/>
+<area shape="rect" id="node77" href="$_instantaneous_q_p_controller_8cpp.html#aacda395ad4cd96a5ab6f8acffc0c447e" title="logisticSigmoid" alt="" coords="389,3469,499,3496"/>
+<area shape="rect" id="node78" href="$class_min_distance_constraint.html#a6d252ebf2e5920861ec0219332638276" title="MinDistanceConstraint\l::penalty" alt="" coords="367,3521,521,3562"/>
+<area shape="rect" id="node79" href="$smooth_distance_penaltymex_8cpp.html#a1f22cb4a8058f6fc046706674e599c11" title="smoothDistancePenalty" alt="" coords="364,3368,524,3395"/>
+<area shape="rect" id="node80" href="$test_exponential_plus_piecewise_polynomial_8cpp.html#a84fc80552428f8160c3815968feda220" title="testSimpleCase" alt="" coords="387,3419,501,3445"/>
+<area shape="rect" id="node82" href="$rigid_body_tree_mex_conversions_8h.html#ad07897c0466488bb581872c532b84dca" title="isDrakeMexPointerOfCorrectType" alt="" coords="337,3688,551,3715"/>
+<area shape="rect" id="node83" href="$rigid_body_tree_mex_conversions_8h.html#a9748d2fcc2b0165d9c66e23337ce019f" title="fromMex specializations " alt="" coords="645,3663,796,3689"/>
+<area shape="rect" id="node84" href="$mexify_8h.html#a979b505095ec4e3e009da1a94c8d71bd" title="areArgumentsConvertibleFromMex" alt="" coords="884,3624,1105,3651"/>
+<area shape="rect" id="node85" href="$mexify_8h.html#a16cae84b6c60b2550e6af9286a5bb642" title="fromMex For if you only want to convert a single argument. " alt="" coords="959,3707,1031,3733"/>
+<area shape="rect" id="node86" href="$mexify_8h.html#a139df4b19556e4b6306c8ad039bf215f" title="mexCallFunction checks whether arguments are convertible, and then calls mexCallFunctionUnsafe. " alt="" coords="385,3840,503,3867"/>
+<area shape="rect" id="node87" href="$mexify_8h.html#ad9969965efc088150ab358193b92f5d2" title="mexTryToCallFunctions" alt="" coords="641,3815,800,3841"/>
+<area shape="rect" id="node89" href="$namespacedrake_1_1math.html#ab5e83b74909d26efd343aac2ca7d27f8" title="drake::math::rotmat2axis" alt="" coords="361,389,527,416"/>
+<area shape="rect" id="node91" href="$namespacedrake_1_1math.html#abd18e2f0405f7355c3029e724355db6e" title="drake::math::quat2expmap" alt="" coords="355,1880,533,1907"/>
+<area shape="rect" id="node92" href="$namespacedrake_1_1math.html#a8dc1e2b874293db7f713c6710b85216f" title="drake::math::quat2axis" alt="" coords="367,2184,521,2211"/>
+<area shape="rect" id="node93" href="$namespacedrake_1_1math.html#aa95bfab47d1fbb403cd38228193b5b71" title="drake::math::rotmat2quat" alt="" coords="360,1779,528,1805"/>
+<area shape="rect" id="node94" href="$namespacedrake_1_1math.html#aca69a91291b5b5d37efb980da944517c" title="drake::math::rotmat2rpy" alt="" coords="363,1677,525,1704"/>
+<area shape="rect" id="node95" href="$classdrake_1_1solvers_1_1_system_identification.html#a96a5bfd1bf4d5b1ab88016652319d761" title="drake::solvers::SystemIdentification\l::EstimateParameters" alt="" coords="331,2301,557,2342"/>
+<area shape="rect" id="node96" href="$class_drake_1_1_rigid_body_system.html#a859195edacbf5fc46037ff4a2f9f6378" title="dynamics Formulates the forward dynamics of the rigid body system as an optimization find vdot..." alt="" coords="360,2235,528,2277"/>
+<area shape="rect" id="node97" href="$drake_geometry_util_8h.html#a0dcd96faa05315270ac2517a02500f60" title="normalizeVec" alt="" coords="393,2367,495,2393"/>
+<area shape="rect" id="node98" href="$drake_geometry_util_8h.html#a8fbd79738258ef736c818dcb36dd9645" title="drotmat2rpy" alt="" coords="399,2032,489,2059"/>
+<area shape="rect" id="node99" href="$drake_geometry_util_8h.html#a1bb1675bea9de0e6b21f13d751d39878" title="drotmat2quat" alt="" coords="395,2083,493,2109"/>
+<area shape="rect" id="node100" href="$yaml_util_8cpp.html#aa0a407d3652e9a8cc041a39074448183" title="dampingGain" alt="" coords="395,2133,493,2160"/>
+</map>

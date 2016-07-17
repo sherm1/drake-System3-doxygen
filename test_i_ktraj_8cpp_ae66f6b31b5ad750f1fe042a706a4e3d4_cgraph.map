@@ -1,0 +1,19 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a17ae481ffe3d1b726e0c6456c408ca4f" title="RigidBodyTree::getZeroConfiguration" alt="" coords="104,56,336,83"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#aabdcd62794d8bb261b3fa4c836dce46e" title="Initializes a KinematicsCache with the given configuration q, computes the kinematics, and returns the cache. " alt="" coords="123,107,317,133"/>
+<area shape="rect" id="node7" href="$class_rigid_body_tree.html#ac514070fec506f59cf10c5deefb67fca" title="RigidBodyTree::centerOfMass" alt="" coords="123,157,317,184"/>
+<area shape="rect" id="node8" href="$class_rigid_body_tree.html#a3d8dcea6ae0ff6abb3d76e2456e326f5" title="RigidBodyTree::transform\lPoints" alt="" coords="136,209,304,250"/>
+<area shape="rect" id="node9" href="$class_rigid_body_tree.html#a99540fbe8e31b52e296478543431a34c" title="An accessor to the number of velocity states outputted by this rigid body system. ..." alt="" coords="141,274,299,315"/>
+<area shape="rect" id="node10" href="$class_rigid_body_tree.html#a49feb527fdea334223689ad9bd923b7f" title="An accessor to the number of position states outputted by this rigid body system. ..." alt="" coords="631,389,789,430"/>
+<area shape="rect" id="node11" href="$inverse_kin_traj_8cpp.html#a7ef259e007ed5def0df6098a767a7f4e" title="inverseKinTraj" alt="" coords="169,391,271,417"/>
+<area shape="rect" id="node16" href="$class_i_koptions.html#aa5aed6b01a1f5c1fad0461a2dc75cbdb" title="IKoptions::setFixInitial\lState" alt="" coords="145,442,295,483"/>
+<area shape="rect" id="node17" href="$class_i_koptions.html#af423458e605e77fc19ae67db1d12e700" title="IKoptions::setMajorIterations\lLimit" alt="" coords="127,507,313,549"/>
+<area shape="rect" id="node18" href="$class_i_koptions.html#a0f7276a6969b6d9e0c7185a16218e705" title="IKoptions::setAdditionalt\lSamples" alt="" coords="139,573,301,614"/>
+<area shape="rect" id="node3" href="$class_drake_joint.html#a350be3d17b88146433c6b963f96528aa" title="DrakeJoint::getNumPositions" alt="" coords="384,5,575,32"/>
+<area shape="rect" id="node4" href="$class_drake_joint.html#ae852676bf8ee37ce1cedd47dbbc3fbc9" title="DrakeJoint::zeroConfiguration" alt="" coords="384,56,575,83"/>
+<area shape="rect" id="node6" href="$class_kinematics_cache.html#a0f153683b7c86032079d2ff19ea1a58d" title="KinematicsCache::initialize" alt="" coords="390,107,569,133"/>
+<area shape="rect" id="node12" href="$class_i_koptions.html#a3dcebeae549020f7f8cd10a44e948428" title="IKoptions::getFixInitial\lState" alt="" coords="404,391,555,433"/>
+<area shape="rect" id="node13" href="$class_i_koptions.html#a46f66a9862a26e993d7f2f0bb5080f89" title="IKoptions::setqd0" alt="" coords="418,457,541,484"/>
+<area shape="rect" id="node14" href="$namespace_drake_1_1systems_1_1plants.html#a103e285f690887c52df49309cf4a91e5" title="Drake::systems::plants\l::inverseKinBackend" alt="" coords="401,509,558,550"/>
+<area shape="rect" id="node15" href="$namespace_drake_1_1systems_1_1plants.html#aa21f7ee5df0907ccb8126ce37731b7d6" title="Drake::systems::plants\l::inverseKinSnoptBackend" alt="" coords="623,509,797,550"/>
+</map>

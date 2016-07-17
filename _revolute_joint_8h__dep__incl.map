@@ -1,0 +1,9 @@
+<map id="drake/systems/plants/joints/RevoluteJoint.h" name="drake/systems/plants/joints/RevoluteJoint.h">
+<area shape="rect" id="node2" href="$_drake_joints_8h.html" title="drake/systems/plants\l/joints/DrakeJoints.h" alt="" coords="445,95,592,136"/>
+<area shape="rect" id="node8" href="$_revolute_joint_8cpp.html" title="drake/systems/plants\l/joints/RevoluteJoint.cpp" alt="" coords="616,95,779,136"/>
+<area shape="rect" id="node3" href="$construct_modelmex_8cpp.html" title="drake/systems/plants\l/constructModelmex.cpp" alt="" coords="5,184,171,225"/>
+<area shape="rect" id="node4" href="$test_drake_jointsmex_8cpp.html" title="drake/systems/plants\l/joints/test/testDrakeJointsmex.cpp" alt="" coords="195,184,421,225"/>
+<area shape="rect" id="node5" href="$parser__sdf_8cc.html" title="drake/systems/plants\l/parser_sdf.cc" alt="" coords="445,184,592,225"/>
+<area shape="rect" id="node6" href="$parser__urdf_8cc.html" title="drake/systems/plants\l/parser_urdf.cc" alt="" coords="616,184,763,225"/>
+<area shape="rect" id="node7" href="$_rigid_body_tree_8cpp.html" title="drake/systems/plants\l/RigidBodyTree.cpp" alt="" coords="787,184,933,225"/>
+</map>

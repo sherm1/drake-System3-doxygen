@@ -1,0 +1,9 @@
+<map id="addSensor" name="addSensor">
+<area shape="rect" id="node2" href="$namespace_drake.html#a1e6cd2fbb18f292ddf9b9e63c9011402" title="Drake::parseSDFLink" alt="" coords="137,98,284,125"/>
+<area shape="rect" id="node3" href="$namespace_drake.html#a62eb4c128b7477a55dc466c99ba9aeac" title="Drake::parseSDFModel" alt="" coords="332,98,489,125"/>
+<area shape="rect" id="node4" href="$namespace_drake.html#a5674d99fcba829e68a43dddb3acb02ab" title="Drake::parseSDF" alt="" coords="537,98,660,125"/>
+<area shape="rect" id="node5" href="$namespacedrake_1_1parsers_1_1sdf.html#a2c164057b9af815cfde2943c90a4d1d4" title="Adds a SDF model to a rigid body system. " alt="" coords="708,61,851,103"/>
+<area shape="rect" id="node7" href="$class_drake_1_1_rigid_body_system.html#a16f1259b0d554f01408052d4a9ddc83d" title="Adds the models contained within an SDF file to this rigid body system. " alt="" coords="945,123,1078,150"/>
+<area shape="rect" id="node6" href="$namespacedrake_1_1parsers_1_1sdf.html#aea2b48cd0b463aee04390a1766a174f9" title="Adds a SDF model to a rigid body system. " alt="" coords="899,5,1123,47"/>
+<area shape="rect" id="node8" href="$class_rigid_body_tree.html#a16f1259b0d554f01408052d4a9ddc83d" title="RigidBodyTree::addRobotFromSDF" alt="" coords="899,71,1124,98"/>
+</map>

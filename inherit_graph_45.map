@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_drake_shapes_1_1_element.html" title="Element" alt="" coords="5,31,76,57"/>
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_element.html" title="Element" alt="" coords="142,5,213,32"/>
+<area shape="rect" id="node4" href="$class_drake_shapes_1_1_visual_element.html" title="VisualElement" alt="" coords="124,56,231,83"/>
+<area shape="rect" id="node3" href="$class_rigid_body_1_1_collision_element.html" title="RigidBody::CollisionElement" alt="" coords="279,5,465,32"/>
+</map>

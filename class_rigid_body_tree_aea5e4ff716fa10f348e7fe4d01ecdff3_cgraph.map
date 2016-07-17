@@ -1,0 +1,4 @@
+<map id="updateStaticCollisionElements" name="updateStaticCollisionElements">
+<area shape="rect" id="node2" href="$class_rigid_body.html#a37c598900da68ab344705d89661e73b9" title="RigidBody::hasParent" alt="" coords="261,5,409,32"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#aa4d6c2b7769ee8b6ca9ea5816b671bdc" title="updateCollisionElements" alt="" coords="252,56,417,83"/>
+</map>

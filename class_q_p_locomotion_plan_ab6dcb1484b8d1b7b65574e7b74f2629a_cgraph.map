@@ -1,0 +1,54 @@
+<map id="createQPControllerInput" name="createQPControllerInput">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#aabdcd62794d8bb261b3fa4c836dce46e" title="Initializes a KinematicsCache with the given configuration q, computes the kinematics, and returns the cache. " alt="" coords="234,5,427,32"/>
+<area shape="rect" id="node4" href="$class_piecewise_polynomial.html#aa186c04292c38dc34d8e5c58e6643434" title="PiecewisePolynomial\l::value" alt="" coords="258,383,403,425"/>
+<area shape="rect" id="node8" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="977,321,1135,362"/>
+<area shape="rect" id="node9" href="$class_piecewise_polynomial.html#acff48ea2602882b13d890bd2751590da" title="PiecewisePolynomial\l::rows" alt="" coords="532,405,677,446"/>
+<area shape="rect" id="node10" href="$class_piecewise_polynomial.html#a6ddb58a344114da2999204c069ae3f91" title="PiecewisePolynomial\l::cols" alt="" coords="532,470,677,511"/>
+<area shape="rect" id="node12" href="$class_rigid_body_tree.html#a49feb527fdea334223689ad9bd923b7f" title="An accessor to the number of position states outputted by this rigid body system. ..." alt="" coords="252,653,409,694"/>
+<area shape="rect" id="node13" href="$drake_util_8h.html#a446641c6fd4dd7ec952d8d484cf582a2" title="eigenVectorToStdVector" alt="" coords="249,719,412,745"/>
+<area shape="rect" id="node14" href="$drake_util_8h.html#a37c3a1858bffc163db73598b446cb407" title="addOffset" alt="" coords="292,820,369,847"/>
+<area shape="rect" id="node23" href="$class_body_motion_data.html#a7d7492cea380956cfce997b7a7e40c41" title="BodyMotionData::getBodyOr\lFrameId" alt="" coords="237,871,425,913"/>
+<area shape="rect" id="node24" href="$class_rigid_body_tree.html#a017804f38e8e874c11ba69feba6f111d" title="RigidBodyTree::parseBody\lOrFrameID" alt="" coords="243,937,419,978"/>
+<area shape="rect" id="node25" href="$class_body_motion_data.html#a5c0565f8fae536ba37a9a7ea372e49a0" title="BodyMotionData::findSegment\lIndex" alt="" coords="231,318,430,359"/>
+<area shape="rect" id="node26" href="$_q_p_locomotion_plan_8cpp.html#aa315144b26a0eb2a60197ac823ce9e69" title="getFrontTwoContactPoints" alt="" coords="243,1003,418,1029"/>
+<area shape="rect" id="node27" href="$class_rigid_body_tree.html#a3d8dcea6ae0ff6abb3d76e2456e326f5" title="RigidBodyTree::transform\lPoints" alt="" coords="247,1054,415,1095"/>
+<area shape="rect" id="node28" href="$convex_hull_8cpp.html#a65d51932bae4751520e590719bcb564c" title="signedDistanceInsideConvexHull" alt="" coords="226,1120,435,1147"/>
+<area shape="rect" id="node32" href="$class_body_motion_data.html#ab64f2fec934a13fe185635b8a1dc7cf6" title="BodyMotionData::isToeOff\lAllowed" alt="" coords="244,122,417,163"/>
+<area shape="rect" id="node34" href="$class_body_motion_data.html#a1ad6dcecce718337bb13f5309603eceb" title="BodyMotionData::getTrajectory" alt="" coords="230,1171,431,1197"/>
+<area shape="rect" id="node35" href="$class_piecewise_polynomial.html#a44d93f2441eaa752b1b6eb5c55c5a6fa" title="PiecewisePolynomial\l::slice" alt="" coords="258,187,403,229"/>
+<area shape="rect" id="node36" href="$class_piecewise_polynomial.html#ae7aaaebd7e27434069ba5af047713628" title="PiecewisePolynomial\l::shiftRight" alt="" coords="258,1222,403,1263"/>
+<area shape="rect" id="node37" href="$_q_p_locomotion_plan_8cpp.html#a0548e3751a177989ac9e16df124a56e8" title="primaryBodyOrFrameName" alt="" coords="241,1288,421,1315"/>
+<area shape="rect" id="node38" href="$class_rigid_body_tree.html#a0f4f29a6f2a1acbf6cc0101d711610a6" title="RigidBodyTree::getBodyOr\lFrameName" alt="" coords="243,1339,419,1381"/>
+<area shape="rect" id="node39" href="$lcm_util_8cpp.html#a26aff493184abc82f9a2a284789cab63" title="encodePiecewisePolynomial" alt="" coords="237,551,424,577"/>
+<area shape="rect" id="node42" href="$class_body_motion_data.html#a0f0e824fc91c94853a8184492f4ee34f" title="BodyMotionData::isInFloating\lBaseNullSpace" alt="" coords="235,253,427,294"/>
+<area shape="rect" id="node43" href="$class_body_motion_data.html#a1b0b3889d608bc7ffb43d84c621a9bfc" title="BodyMotionData::isPoseControlled\lWhenInContact" alt="" coords="219,57,443,98"/>
+<area shape="rect" id="node44" href="$class_body_motion_data.html#a02fd41b95ff70a55e9e0f9f22aeecd1a" title="BodyMotionData::getTransform\lTaskToWorld" alt="" coords="230,1405,431,1446"/>
+<area shape="rect" id="node45" href="$namespacedrake_1_1math.html#aa95bfab47d1fbb403cd38228193b5b71" title="drake::math::rotmat2quat" alt="" coords="761,769,929,796"/>
+<area shape="rect" id="node47" href="$drake_util_8h.html#a5b0523371673fa323ff1411c13a0b9da" title="eigenVectorToCArray" alt="" coords="258,1471,403,1497"/>
+<area shape="rect" id="node48" href="$class_body_motion_data.html#a0bf3defb926a4c9ea0542d760a935a6e" title="BodyMotionData::getXyzProportional\lGainMultiplier" alt="" coords="213,1522,448,1563"/>
+<area shape="rect" id="node49" href="$class_body_motion_data.html#afe37452bee33bd00ddb533060a1adc0f" title="BodyMotionData::getXyzDamping\lRatioMultiplier" alt="" coords="223,1587,439,1629"/>
+<area shape="rect" id="node50" href="$class_body_motion_data.html#a88bd622535bf223a895d5496a21af762" title="BodyMotionData::getExponential\lMapProportionalGainMultiplier" alt="" coords="225,1653,437,1694"/>
+<area shape="rect" id="node51" href="$class_body_motion_data.html#a0be767d522742d1fa54c2d6a708c28ab" title="BodyMotionData::getExponential\lMapDampingRatioMultiplier" alt="" coords="225,1718,437,1759"/>
+<area shape="rect" id="node52" href="$class_body_motion_data.html#a24be283b2891ca2adaab8e3b73189749" title="BodyMotionData::getWeight\lMultiplier" alt="" coords="238,1783,423,1825"/>
+<area shape="rect" id="node53" href="$lcm_util_8cpp.html#a5fd914530ff09da252de25215e1b1056" title="verifySubtypeSizes" alt="" coords="265,1849,397,1876"/>
+<area shape="rect" id="node3" href="$class_kinematics_cache.html#a0f153683b7c86032079d2ff19ea1a58d" title="KinematicsCache::initialize" alt="" coords="515,5,694,32"/>
+<area shape="rect" id="node5" href="$class_piecewise_function.html#aa35609bb4c7fc71304c47fd0132ae828" title="PiecewiseFunction::\lgetSegmentIndex" alt="" coords="535,170,674,211"/>
+<area shape="rect" id="node6" href="$class_piecewise_function.html#a17e20f6b6982b3b67a96c9e7b2486e8d" title="PiecewiseFunction::\lgetStartTime" alt="" coords="776,229,915,270"/>
+<area shape="rect" id="node7" href="$class_piecewise_function.html#a153c61dac33235418d1642e2372cbe72" title="PiecewiseFunction::\lgetEndTime" alt="" coords="776,321,915,362"/>
+<area shape="rect" id="node11" href="$class_piecewise_polynomial.html#acc6f9183863aadee5e7e1cc317c1c57d" title="PiecewisePolynomial\l::segmentValueAtGlobalAbscissa" alt="" coords="496,287,713,329"/>
+<area shape="rect" id="node15" href="$drake_util_8h.html#ad7d6deb263fff2e786bd0b196b178e9f" title="baseZeroToBaseOne" alt="" coords="533,820,676,847"/>
+<area shape="rect" id="node16" href="$drake_util_8h.html#a62745df4365eb53716d3bf2641b683ee" title="angleAverage" alt="" coords="796,945,895,972"/>
+<area shape="rect" id="node20" href="$drake_util_8h.html#a769f238d6c122f76a1b1e508966a22c2" title="resolveCenterOfPressure" alt="" coords="522,871,687,897"/>
+<area shape="rect" id="node17" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="1015,895,1097,921"/>
+<area shape="rect" id="node19" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="1017,945,1095,972"/>
+<area shape="rect" id="node18" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="1183,862,1335,903"/>
+<area shape="rect" id="node21" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="1015,844,1097,871"/>
+<area shape="rect" id="node22" href="$drake_util_8cpp.html#ac2ef00f5bd7e364651a1490dcfc6d3d0" title="resolveCenterOfPressure" alt="" coords="763,844,928,871"/>
+<area shape="rect" id="node29" href="$convex_hull_8cpp.html#a898327e806483741acf12f10c771120d" title="convexHull" alt="" coords="563,1095,647,1121"/>
+<area shape="rect" id="node31" href="$convex_hull_8cpp.html#aec1fc44348964553cba3f5fc2e67a130" title="eigenToPoints" alt="" coords="553,1145,657,1172"/>
+<area shape="rect" id="node30" href="$convex_hull_8cpp.html#acef3938c6c0f59c2afad248568c59343" title="cross" alt="" coords="818,1095,873,1121"/>
+<area shape="rect" id="node33" href="$class_piecewise_function.html#af30f78a6fbfd315f5d2a166cf4b1c525" title="PiecewiseFunction::\lsegmentNumberRangeCheck" alt="" coords="509,105,700,146"/>
+<area shape="rect" id="node40" href="$class_piecewise_function.html#a61deacd040f26782fa134e9b717ca8ee" title="PiecewiseFunction::\lgetSegmentTimes" alt="" coords="535,653,674,694"/>
+<area shape="rect" id="node41" href="$class_piecewise_polynomial.html#a59218b09d3c6952001c73a3c49eaa53e" title="PiecewisePolynomial\l::getPolynomialMatrix" alt="" coords="531,587,679,629"/>
+<area shape="rect" id="node46" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="1014,781,1098,808"/>
+</map>

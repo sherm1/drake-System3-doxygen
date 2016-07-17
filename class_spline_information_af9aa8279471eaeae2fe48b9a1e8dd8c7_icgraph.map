@@ -1,0 +1,8 @@
+<map id="addContinuityConstraint" name="addContinuityConstraint">
+<area shape="rect" id="node2" href="$spline_generation_8cpp.html#a6a06a3d3095252653412803f304d589f" title="nWaypointCubicSpline" alt="" coords="213,81,367,108"/>
+<area shape="rect" id="node3" href="$n_waypoint_cubic_spline_free_knot_timesmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="463,5,561,32"/>
+<area shape="rect" id="node4" href="$test_spline_generation_8cpp.html#aa63b5d289cc80814c58ec8310ed7549f" title="randomSpeedTest" alt="" coords="449,56,575,83"/>
+<area shape="rect" id="node5" href="$test_spline_generation_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="681,81,731,108"/>
+<area shape="rect" id="node6" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="415,157,609,184"/>
+<area shape="rect" id="node7" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="657,157,755,184"/>
+</map>

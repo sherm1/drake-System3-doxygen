@@ -1,0 +1,6 @@
+<map id="solve_quadprog2" name="solve_quadprog2">
+<area shape="rect" id="node2" href="$namespace_eigen.html#ab80241e1d1e11c01ab0233afd602d09a" title="update_r" alt="" coords="191,5,263,32"/>
+<area shape="rect" id="node4" href="$namespace_eigen.html#a1ffaac6ef7a575e4d7eb97a9c10228ec" title="solve_quadprog" alt="" coords="172,56,283,83"/>
+<area shape="rect" id="node3" href="$namespace_eigen.html#a547b4a6ee1d21cb57fe853c24afa914d" title="solve_quadprog2" alt="" coords="331,5,449,32"/>
+<area shape="rect" id="node5" href="$approximate_i_k_e_i_q_pmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="Use Frank&#39;s fastQP code (mexed) [q, info] = approximateIKEIQPmex(objgetMexModelPtr, q0, q_nom, Q, varargin) info = 0 on success, 1 on failure. " alt="" coords="341,56,439,83"/>
+</map>

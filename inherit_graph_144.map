@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_drake_1_1_rigid_body_sensor.html" title="An abstract parent class of all sensors. " alt="" coords="5,81,128,108"/>
+<area shape="rect" id="node2" href="$class_drake_1_1_rigid_body_accelerometer.html" title="RigidBodyAccelerometer. " alt="" coords="176,5,341,32"/>
+<area shape="rect" id="node3" href="$class_drake_1_1_rigid_body_depth_sensor.html" title="RigidBodyDepthSensor. " alt="" coords="181,56,337,83"/>
+<area shape="rect" id="node4" href="$class_drake_1_1_rigid_body_gyroscope.html" title="RigidBodyGyroscope. " alt="" coords="187,107,331,133"/>
+<area shape="rect" id="node5" href="$class_drake_1_1_rigid_body_magnetometer.html" title="RigidBodyMagnetometer. " alt="" coords="177,157,341,184"/>
+</map>

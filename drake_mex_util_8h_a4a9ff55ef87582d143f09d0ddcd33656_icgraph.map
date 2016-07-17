@@ -1,0 +1,12 @@
+<map id="stdStringToMatlab" name="stdStringToMatlab">
+<area shape="rect" id="node2" href="$drake_mex_util_8h.html#a33d7c55cda19f8c8dbe930425de2f89f" title="stdVectorToMatlab" alt="" coords="180,31,311,57"/>
+<area shape="rect" id="node3" href="$n_waypoint_cubic_spline_free_knot_timesmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="359,5,456,32"/>
+<area shape="rect" id="node4" href="$rigid_body_tree_mex_conversions_8h.html#a95cba723885817c852c849406ddc9fb1" title="toMex specializations " alt="" coords="378,56,437,83"/>
+<area shape="rect" id="node5" href="$mexify_8h.html#a8e7b02d30197349f8645aeb425c83d59" title="mexCallFunctionUnsafe Converts arguments and calls function without checking whether arguments are co..." alt="" coords="504,56,663,83"/>
+<area shape="rect" id="node6" href="$mexify_8h.html#acc5d3d017ff33e04a1a4ed87aa854db4" title="mexCallFunctionUnsafe" alt="" coords="711,31,869,57"/>
+<area shape="rect" id="node7" href="$mexify_8h.html#a139df4b19556e4b6306c8ad039bf215f" title="mexCallFunction checks whether arguments are convertible, and then calls mexCallFunctionUnsafe. " alt="" coords="731,81,849,108"/>
+<area shape="rect" id="node8" href="$rigid_body_tree_mex_functions_8h.html#aaacab599a56a55ecd1de41835f3321b5" title="findKinematicPathmex" alt="" coords="921,31,1073,57"/>
+<area shape="rect" id="node10" href="$closest_expmapmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="948,81,1045,108"/>
+<area shape="rect" id="node11" href="$mexify_8h.html#ad9969965efc088150ab358193b92f5d2" title="mexTryToCallFunctions" alt="" coords="917,132,1076,159"/>
+<area shape="rect" id="node9" href="$find_kinematic_pathmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1124,31,1221,57"/>
+</map>

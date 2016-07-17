@@ -1,0 +1,12 @@
+<map id="expmap2quatNonDegenerate" name="expmap2quatNonDegenerate">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math.html#a4bc8c0d47e42141e066c524543c5dd92" title="drake::math::expmap2quat" alt="" coords="243,149,420,175"/>
+<area shape="rect" id="node3" href="$control_util_8cpp.html#a5aadc5075cb9e0bdc4a6f9d4132375ef" title="evaluateXYZExpmapCubicSpline" alt="" coords="468,43,677,70"/>
+<area shape="rect" id="node7" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="475,98,670,125"/>
+<area shape="rect" id="node9" href="$expmap2quat_implmex_8cpp.html#a15d5f9069478259e0cda6de06a009c48" title="expmap2quatWithGradient" alt="" coords="485,149,661,175"/>
+<area shape="rect" id="node10" href="$expmap2quat_implmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="765,199,863,226"/>
+<area shape="rect" id="node11" href="$expmap2quat_implmex_8cpp.html#a5226aa228100a40ff1add1776e1967e6" title="expmap2quatWithSecondDeriv" alt="" coords="473,250,672,277"/>
+<area shape="rect" id="node4" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="725,35,903,76"/>
+<area shape="rect" id="node5" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="951,5,1136,47"/>
+<area shape="rect" id="node6" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="995,71,1092,98"/>
+<area shape="rect" id="node8" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="765,101,863,127"/>
+</map>

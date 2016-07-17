@@ -1,0 +1,47 @@
+<map id="abs" name="abs">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math.html#a0d6538743074d86b4dc68c7d0455b680" title="Q = Slerp(q1, q2, f) Spherical linear interpolation between two quaternions This function uses the im..." alt="" coords="126,31,255,57"/>
+<area shape="rect" id="node5" href="$_q_p_8cpp.html#a859edbd09d163647ff495b50558d8741" title="myGRBaddconstrs" alt="" coords="125,107,257,133"/>
+<area shape="rect" id="node8" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="626,179,803,221"/>
+<area shape="rect" id="node11" href="$approximate_i_k_8cpp.html#ae968e8c2ca448027fb2508168368e086" title="approximateIK" alt="" coords="138,411,243,437"/>
+<area shape="rect" id="node14" href="$construct_ptr_rigid_body_constraintmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="142,461,239,488"/>
+<area shape="rect" id="node15" href="$class_fixed_axis_one_do_f_joint.html#a4f66cae0f282cdf6744d697ac568df19" title="FixedAxisOneDoFJoint\l\&lt; RevoluteJoint \&gt;::friction\lTorque" alt="" coords="107,512,275,568"/>
+<area shape="rect" id="node16" href="$class_prismatic_joint.html#a81b962270f1bbc42a2afb32a9e6673bb" title="PrismaticJoint::Prismatic\lJoint" alt="" coords="107,593,274,634"/>
+<area shape="rect" id="node17" href="$class_revolute_joint.html#a6198bde9de6d68bf8825f348e8f74d07" title="RevoluteJoint::RevoluteJoint" alt="" coords="99,659,282,685"/>
+<area shape="rect" id="node18" href="$class_piecewise_function.html#aa0e6a330c9017bd82330bd6023346953" title="PiecewiseFunction::\lsegmentTimesEqual" alt="" coords="121,710,261,751"/>
+<area shape="rect" id="node27" href="$drake_util_8h.html#a769f238d6c122f76a1b1e508966a22c2" title="resolveCenterOfPressure" alt="" coords="108,900,273,927"/>
+<area shape="rect" id="node36" href="$drake_util_8h.html#aa184ae4324e261da884325e0bb865219" title="care" alt="" coords="167,951,214,977"/>
+<area shape="rect" id="node40" href="$namespacedrake_1_1util.html#a6bdafd0f065d4f25b011da965def2b25" title="Compares two matrices to determine whether they are equal to within a certain threshold. " alt="" coords="96,343,285,369"/>
+<area shape="rect" id="node46" href="$test_util_8h.html#a574928420ddbfe9fa258f30b6615031c" title="valuecheck" alt="" coords="147,1001,234,1028"/>
+<area shape="rect" id="node3" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="351,5,546,32"/>
+<area shape="rect" id="node4" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="666,5,763,32"/>
+<area shape="rect" id="node6" href="$_q_p_8cpp.html#a77e3fc394074e835140e22a5bd23af4b" title="gurobiQP" alt="" coords="411,56,487,83"/>
+<area shape="rect" id="node7" href="$_q_p_8cpp.html#a232151cd8f3755c63c637aaceadc7156" title="gurobiActiveSetQP" alt="" coords="383,107,514,133"/>
+<area shape="rect" id="node9" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="865,150,1051,191"/>
+<area shape="rect" id="node10" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="909,216,1007,243"/>
+<area shape="rect" id="node12" href="$approximate_i_kmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="400,477,497,504"/>
+<area shape="rect" id="node13" href="$test_approximate_i_k_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="423,528,474,555"/>
+<area shape="rect" id="node19" href="$class_piecewise_polynomial.html#a5fd8f925144c7ba34c2406f62954d94a" title="PiecewisePolynomial\l::operator+=" alt="" coords="376,579,521,621"/>
+<area shape="rect" id="node24" href="$class_piecewise_polynomial.html#a3795cfe0cd51e9891d27cdb0bf2f55b6" title="PiecewisePolynomial\l::operator&#45;=" alt="" coords="376,645,521,686"/>
+<area shape="rect" id="node25" href="$class_piecewise_polynomial.html#a868dde62a655f092ef3d2233aa6687ef" title="PiecewisePolynomial\l::operator*=" alt="" coords="376,710,521,751"/>
+<area shape="rect" id="node26" href="$class_piecewise_polynomial.html#a3ad14253af58f6ba918728486794d0d5" title="Checks if a PiecewisePolynomial is approximately equal to this one. " alt="" coords="376,775,521,817"/>
+<area shape="rect" id="node20" href="$class_piecewise_polynomial.html#abf309ea9d32f27a13ea794d42d2de952" title="PiecewisePolynomial\l::getSegmentPolynomialDegree" alt="" coords="612,579,817,621"/>
+<area shape="rect" id="node21" href="$zmp_util_8cpp.html#ac431b61044eb2bd705b7d164ba93861c" title="s1Trajectory" alt="" coords="911,587,1005,613"/>
+<area shape="rect" id="node22" href="$compute_s1_trajmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1101,561,1198,588"/>
+<area shape="rect" id="node23" href="$_q_p_locomotion_plan_8cpp.html#a6b3008cbf69cc7b1e3a38d580fe615f5" title="firstOrderHold" alt="" coords="1099,612,1200,639"/>
+<area shape="rect" id="node28" href="$control_util_8cpp.html#a8f0c65265834a8f9fbbfb6ba24b35b94" title="individualSupportCOPs" alt="" coords="371,841,526,868"/>
+<area shape="rect" id="node29" href="$class_rigid_body_tree.html#aefc0ec924b5046920e09ec03eabb8f41" title="Computes CoP in world frame. " alt="" coords="353,893,545,934"/>
+<area shape="rect" id="node31" href="$class_rigid_body_tree.html#aec993b61122226f0532d1a894f4f93ea" title="Returns an integer that will be used as a unique ID for the next model to be added within the rigid b..." alt="" coords="383,958,515,999"/>
+<area shape="rect" id="node32" href="$drake_util_8h.html#a37c3a1858bffc163db73598b446cb407" title="addOffset" alt="" coords="410,1024,487,1051"/>
+<area shape="rect" id="node35" href="$resolve_center_of_pressuremex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="400,1075,497,1101"/>
+<area shape="rect" id="node30" href="$_instantaneous_q_p_controller_8cpp.html#a5b805063084a805cc00f73aee562ce0c" title="computeCoP" alt="" coords="666,900,763,927"/>
+<area shape="rect" id="node33" href="$construct_q_p_locomotion_planmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="666,987,763,1013"/>
+<area shape="rect" id="node34" href="$class_q_p_locomotion_plan.html#ab6dcb1484b8d1b7b65574e7b74f2629a" title="QPLocomotionPlan::create\lQPControllerInput" alt="" coords="625,1038,804,1079"/>
+<area shape="rect" id="node37" href="$drake_util_8h.html#af230f84bf36a9adb1723a2b7cb22f802" title="lqr" alt="" coords="429,1125,468,1152"/>
+<area shape="rect" id="node38" href="$lqrmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="666,1115,763,1141"/>
+<area shape="rect" id="node39" href="$namespace_drake.html#a1df0b8e46cdfd56bab25425fe0ec7a3f" title="Drake::timeInvariantLQR" alt="" coords="633,1165,796,1192"/>
+<area shape="rect" id="node41" href="$_instantaneous_q_p_controller_8cpp.html#a018485383255696d37e61dcf44076d0e" title="checkCentroidalMomentumMatches\lTotalWrench" alt="" coords="333,209,564,250"/>
+<area shape="rect" id="node42" href="$namespacedrake_1_1systems.html#aca56fc648c42bb2cea76a841904e1ef0" title="drake::systems::TEST_F" alt="" coords="365,275,532,301"/>
+<area shape="rect" id="node43" href="$compare_parsersmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="400,325,497,352"/>
+<area shape="rect" id="node44" href="$test_i_k_8cpp.html#ac6833d850124eab6e5d3bbde6b25e1d0" title="GTEST_TEST" alt="" coords="397,376,500,403"/>
+<area shape="rect" id="node45" href="$namespacedrake_1_1test.html#aefd90242742b17ba379641ebd9207688" title="drake::test::GTEST_TEST" alt="" coords="362,427,535,453"/>
+</map>

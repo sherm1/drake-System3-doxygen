@@ -1,0 +1,13 @@
+<map id="rotationRepresentationSize" name="rotationRepresentationSize">
+<area shape="rect" id="node2" href="$rigid_body_tree_mex_functions_8cpp.html#a57f89ce171698f9e87d529e265a9b070" title="forwardJacDotTimesVTemp" alt="" coords="232,5,411,32"/>
+<area shape="rect" id="node3" href="$rigid_body_tree_mex_functions_8cpp.html#aba639e1647efde18ce2af9406fa9e65e" title="forwardKinTemp" alt="" coords="264,56,379,83"/>
+<area shape="rect" id="node6" href="$rigid_body_tree_mex_functions_8cpp.html#a66bc29915553aeea77d008e86c71f5fc" title="forwardKinJacobianTemp" alt="" coords="239,107,404,133"/>
+<area shape="rect" id="node7" href="$drake_geometry_util_8h.html#a0dcd96faa05315270ac2517a02500f60" title="normalizeVec" alt="" coords="271,165,372,192"/>
+<area shape="rect" id="node4" href="$rigid_body_tree_mex_functions_8h.html#a1475d3381700dd97a358d042107bae96" title="forwardKinmex" alt="" coords="485,52,591,79"/>
+<area shape="rect" id="node5" href="$forward_kinmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="696,52,793,79"/>
+<area shape="rect" id="node8" href="$class_quaternion_floating_joint.html#a588dcbbf86acadda6112b1d21789cacd" title="QuaternionFloatingJoint\l::qdot2v" alt="" coords="459,103,617,145"/>
+<area shape="rect" id="node9" href="$drake_geometry_util_8h.html#a67cc899178d1e560bcfdd5634bfa8252" title="dquat2rotmat" alt="" coords="489,169,587,196"/>
+<area shape="rect" id="node12" href="$test_geometry_gradientsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="489,220,587,247"/>
+<area shape="rect" id="node10" href="$class_quaternion_floating_joint.html#af82578235dbef5ecc50e322ba6277c3d" title="QuaternionFloatingJoint\l::v2qdot" alt="" coords="665,133,824,174"/>
+<area shape="rect" id="node11" href="$test_geometry_conversion_functionsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="696,199,793,225"/>
+</map>

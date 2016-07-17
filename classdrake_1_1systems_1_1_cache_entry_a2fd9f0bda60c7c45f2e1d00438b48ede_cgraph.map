@@ -1,0 +1,5 @@
+<map id="Invalidate" name="Invalidate">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_cache_entry.html#a45f50daf972e49bdaf5978da4bfa2d89" title="Mark this entry as current or not; up to caller to do this right. " alt="" coords="175,5,279,32"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_value_listener_list.html#aff86a7776585d2bcd3787f6a37585091" title="Notify all dependents of this value that the value has changed. " alt="" coords="128,57,327,98"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_cache_entry.html#a4cb8e4333676006a082fb06aaa900185" title="Return the value of the is_current flag for this cache entry. " alt="" coords="375,5,453,32"/>
+</map>

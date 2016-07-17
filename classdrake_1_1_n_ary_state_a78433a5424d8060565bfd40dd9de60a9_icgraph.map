@@ -1,0 +1,8 @@
+<map id="unit_size" name="unit_size">
+<area shape="rect" id="node2" href="$classdrake_1_1_n_ary_state.html#abff4cb1bc79d746e1eee4cc05b013bea" title="Determines how many. " alt="" coords="128,24,269,51"/>
+<area shape="rect" id="node4" href="$classdrake_1_1_n_ary_state.html#ada48f960ec016f7803cd55be30384759" title="Determines how many Eigen matrix rows will be needed to represent. " alt="" coords="128,111,269,137"/>
+<area shape="rect" id="node3" href="$classdrake_1_1_n_ary_state.html#a186902c5a2e92db7840e40583731ab3e" title="operator=" alt="" coords="351,5,428,32"/>
+<area shape="rect" id="node5" href="$classdrake_1_1_n_ary_system.html#a531c88c870fb626331966e7ed00cfe5a" title="drake::NArySystem::\lgetNumStates" alt="" coords="317,57,461,98"/>
+<area shape="rect" id="node6" href="$classdrake_1_1_n_ary_system.html#aa4b02ee25553e434f34c20311dae4cfd" title="drake::NArySystem::\lgetNumInputs" alt="" coords="317,122,461,163"/>
+<area shape="rect" id="node7" href="$classdrake_1_1_n_ary_system.html#a541c706469731249e58f9448573f5860" title="drake::NArySystem::\lgetNumOutputs" alt="" coords="317,187,461,229"/>
+</map>

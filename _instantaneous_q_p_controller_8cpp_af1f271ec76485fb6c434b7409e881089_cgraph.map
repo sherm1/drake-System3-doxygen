@@ -1,0 +1,16 @@
+<map id="applyURDFModifications" name="applyURDFModifications">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#aaed1bfe407dd667fbedcb1fd36274117" title="Finds a frame of the specified frame_name belonging to a model with the specified model_id..." alt="" coords="234,11,405,37"/>
+<area shape="rect" id="node4" href="$namespacedrake_1_1parsers_1_1urdf.html#a9139a6cf0bfb5a054957bd6e8e7d603f" title="Adds a URDF model to a rigid body system. " alt="" coords="243,67,395,109"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#aa0d2387b280045cd75e6f4cc07913f61" title="RigidBodyTree::removeCollision\lGroupsIf" alt="" coords="217,133,421,174"/>
+<area shape="rect" id="node6" href="$class_rigid_body_tree.html#ad0b6341290f77124117afd48343ef2ef" title="RigidBodyTree::compile" alt="" coords="240,208,399,235"/>
+<area shape="rect" id="node3" href="$test_util_8h.html#a4290b86928fb877abbb71cc6a4e263dc" title="to_string" alt="" coords="530,5,602,32"/>
+<area shape="rect" id="node7" href="$class_rigid_body.html#a37c598900da68ab344705d89661e73b9" title="RigidBody::hasParent" alt="" coords="738,183,886,209"/>
+<area shape="rect" id="node8" href="$class_rigid_body.html#ab3fff98c6aac019c863309ebc64419ec" title="An accessor to this rigid body&#39;s parent joint. " alt="" coords="499,107,633,133"/>
+<area shape="rect" id="node9" href="$class_drake_joint.html#a350be3d17b88146433c6b963f96528aa" title="DrakeJoint::getNumPositions" alt="" coords="471,157,661,184"/>
+<area shape="rect" id="node10" href="$class_drake_joint.html#a633b35ddb31caeca5aef7a0819c7ea6f" title="DrakeJoint::getNumVelocities" alt="" coords="469,208,663,235"/>
+<area shape="rect" id="node11" href="$class_drake_joint.html#ad35ae248fc224337803123ff52f5e82a" title="DrakeJoint::getJointLimitMin" alt="" coords="473,259,659,285"/>
+<area shape="rect" id="node12" href="$class_drake_joint.html#a147f47a2fb89af6f8a5c5be52dcfa240" title="DrakeJoint::getJointLimitMax" alt="" coords="471,309,661,336"/>
+<area shape="rect" id="node13" href="$class_rigid_body_tree.html#aea5e4ff716fa10f348e7fe4d01ecdff3" title="RigidBodyTree::updateStatic\lCollisionElements" alt="" coords="473,361,659,402"/>
+<area shape="rect" id="node15" href="$class_rigid_body_tree.html#a3a1bee74542716be02835329ca0fa802" title="RigidBodyTree::getTerrain\lContactPoints" alt="" coords="481,426,651,467"/>
+<area shape="rect" id="node14" href="$class_rigid_body_tree.html#aa4d6c2b7769ee8b6ca9ea5816b671bdc" title="RigidBodyTree::updateCollision\lElements" alt="" coords="711,361,913,402"/>
+</map>

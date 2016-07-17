@@ -1,0 +1,12 @@
+<map id="sub2ind" name="sub2ind">
+<area shape="rect" id="node2" href="$n_waypoint_cubic_spline_free_knot_timesmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="195,5,292,32"/>
+<area shape="rect" id="node3" href="$compute_s1_trajmex_8cpp.html#a25b89463c06ade5ad73c24a56eb88dad" title="matlabPPFormToPiecewisePolynomial" alt="" coords="120,56,367,83"/>
+<area shape="rect" id="node5" href="$construct_q_p_locomotion_planmex_8cpp.html#a0e086cce771efe8a331b9cd5d0c6a379" title="matlabCoefsAndBreaksToPiecewise\lPolynomial" alt="" coords="128,107,359,149"/>
+<area shape="rect" id="node11" href="$drake_mex_util_8h.html#a49a631d099faa4061563c8f03289dc0f" title="matlabToCArrayOfArrays" alt="" coords="160,173,327,200"/>
+<area shape="rect" id="node4" href="$compute_s1_trajmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="471,56,569,83"/>
+<area shape="rect" id="node6" href="$construct_q_p_locomotion_planmex_8cpp.html#a9e2d12c2b92d12201fafc75ef824ae9b" title="matlabExpPlusPPToExponential\lPlusPiecewisePolynomial" alt="" coords="415,107,625,149"/>
+<area shape="rect" id="node10" href="$construct_q_p_locomotion_planmex_8cpp.html#ac8a52d57c5cc39560ec8053676bcfc01" title="setUpBodyMotions" alt="" coords="728,177,860,204"/>
+<area shape="rect" id="node7" href="$construct_q_p_locomotion_planmex_8cpp.html#a85f73bb40f8ab1b3be7c0bf5bc08accc" title="matlabExpPlusPPOrPPTrajectory\lOrVectorToExponentialPlusPiecewise\lPolynomial" alt="" coords="673,97,915,153"/>
+<area shape="rect" id="node8" href="$construct_q_p_locomotion_planmex_8cpp.html#a781f1af328acede2778a0e141506ac17" title="setUpLyapunovFunction" alt="" coords="963,76,1123,103"/>
+<area shape="rect" id="node9" href="$construct_q_p_locomotion_planmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1171,127,1268,153"/>
+</map>

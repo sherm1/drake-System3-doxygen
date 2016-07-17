@@ -1,0 +1,4 @@
+<map id="get_model_value" name="get_model_value">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_abstract_context.html#a1370d444b94989ea5330d79090984117" title="drake::systems::Abstract\lContext::SetOutputPort" alt="" coords="186,5,355,47"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_vector_output_port.html#aedf66b3ace05c512eaaa1e12a023bdca" title="Returns the model value of this port as a const reference to VectorInterface&lt;T&gt;. " alt="" coords="172,71,369,112"/>
+</map>

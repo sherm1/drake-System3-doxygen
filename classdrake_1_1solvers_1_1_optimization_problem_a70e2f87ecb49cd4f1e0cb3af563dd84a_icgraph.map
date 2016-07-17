@@ -1,0 +1,9 @@
+<map id="AddQuadraticCost" name="AddQuadraticCost">
+<area shape="rect" id="node2" href="$classdrake_1_1solvers_1_1_system_identification.html#a96a5bfd1bf4d5b1ab88016652319d761" title="drake::solvers::SystemIdentification\l::EstimateParameters" alt="" coords="181,49,408,90"/>
+<area shape="rect" id="node3" href="$namespace_drake.html#a3c5593438105302caf43a8242e58ddd2" title="Drake::getInitialState" alt="" coords="223,115,366,141"/>
+<area shape="rect" id="node4" href="$namespace_drake.html#a6ee77b9123a2ac527aa5487fc8b5708b" title="Drake::runLCM" alt="" coords="488,5,597,32"/>
+<area shape="rect" id="node5" href="$rigid_body_l_c_m_node_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="517,56,568,83"/>
+<area shape="rect" id="node6" href="$class_drake_1_1_rigid_body_system.html#ae6d84993d6cfed20f28fd2499a70d275" title="Drake::RigidBodySystem\l::isDirectFeedthrough" alt="" coords="459,107,627,149"/>
+<area shape="rect" id="node7" href="$namespacedrake_1_1test.html#aefd90242742b17ba379641ebd9207688" title="drake::test::GTEST_TEST" alt="" coords="456,173,629,200"/>
+<area shape="rect" id="node8" href="$group__simulation.html#ga41b54589a549fc76acb033679a123529" title="simulate " alt="" coords="486,224,599,251"/>
+</map>

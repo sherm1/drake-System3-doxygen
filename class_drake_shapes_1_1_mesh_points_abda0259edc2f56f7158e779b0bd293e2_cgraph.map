@@ -1,0 +1,5 @@
+<map id="~MeshPoints" name="~MeshPoints">
+<area shape="rect" id="node2" href="$namespace_drake_shapes.html#add23b0e61187c63a67fa431f43a6a4cf" title="DrakeShapes::operator\&lt;\&lt;" alt="" coords="152,35,323,61"/>
+<area shape="rect" id="node3" href="$namespace_drake_shapes.html#a40669ed6ac9cc13a0356a03eddf95260" title="DrakeShapes::ShapeToString" alt="" coords="371,5,564,32"/>
+<area shape="rect" id="node4" href="$class_drake_shapes_1_1_geometry.html#a7ed07b6330a61e05cf2ea43a5d81433b" title="DrakeShapes::Geometry\l::getShape" alt="" coords="385,57,550,98"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="runLCM" name="runLCM">
+<area shape="rect" id="node2" href="$group__simulation.html#ga1511d43487a33f73b84ae6556d5db0c3" title="runLCM " alt="" coords="137,115,204,141"/>
+<area shape="rect" id="node13" href="$namespace_drake.html#a3c5593438105302caf43a8242e58ddd2" title="getInitialState" alt="" coords="120,403,221,429"/>
+<area shape="rect" id="node3" href="$group__modeling.html#ga8e6e8bb3dc332816f1a8ed8dfc1568c7" title="cascade(sys1, sys2) " alt="" coords="344,5,415,32"/>
+<area shape="rect" id="node4" href="$group__vector__concept.html#gabe2c712db37a45754da01eb7ceb3f8be" title="size() " alt="" coords="356,56,403,83"/>
+<area shape="rect" id="node6" href="$class_drake_1_1internal_1_1_l_c_m_loop.html#a35855558696ed08153ed89d1d4771fcd" title="Drake::internal::LCMLoop\l::loopWithSelect" alt="" coords="295,107,464,149"/>
+<area shape="rect" id="node8" href="$group__simulation.html#ga966902193907aeab224b11fd4cf53140" title="simulate " alt="" coords="344,184,415,211"/>
+<area shape="rect" id="node5" href="$struct_drake_1_1internal_1_1_size_dispatch.html#aea06aba4744fb839844167104aa3ff9e" title="Drake::internal::SizeDispatch\l::eval" alt="" coords="537,38,728,79"/>
+<area shape="rect" id="node7" href="$_l_c_m_system_8cpp.html#a3fe71bf53f9fa83e6f362fa2dea71ad4" title="waitForLCM" alt="" coords="587,104,678,131"/>
+<area shape="rect" id="node9" href="$group__system__concept.html#ga050946a3cb2bf983b166739f550dc9dd" title="getNumInputs() " alt="" coords="581,155,684,181"/>
+<area shape="rect" id="node11" href="$namespace_drake.html#ab20a66a2758649fa73a6fe330e932eed" title="handle_realtime_factor" alt="" coords="557,205,709,232"/>
+<area shape="rect" id="node12" href="$namespace_drake.html#a2e6ff29988b0579177fbba61dfca638c" title="toEigen" alt="" coords="599,256,666,283"/>
+<area shape="rect" id="node10" href="$struct_drake_1_1internal_1_1_num_states_dispatch.html#a2103a04cdd9c2bbd5571d6b9eaf47461" title="Drake::internal::NumStates\lDispatch::eval" alt="" coords="776,147,955,189"/>
+<area shape="rect" id="node14" href="$classdrake_1_1solvers_1_1_optimization_problem.html#a8f8ee35fe6df6c509a2fee27bf92dab0" title="drake::solvers::Optimization\lProblem::AddContinuousVariables" alt="" coords="269,307,489,349"/>
+<area shape="rect" id="node16" href="$footstep_collocation_constraints_mex_8cpp.html#abeb34cbbf072c9001ecc53d2a97a9d54" title="constraints" alt="" coords="336,373,423,400"/>
+<area shape="rect" id="node20" href="$classdrake_1_1solvers_1_1_optimization_problem.html#a55955f30fb7e400b64f9f9ea1d969c3d" title="AddGenericConstraint. " alt="" coords="277,425,482,466"/>
+<area shape="rect" id="node21" href="$classdrake_1_1solvers_1_1_optimization_problem.html#aa434a02bad07c8448f95d95eafcd2847" title="AddQuadraticCost. " alt="" coords="287,490,471,531"/>
+<area shape="rect" id="node22" href="$classdrake_1_1solvers_1_1_optimization_problem.html#ae20c365943aa8acb50dfd6b99b7e5194" title="Solve the OptimizationProblem. " alt="" coords="288,555,471,597"/>
+<area shape="rect" id="node15" href="$classdrake_1_1solvers_1_1_decision_variable.html#a324e8c54c4c5161913681a1a52fef959" title="name() " alt="" coords="553,307,713,349"/>
+<area shape="rect" id="node17" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="593,373,672,400"/>
+<area shape="rect" id="node19" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="591,424,674,451"/>
+<area shape="rect" id="node18" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="789,391,941,433"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="autoDiffToValueMatrix" name="autoDiffToValueMatrix">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math.html#a068e4e5c69ceccbfebfaeb9c91723d39" title="quat2expmapSequence" alt="" coords="240,7,399,33"/>
+<area shape="rect" id="node4" href="$control_util_8cpp.html#a5aadc5075cb9e0bdc4a6f9d4132375ef" title="evaluateXYZExpmapCubicSpline" alt="" coords="215,61,424,88"/>
+<area shape="rect" id="node8" href="$classdrake_1_1systems_1_1_dynamic_constraint.html#a74c8b1da2b59c19ebff0bfafd84fea57" title="drake::systems::DynamicConstraint\l::eval" alt="" coords="204,113,435,154"/>
+<area shape="rect" id="node9" href="$class_gaze_orient_constraint.html#abd1a66eff6450d1ad293ee3fff82e77c" title="GazeOrientConstraint\l::eval" alt="" coords="246,178,393,219"/>
+<area shape="rect" id="node10" href="$class_gravity_compensation_torque_constraint.html#abd1a66eff6450d1ad293ee3fff82e77c" title="GravityCompensationTorque\lConstraint::eval" alt="" coords="227,243,411,285"/>
+<area shape="rect" id="node11" href="$class_drake_1_1systems_1_1plants_1_1_single_time_kinematic_constraint_wrapper.html#a209e07f66654aaabcfe64d55be62efeb" title="Drake::systems::plants\l::SingleTimeKinematicConstraint\lWrapper::eval" alt="" coords="214,309,425,365"/>
+<area shape="rect" id="node12" href="$class_drake_1_1systems_1_1plants_1_1_quasi_static_constraint_wrapper.html#a209e07f66654aaabcfe64d55be62efeb" title="Drake::systems::plants\l::QuasiStaticConstraintWrapper::eval" alt="" coords="201,390,437,431"/>
+<area shape="rect" id="node13" href="$benchmark_rigid_body_tree_8cpp.html#a1970b96d82688803ab7862e7194c59a3" title="printMatrix" alt="" coords="278,456,361,483"/>
+<area shape="rect" id="node14" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="222,507,417,533"/>
+<area shape="rect" id="node16" href="$closest_expmapmex_8cpp.html#a700bbe7965fce4d0099ee43380253018" title="closestExpmapWithGradient" alt="" coords="225,557,413,584"/>
+<area shape="rect" id="node18" href="$drake_mex_util_8h.html#a36fba6f55f547ceecf0a19b82bb1a376" title="eigenToTaylorVar" alt="" coords="258,608,381,635"/>
+<area shape="rect" id="node20" href="$expmap2quat_implmex_8cpp.html#a15d5f9069478259e0cda6de06a009c48" title="expmap2quatWithGradient" alt="" coords="231,659,407,685"/>
+<area shape="rect" id="node22" href="$expmap2quat_implmex_8cpp.html#a5226aa228100a40ff1add1776e1967e6" title="expmap2quatWithSecondDeriv" alt="" coords="220,709,419,736"/>
+<area shape="rect" id="node23" href="$flip_expmapmex_8cpp.html#a1fd1fdca229aa9e43505b0125aae525a" title="quat2expmapWithGradient" alt="" coords="231,760,407,787"/>
+<area shape="rect" id="node25" href="$test_geometry_conversion_functionsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="271,811,368,837"/>
+<area shape="rect" id="node26" href="$unwrap_expmapmex_8cpp.html#affe3e9f06a51c7de1ae39dfec5d5e931" title="unwrapExpmapWithGradient" alt="" coords="226,861,413,888"/>
+<area shape="rect" id="node3" href="$quat2expmap_sequencemex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="525,5,623,32"/>
+<area shape="rect" id="node5" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="485,57,663,98"/>
+<area shape="rect" id="node6" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="711,27,896,69"/>
+<area shape="rect" id="node7" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="755,93,852,120"/>
+<area shape="rect" id="node15" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="525,507,623,533"/>
+<area shape="rect" id="node17" href="$closest_expmapmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="525,557,623,584"/>
+<area shape="rect" id="node19" href="$drake_mex_util_8h.html#aa7e13409eccc48bb54d199cc036b4723" title="eigenToMatlabGeneral" alt="" coords="499,608,649,635"/>
+<area shape="rect" id="node21" href="$expmap2quat_implmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="525,684,623,711"/>
+<area shape="rect" id="node24" href="$flip_expmapmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="525,760,623,787"/>
+<area shape="rect" id="node27" href="$unwrap_expmapmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="525,861,623,888"/>
+</map>

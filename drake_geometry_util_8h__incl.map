@@ -1,0 +1,9 @@
+<map id="drake/util/drakeGeometryUtil.h" name="drake/util/drakeGeometryUtil.h">
+<area shape="rect" id="node6" href="$constants_8h.html" title="drake/common/constants.h" alt="" coords="5,273,185,300"/>
+<area shape="rect" id="node7" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="1077,184,1221,225"/>
+<area shape="rect" id="node10" href="$drake__deprecated_8h.html" title="Provides a portable macro for use in generating compile&#45;time warnings for use of code that is permitt..." alt="" coords="951,95,1095,136"/>
+<area shape="rect" id="node11" href="$eigen__types_8h.html" title="This file contains abbreviated definitions for certain specializations of Eigen::Matrix that are comm..." alt="" coords="131,184,273,225"/>
+<area shape="rect" id="node14" href="$math_2_gradient_8h.html" title="drake/math/gradient.h" alt="" coords="432,191,580,218"/>
+<area shape="rect" id="node15" href="$quaternion_8h.html" title="Utilities for arithmetic on quaternions. " alt="" coords="249,102,411,129"/>
+<area shape="rect" id="node16" href="$drake_gradient_util_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="541,95,701,136"/>
+</map>

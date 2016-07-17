@@ -1,0 +1,4 @@
+<map id="ComputeMaximumDepthCollisionPoints" name="ComputeMaximumDepthCollisionPoints">
+<area shape="rect" id="node2" href="$class_drake_shapes_1_1_element.html#a7ed07b6330a61e05cf2ea43a5d81433b" title="DrakeShapes::Element\l::getShape" alt="" coords="278,5,434,47"/>
+<area shape="rect" id="node3" href="$namespace_drake_collision.html#af9640733e15f4df6187fd8f04a90021d" title="DrakeCollision::toVector3d" alt="" coords="268,71,444,98"/>
+</map>

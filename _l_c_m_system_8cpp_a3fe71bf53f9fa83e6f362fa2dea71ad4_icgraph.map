@@ -1,0 +1,6 @@
+<map id="waitForLCM" name="waitForLCM">
+<area shape="rect" id="node2" href="$class_drake_1_1internal_1_1_l_c_m_loop.html#a35855558696ed08153ed89d1d4771fcd" title="Drake::internal::LCMLoop\l::loopWithSelect" alt="" coords="144,23,313,65"/>
+<area shape="rect" id="node3" href="$group__simulation.html#ga1511d43487a33f73b84ae6556d5db0c3" title="runLCM " alt="" coords="361,31,471,57"/>
+<area shape="rect" id="node4" href="$namespace_drake.html#a6ee77b9123a2ac527aa5487fc8b5708b" title="Drake::runLCM" alt="" coords="519,5,628,32"/>
+<area shape="rect" id="node5" href="$rigid_body_l_c_m_node_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="548,56,599,83"/>
+</map>

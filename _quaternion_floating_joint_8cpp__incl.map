@@ -1,0 +1,13 @@
+<map id="drake/systems/plants/joints/QuaternionFloatingJoint.cpp" name="drake/systems/plants/joints/QuaternionFloatingJoint.cpp">
+<area shape="rect" id="node2" href="$_quaternion_floating_joint_8h.html" title="QuaternionFloatingJoint.h" alt="" coords="1231,95,1400,121"/>
+<area shape="rect" id="node3" href="$constants_8h.html" title="drake/common/constants.h" alt="" coords="1789,437,1969,464"/>
+<area shape="rect" id="node4" href="$eigen__types_8h.html" title="This file contains abbreviated definitions for certain specializations of Eigen::Matrix that are comm..." alt="" coords="1253,348,1396,389"/>
+<area shape="rect" id="node7" href="$quaternion_8h.html" title="Utilities for arithmetic on quaternions. " alt="" coords="1017,266,1179,293"/>
+<area shape="rect" id="node9" href="$_drake_joint_impl_8h.html" title="drake/systems/plants\l/joints/DrakeJointImpl.h" alt="" coords="1179,169,1337,211"/>
+<area shape="rect" id="node15" href="$drake_geometry_util_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="895,169,1063,211"/>
+<area shape="rect" id="node10" href="$_drake_joint_8h.html" title="drake/systems/plants\l/joints/DrakeJoint.h" alt="" coords="1411,259,1558,300"/>
+<area shape="rect" id="node13" href="$math_2_gradient_8h.html" title="drake/math/gradient.h" alt="" coords="1081,355,1229,382"/>
+<area shape="rect" id="node17" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="113,348,257,389"/>
+<area shape="rect" id="node20" href="$drake__deprecated_8h.html" title="Provides a portable macro for use in generating compile&#45;time warnings for use of code that is permitt..." alt="" coords="555,259,699,300"/>
+<area shape="rect" id="node22" href="$drake_gradient_util_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="286,259,446,300"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="getPolynomialMatrix" name="getPolynomialMatrix">
+<area shape="rect" id="node2" href="$zmp_util_8cpp.html#ac431b61044eb2bd705b7d164ba93861c" title="s1Trajectory" alt="" coords="244,56,337,83"/>
+<area shape="rect" id="node5" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="193,107,388,133"/>
+<area shape="rect" id="node7" href="$lcm_util_8h.html#a5e31e8d3f170d876e619701e63390aa1" title="encodePiecewisePolynomial" alt="" coords="197,195,384,221"/>
+<area shape="rect" id="node3" href="$compute_s1_trajmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="477,5,574,32"/>
+<area shape="rect" id="node4" href="$_q_p_locomotion_plan_8cpp.html#a6b3008cbf69cc7b1e3a38d580fe615f5" title="firstOrderHold" alt="" coords="475,56,576,83"/>
+<area shape="rect" id="node6" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="477,107,574,133"/>
+<area shape="rect" id="node8" href="$class_q_p_locomotion_plan.html#ab6dcb1484b8d1b7b65574e7b74f2629a" title="QPLocomotionPlan::create\lQPControllerInput" alt="" coords="436,158,615,199"/>
+<area shape="rect" id="node9" href="$lcm_util_8h.html#a792807b46b38988416d630eb96e354f2" title="decodePolynomialMatrix" alt="" coords="443,224,607,251"/>
+<area shape="rect" id="node10" href="$test_l_c_m_util_8cpp.html#a02ddb4b11c47fb1314670f407eaafade" title="testPiecewisePolynomial" alt="" coords="442,275,609,301"/>
+<area shape="rect" id="node11" href="$test_l_c_m_util_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="663,275,713,301"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="isApprox" name="isApprox">
+<area shape="rect" id="node2" href="$class_piecewise_polynomial.html#acff48ea2602882b13d890bd2751590da" title="rows" alt="" coords="181,5,230,32"/>
+<area shape="rect" id="node3" href="$class_piecewise_polynomial.html#a6ddb58a344114da2999204c069ae3f91" title="cols" alt="" coords="182,56,229,83"/>
+<area shape="rect" id="node4" href="$class_piecewise_function.html#aa0e6a330c9017bd82330bd6023346953" title="PiecewiseFunction::\lsegmentTimesEqual" alt="" coords="135,107,275,149"/>
+<area shape="rect" id="node7" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="127,173,284,214"/>
+<area shape="rect" id="node5" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="332,115,415,141"/>
+<area shape="rect" id="node6" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="463,107,615,149"/>
+</map>

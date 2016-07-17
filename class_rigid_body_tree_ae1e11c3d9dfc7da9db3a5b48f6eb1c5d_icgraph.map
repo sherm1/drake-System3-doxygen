@@ -1,0 +1,13 @@
+<map id="updateDynamicCollisionElements" name="updateDynamicCollisionElements">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a8cea7311fd347cbd9d8f82039c5fd413" title="collisionDetectFromPoints " alt="" coords="289,5,464,32"/>
+<area shape="rect" id="node4" href="$class_rigid_body_tree.html#a920d5229c17b4ee9c9a208e6907c3676" title="potentialCollisions" alt="" coords="313,56,440,83"/>
+<area shape="rect" id="node6" href="$class_rigid_body_tree.html#a15495ec955aeb2ddec3da388d3ab5191" title="Computes the point of closest approach between bodies in the RigidBodyTree that are in contact..." alt="" coords="269,107,484,149"/>
+<area shape="rect" id="node7" href="$class_rigid_body_tree.html#a2985ac4da5a693dd0f7cbf4399857a98" title="collidingPointsCheckOnly" alt="" coords="291,173,462,200"/>
+<area shape="rect" id="node9" href="$class_rigid_body_tree.html#a4ee04ee05aa234710873c057e3eaf374" title="collidingPoints" alt="" coords="323,224,430,251"/>
+<area shape="rect" id="node11" href="$class_rigid_body_tree.html#a887d5e35d3c9efe5829919cce6bef698" title="allCollisions" alt="" coords="331,275,422,301"/>
+<area shape="rect" id="node3" href="$collision_detect_from_pointsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="532,5,629,32"/>
+<area shape="rect" id="node5" href="$collision_detectmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="532,56,629,83"/>
+<area shape="rect" id="node8" href="$colliding_points_check_onlymex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="532,173,629,200"/>
+<area shape="rect" id="node10" href="$colliding_pointsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="532,224,629,251"/>
+<area shape="rect" id="node12" href="$all_collisionsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="532,275,629,301"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="segmentTimesEqual" name="segmentTimesEqual">
+<area shape="rect" id="node2" href="$class_piecewise_polynomial.html#a5fd8f925144c7ba34c2406f62954d94a" title="PiecewisePolynomial\l::operator+=" alt="" coords="193,23,339,65"/>
+<area shape="rect" id="node7" href="$class_piecewise_polynomial.html#a3795cfe0cd51e9891d27cdb0bf2f55b6" title="PiecewisePolynomial\l::operator&#45;=" alt="" coords="193,89,339,130"/>
+<area shape="rect" id="node8" href="$class_piecewise_polynomial.html#a868dde62a655f092ef3d2233aa6687ef" title="PiecewisePolynomial\l::operator*=" alt="" coords="193,154,339,195"/>
+<area shape="rect" id="node9" href="$class_piecewise_polynomial.html#a3ad14253af58f6ba918728486794d0d5" title="Checks if a PiecewisePolynomial is approximately equal to this one. " alt="" coords="193,219,339,261"/>
+<area shape="rect" id="node3" href="$class_piecewise_polynomial.html#abf309ea9d32f27a13ea794d42d2de952" title="PiecewisePolynomial\l::getSegmentPolynomialDegree" alt="" coords="387,23,592,65"/>
+<area shape="rect" id="node4" href="$zmp_util_8cpp.html#ac431b61044eb2bd705b7d164ba93861c" title="s1Trajectory" alt="" coords="640,31,733,57"/>
+<area shape="rect" id="node5" href="$compute_s1_trajmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="783,5,881,32"/>
+<area shape="rect" id="node6" href="$_q_p_locomotion_plan_8cpp.html#a6b3008cbf69cc7b1e3a38d580fe615f5" title="firstOrderHold" alt="" coords="781,56,883,83"/>
+</map>

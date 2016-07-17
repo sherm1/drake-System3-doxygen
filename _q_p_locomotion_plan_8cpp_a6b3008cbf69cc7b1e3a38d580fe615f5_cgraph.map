@@ -1,0 +1,26 @@
+<map id="firstOrderHold" name="firstOrderHold">
+<area shape="rect" id="node2" href="$zmp_util_8cpp.html#ac431b61044eb2bd705b7d164ba93861c" title="s1Trajectory" alt="" coords="208,359,301,386"/>
+<area shape="rect" id="node20" href="$class_rigid_body_tree.html#a8f49d2bdf6a0470e074de082d88945a4" title="Obtains the index of a rigid body within this rigid body tree. " alt="" coords="155,567,355,594"/>
+<area shape="rect" id="node23" href="$class_rigid_body_tree.html#a879aa78b84e96c5266f66b605bbe253d" title="RigidBodyTree::findJointId" alt="" coords="169,618,340,644"/>
+<area shape="rect" id="node25" href="$class_q_p_locomotion_plan.html#aa6e6a576e1a30e6bb85b0a40a6bce63a" title="QPLocomotionPlan::create\lQPControllerInput" alt="" coords="165,669,344,710"/>
+<area shape="rect" id="node3" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="1109,322,1267,364"/>
+<area shape="rect" id="node4" href="$class_piecewise_polynomial.html#abf309ea9d32f27a13ea794d42d2de952" title="PiecewisePolynomial\l::getSegmentPolynomialDegree" alt="" coords="403,476,608,517"/>
+<area shape="rect" id="node10" href="$class_piecewise_function.html#a61deacd040f26782fa134e9b717ca8ee" title="PiecewiseFunction::\lgetSegmentTimes" alt="" coords="436,228,575,269"/>
+<area shape="rect" id="node11" href="$class_piecewise_polynomial.html#aa186c04292c38dc34d8e5c58e6643434" title="PiecewisePolynomial\l::value" alt="" coords="433,162,578,204"/>
+<area shape="rect" id="node18" href="$class_piecewise_function.html#ab9da73d633201867cf931680828f6afd" title="PiecewiseFunction::\lgetEndTime" alt="" coords="436,410,575,452"/>
+<area shape="rect" id="node19" href="$class_piecewise_polynomial.html#a59218b09d3c6952001c73a3c49eaa53e" title="PiecewisePolynomial\l::getPolynomialMatrix" alt="" coords="431,293,579,334"/>
+<area shape="rect" id="node5" href="$class_piecewise_function.html#af30f78a6fbfd315f5d2a166cf4b1c525" title="PiecewiseFunction::\lsegmentNumberRangeCheck" alt="" coords="669,410,860,452"/>
+<area shape="rect" id="node6" href="$class_piecewise_polynomial.html#a5fd8f925144c7ba34c2406f62954d94a" title="PiecewisePolynomial\l::operator+=" alt="" coords="692,476,837,517"/>
+<area shape="rect" id="node7" href="$class_piecewise_function.html#aa0e6a330c9017bd82330bd6023346953" title="PiecewiseFunction::\lsegmentTimesEqual" alt="" coords="921,476,1061,517"/>
+<area shape="rect" id="node8" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="1147,483,1229,510"/>
+<area shape="rect" id="node9" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="1315,476,1467,517"/>
+<area shape="rect" id="node12" href="$class_piecewise_function.html#aa35609bb4c7fc71304c47fd0132ae828" title="PiecewiseFunction::\lgetSegmentIndex" alt="" coords="695,234,834,276"/>
+<area shape="rect" id="node13" href="$class_piecewise_function.html#a17e20f6b6982b3b67a96c9e7b2486e8d" title="PiecewiseFunction::\lgetStartTime" alt="" coords="922,38,1061,80"/>
+<area shape="rect" id="node14" href="$class_piecewise_function.html#a153c61dac33235418d1642e2372cbe72" title="PiecewiseFunction::\lgetEndTime" alt="" coords="922,293,1061,334"/>
+<area shape="rect" id="node15" href="$class_piecewise_polynomial.html#acff48ea2602882b13d890bd2751590da" title="PiecewisePolynomial\l::rows" alt="" coords="692,104,837,145"/>
+<area shape="rect" id="node16" href="$class_piecewise_polynomial.html#a6ddb58a344114da2999204c069ae3f91" title="PiecewisePolynomial\l::cols" alt="" coords="692,169,837,210"/>
+<area shape="rect" id="node17" href="$class_piecewise_polynomial.html#acc6f9183863aadee5e7e1cc317c1c57d" title="PiecewisePolynomial\l::segmentValueAtGlobalAbscissa" alt="" coords="656,38,873,80"/>
+<area shape="rect" id="node21" href="$class_rigid_body_tree.html#a1e0b241ac2b40c00ebf408128cc18bb3" title="Finds a body with the specified body_name belonging to a model with the specified model_name and mode..." alt="" coords="421,542,590,568"/>
+<area shape="rect" id="node22" href="$test_util_8h.html#a4290b86928fb877abbb71cc6a4e263dc" title="to_string" alt="" coords="729,592,801,619"/>
+<area shape="rect" id="node24" href="$class_rigid_body_tree.html#a08d39cc048d42cba139ca20b779edb08" title="Obtains a pointer to the rigid body whose parent joint is named joint_name and is part of a model wit..." alt="" coords="425,643,586,670"/>
+</map>

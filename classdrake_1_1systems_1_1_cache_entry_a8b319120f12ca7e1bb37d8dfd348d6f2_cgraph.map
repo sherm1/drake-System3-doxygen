@@ -1,0 +1,4 @@
+<map id="get_value" name="get_value">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_cache_entry.html#a8ee2f97ed93e0e99cdeb76263090b645" title="Return a const reference to the AbstractValue contained in this cache entry, regardless of whether it..." alt="" coords="149,5,279,32"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_abstract_value.html#ab6d4fa0cabdfa30da4b22d5dcd77e0fc" title="Returns the value wrapped in this AbstractValue, which must be of exactly type T. ..." alt="" coords="129,57,299,98"/>
+</map>

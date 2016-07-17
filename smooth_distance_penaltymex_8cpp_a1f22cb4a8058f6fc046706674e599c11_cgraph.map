@@ -1,0 +1,9 @@
+<map id="smoothDistancePenalty" name="smoothDistancePenalty">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a49feb527fdea334223689ad9bd923b7f" title="An accessor to the number of position states outputted by this rigid body system. ..." alt="" coords="219,5,376,47"/>
+<area shape="rect" id="node3" href="$namespacedrake.html#a4d9daa23e20328990764f5908fe26e59" title="drake::exp" alt="" coords="256,71,339,98"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#a60f97c1290f377658d8f6a8e0bffc8e3" title="RigidBodyTree::transform\lPointsJacobian" alt="" coords="213,159,381,200"/>
+<area shape="rect" id="node4" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="441,45,593,87"/>
+<area shape="rect" id="node6" href="$class_rigid_body_tree.html#a3d8dcea6ae0ff6abb3d76e2456e326f5" title="RigidBodyTree::transform\lPoints" alt="" coords="433,111,601,152"/>
+<area shape="rect" id="node7" href="$class_rigid_body_tree.html#a017804f38e8e874c11ba69feba6f111d" title="RigidBodyTree::parseBody\lOrFrameID" alt="" coords="429,176,605,217"/>
+<area shape="rect" id="node8" href="$class_rigid_body_tree.html#aaf10e7e9022d5fa04c9cf7f6e6199eb6" title="RigidBodyTree::geometric\lJacobian" alt="" coords="432,241,603,283"/>
+</map>

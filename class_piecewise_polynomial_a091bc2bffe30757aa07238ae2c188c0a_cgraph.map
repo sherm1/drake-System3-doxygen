@@ -1,0 +1,7 @@
+<map id="integral" name="integral">
+<area shape="rect" id="node2" href="$class_piecewise_polynomial.html#acff48ea2602882b13d890bd2751590da" title="rows" alt="" coords="197,5,247,32"/>
+<area shape="rect" id="node3" href="$class_piecewise_polynomial.html#a6ddb58a344114da2999204c069ae3f91" title="cols" alt="" coords="199,56,245,83"/>
+<area shape="rect" id="node4" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="143,107,301,149"/>
+<area shape="rect" id="node5" href="$class_piecewise_polynomial.html#acc6f9183863aadee5e7e1cc317c1c57d" title="segmentValueAtGlobalAbscissa" alt="" coords="117,173,327,200"/>
+<area shape="rect" id="node6" href="$class_piecewise_function.html#a17e20f6b6982b3b67a96c9e7b2486e8d" title="PiecewiseFunction::\lgetStartTime" alt="" coords="375,191,513,233"/>
+</map>

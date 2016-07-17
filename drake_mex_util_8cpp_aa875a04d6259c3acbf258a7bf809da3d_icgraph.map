@@ -1,0 +1,14 @@
+<map id="sizecheck" name="sizecheck">
+<area shape="rect" id="node2" href="$construct_ptr_rigid_body_constraintmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="169,5,267,32"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8h.html#a33d7c55cda19f8c8dbe930425de2f89f" title="stdVectorToMatlab" alt="" coords="153,56,283,83"/>
+<area shape="rect" id="node13" href="$drake_mex_util_8h.html#a49a631d099faa4061563c8f03289dc0f" title="matlabToCArrayOfArrays" alt="" coords="135,107,301,133"/>
+<area shape="rect" id="node4" href="$n_waypoint_cubic_spline_free_knot_timesmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="349,31,447,57"/>
+<area shape="rect" id="node5" href="$rigid_body_tree_mex_conversions_8h.html#a95cba723885817c852c849406ddc9fb1" title="toMex specializations " alt="" coords="369,81,427,108"/>
+<area shape="rect" id="node6" href="$mexify_8h.html#a8e7b02d30197349f8645aeb425c83d59" title="mexCallFunctionUnsafe Converts arguments and calls function without checking whether arguments are co..." alt="" coords="495,81,653,108"/>
+<area shape="rect" id="node7" href="$mexify_8h.html#acc5d3d017ff33e04a1a4ed87aa854db4" title="mexCallFunctionUnsafe" alt="" coords="701,56,860,83"/>
+<area shape="rect" id="node8" href="$mexify_8h.html#a139df4b19556e4b6306c8ad039bf215f" title="mexCallFunction checks whether arguments are convertible, and then calls mexCallFunctionUnsafe. " alt="" coords="721,107,840,133"/>
+<area shape="rect" id="node9" href="$rigid_body_tree_mex_functions_8h.html#aaacab599a56a55ecd1de41835f3321b5" title="findKinematicPathmex" alt="" coords="911,56,1063,83"/>
+<area shape="rect" id="node11" href="$closest_expmapmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="939,107,1036,133"/>
+<area shape="rect" id="node12" href="$mexify_8h.html#ad9969965efc088150ab358193b92f5d2" title="mexTryToCallFunctions" alt="" coords="908,157,1067,184"/>
+<area shape="rect" id="node10" href="$find_kinematic_pathmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1115,56,1212,83"/>
+</map>

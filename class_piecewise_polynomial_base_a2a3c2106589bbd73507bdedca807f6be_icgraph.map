@@ -1,0 +1,11 @@
+<map id="getNumberOfCoefficients" name="getNumberOfCoefficients">
+<area shape="rect" id="node2" href="$spline_generation_8h.html#aa5293f5a8e466c41d5a26ebde5547240" title="generateSpline" alt="" coords="460,111,568,137"/>
+<area shape="rect" id="node10" href="$class_piecewise_polynomial_base.html#a98fcbe5cd3dcc746ffa1b9571252dd9a" title="getTotalNumberOfCoefficients" alt="" coords="219,136,412,163"/>
+<area shape="rect" id="node3" href="$spline_generation_8cpp.html#a6a06a3d3095252653412803f304d589f" title="nWaypointCubicSpline" alt="" coords="653,81,807,108"/>
+<area shape="rect" id="node9" href="$class_constraint_matrix_singular_error.html#a17b1d4b27b51ed8036bc96e6db7c5145" title="ConstraintMatrixSingular\lError::ConstraintMatrixSingularError" alt="" coords="616,133,844,174"/>
+<area shape="rect" id="node4" href="$n_waypoint_cubic_spline_free_knot_timesmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="941,5,1038,32"/>
+<area shape="rect" id="node5" href="$test_spline_generation_8cpp.html#aa63b5d289cc80814c58ec8310ed7549f" title="randomSpeedTest" alt="" coords="926,56,1053,83"/>
+<area shape="rect" id="node6" href="$test_spline_generation_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1158,81,1209,108"/>
+<area shape="rect" id="node7" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="892,157,1087,184"/>
+<area shape="rect" id="node8" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1135,157,1232,184"/>
+</map>

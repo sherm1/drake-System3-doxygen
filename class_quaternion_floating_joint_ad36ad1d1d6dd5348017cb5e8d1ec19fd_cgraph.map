@@ -1,0 +1,8 @@
+<map id="randomConfiguration" name="randomConfiguration">
+<area shape="rect" id="node2" href="$drake_geometry_util_8cpp.html#adb88df2a9e4048488680490f3cbe5401" title="uniformlyRandomQuat" alt="" coords="193,56,344,83"/>
+<area shape="rect" id="node3" href="$namespacedrake_1_1math.html#a593885e505c3cb0a4c67a016c3d820e1" title="drake::math::axis2quat" alt="" coords="405,31,560,57"/>
+<area shape="rect" id="node7" href="$drake_geometry_util_8cpp.html#adc5626220f12c4f3af05ecbe7e06eb65" title="uniformlyRandomAxisAngle" alt="" coords="392,81,573,108"/>
+<area shape="rect" id="node4" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="621,5,704,32"/>
+<area shape="rect" id="node6" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="623,56,702,83"/>
+<area shape="rect" id="node5" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="752,23,904,65"/>
+</map>

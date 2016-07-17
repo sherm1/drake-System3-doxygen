@@ -1,0 +1,5 @@
+<map id="addElement" name="addElement">
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_model.html#aca54374a8799297642973c6789013851" title="Add a collision element to this model. " alt="" coords="144,5,292,47"/>
+<area shape="rect" id="node3" href="$class_drake_collision_1_1_element.html#a6c717aacfd45cb9f2c235788eadd9db6" title="DrakeCollision::Element\l::clone" alt="" coords="340,5,501,47"/>
+<area shape="rect" id="node4" href="$class_drake_collision_1_1_element.html#a82f6e1ddea08d4963e955607b262d4e2" title="DrakeCollision::Element\l::Element" alt="" coords="549,5,711,47"/>
+</map>

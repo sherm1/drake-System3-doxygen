@@ -1,0 +1,8 @@
+<map id="quat2expmap" name="quat2expmap">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math.html#a068e4e5c69ceccbfebfaeb9c91723d39" title="quat2expmapSequence" alt="" coords="171,5,330,32"/>
+<area shape="rect" id="node4" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="153,56,348,83"/>
+<area shape="rect" id="node6" href="$quat2expmapmex_8cpp.html#a64b71962bcd4deb0f11a10e89b4d7818" title="quat2expmapWithGradient" alt="" coords="163,107,339,133"/>
+<area shape="rect" id="node7" href="$quat2expmapmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="396,132,493,159"/>
+<area shape="rect" id="node3" href="$quat2expmap_sequencemex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="396,5,493,32"/>
+<area shape="rect" id="node5" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="396,56,493,83"/>
+</map>

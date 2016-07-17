@@ -1,0 +1,6 @@
+<map id="CollidesWith" name="CollidesWith">
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_element.html#af37a20797aec42df9b73eab6d40faed8" title="Returns a pointer to the const RigidBody to which this CollisionElement is attached. " alt="" coords="149,5,310,47"/>
+<area shape="rect" id="node3" href="$class_rigid_body.html#ad87c91fe9acf143d25d4400b53425536" title="RigidBody::CollidesWith" alt="" coords="148,71,311,98"/>
+<area shape="rect" id="node4" href="$class_rigid_body.html#a88bcd53c465eda505618a46bcf611d18" title="RigidBody::getCollisionFilter\lIgnores" alt="" coords="359,31,544,72"/>
+<area shape="rect" id="node5" href="$class_rigid_body.html#a7bc38734f6a6bbf123843ab9fcb09e7a" title="RigidBody::getCollisionFilter\lGroup" alt="" coords="359,96,544,137"/>
+</map>

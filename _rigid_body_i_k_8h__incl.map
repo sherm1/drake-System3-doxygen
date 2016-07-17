@@ -1,0 +1,20 @@
+<map id="drake/systems/plants/RigidBodyIK.h" name="drake/systems/plants/RigidBodyIK.h">
+<area shape="rect" id="node5" href="$_rigid_body_constraint_8h.html" title="drake/systems/plants\l/constraint/RigidBodyConstraint.h" alt="" coords="568,95,784,136"/>
+<area shape="rect" id="node46" href="$_i_koptions_8h.html" title="drake/systems/plants\l/IKoptions.h" alt="" coords="1503,95,1649,136"/>
+<area shape="rect" id="node10" href="$_kinematics_cache_8h.html" title="drake/systems/plants\l/KinematicsCache.h" alt="" coords="1005,184,1152,225"/>
+<area shape="rect" id="node44" href="$drake_util_8h.html" title="drake/util/drakeUtil.h" alt="" coords="552,191,693,218"/>
+<area shape="rect" id="node18" href="$constants_8h.html" title="drake/common/constants.h" alt="" coords="1257,549,1437,575"/>
+<area shape="rect" id="node19" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="771,273,915,315"/>
+<area shape="rect" id="node21" href="$eigen__types_8h.html" title="This file contains abbreviated definitions for certain specializations of Eigen::Matrix that are comm..." alt="" coords="850,452,993,493"/>
+<area shape="rect" id="node23" href="$_rigid_body_8h.html" title="drake/systems/plants\l/RigidBody.h" alt="" coords="1620,273,1767,315"/>
+<area shape="rect" id="node40" href="$_drake_joint_8h.html" title="drake/systems/plants\l/joints/DrakeJoint.h" alt="" coords="1243,363,1389,404"/>
+<area shape="rect" id="node28" href="$_drake_collision_8h.html" title="drake/systems/plants\l/collision/DrakeCollision.h" alt="" coords="2029,363,2200,404"/>
+<area shape="rect" id="node30" href="$collision_2_element_8h.html" title="Element.h" alt="" coords="2159,631,2241,657"/>
+<area shape="rect" id="node38" href="$_model_8h.html" title="Model.h" alt="" coords="2167,459,2235,486"/>
+<area shape="rect" id="node33" href="$_drake_shapes_8h.html" title="drake/systems/plants\l/shapes/DrakeShapes.h" alt="" coords="1934,705,2095,747"/>
+<area shape="rect" id="node34" href="$_geometry_8h.html" title="Geometry.h" alt="" coords="1949,944,2040,971"/>
+<area shape="rect" id="node36" href="$shapes_2_element_8h.html" title="Element.h" alt="" coords="2085,869,2166,896"/>
+<area shape="rect" id="node37" href="$_visual_element_8h.html" title="VisualElement.h" alt="" coords="1932,795,2049,821"/>
+<area shape="rect" id="node39" href="$point__pair_8h.html" title="drake/systems/plants\l/collision/point_pair.h" alt="" coords="2253,541,2400,583"/>
+<area shape="rect" id="node42" href="$math_2_gradient_8h.html" title="drake/math/gradient.h" alt="" coords="1263,631,1411,657"/>
+</map>

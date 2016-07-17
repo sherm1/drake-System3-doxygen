@@ -1,0 +1,8 @@
+<map id="fastQP" name="fastQP">
+<area shape="rect" id="node2" href="$fast_q_pmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="156,9,253,35"/>
+<area shape="rect" id="node3" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="116,60,293,101"/>
+<area shape="rect" id="node6" href="$solve_l_c_pmex_8cpp.html#a59d7404beadc3fd8b365c2b4706122ef" title="callFastQP" alt="" coords="161,126,248,153"/>
+<area shape="rect" id="node4" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="341,5,527,47"/>
+<area shape="rect" id="node5" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="385,71,483,98"/>
+<area shape="rect" id="node7" href="$solve_l_c_pmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="385,126,483,153"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="VectorObject" name="VectorObject">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_vector_object.html#ab863df8ed6316860117a6bf26e131bbd" title="Returns true if this VectorObject does not own a VectorInterface object. " alt="" coords="163,5,222,32"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_vector_object.html#a9ab2f738e32ea90524b00d1e2e4d0f45" title="Returns a const reference to the VectorInterface object owned by this VectorObject, if any. " alt="" coords="152,56,233,83"/>
+</map>

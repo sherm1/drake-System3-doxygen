@@ -1,0 +1,7 @@
+<map id="RigidBodySpringDamper" name="RigidBodySpringDamper">
+<area shape="rect" id="node2" href="$class_drake_1_1_rigid_body_force_element.html" title="RigidBodyForceElement. " alt="" coords="175,213,338,240"/>
+<area shape="rect" id="node3" href="$class_drake_1_1_rigid_body_system.html" title="Implements the System concept by wrapping the RigidBodyTree algorithms with additional sensors and ac..." alt="" coords="124,124,251,151"/>
+<area shape="rect" id="node4" href="$classdouble.html" title="double" alt="" coords="5,5,65,32"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="283,124,337,151"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="247,5,389,32"/>
+</map>

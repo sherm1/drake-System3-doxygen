@@ -1,0 +1,38 @@
+<map id="mexFunction" name="mexFunction">
+<area shape="rect" id="node2" href="$_d_c_s_function_8cpp.html#aed53249fc6c3f2ff9cc6dce89b8f9c1e" title="isa" alt="" coords="211,5,250,32"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8cpp.html#aa711ef3046dbfc38f54f769417041117" title="getDrakeMexPointer" alt="" coords="161,56,301,83"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8cpp.html#af003ced56a50849150021ef0ac7f2885" title="mxGetPropertySafe" alt="" coords="962,491,1098,517"/>
+<area shape="rect" id="node5" href="$construct_q_p_locomotion_planmex_8cpp.html#a24b3ea4809353b8d074b877200b1b379" title="setUpSupports" alt="" coords="177,224,285,251"/>
+<area shape="rect" id="node6" href="$drake_mex_util_8cpp.html#a7b774bdf0ad380ca71c5deb69281ddd6" title="matlabToStdVector\&lt;\l int \&gt;" alt="" coords="409,158,550,199"/>
+<area shape="rect" id="node8" href="$drake_mex_util_8cpp.html#a14807222c6247f3687ff9fd04e5f72ff" title="matlabToStdVector\&lt;\l double \&gt;" alt="" coords="1207,401,1348,442"/>
+<area shape="rect" id="node10" href="$construct_q_p_locomotion_planmex_8cpp.html#af5509c9cccc2538980fb211ae1663a5c" title="setUpContactGroups" alt="" coords="159,341,302,368"/>
+<area shape="rect" id="node11" href="$drake_mex_util_8cpp.html#a6532ef8cfbf13da525097a8a749d19f8" title="matlabToStdVector\&lt;\l bool \&gt;" alt="" coords="959,233,1101,274"/>
+<area shape="rect" id="node12" href="$construct_q_p_locomotion_planmex_8cpp.html#ac8a52d57c5cc39560ec8053676bcfc01" title="setUpBodyMotions" alt="" coords="687,392,819,419"/>
+<area shape="rect" id="node16" href="$construct_q_p_locomotion_planmex_8cpp.html#a7353c92d9b380f150ab841f5fdcc5a26" title="matlabPPTrajectoryOrMatrix\lToPiecewisePolynomial" alt="" coords="660,503,847,545"/>
+<area shape="rect" id="node19" href="$construct_q_p_locomotion_planmex_8cpp.html#a1cb1cd5af9e28f273ad1452458f21b16" title="setUpZMPData" alt="" coords="424,675,535,701"/>
+<area shape="rect" id="node20" href="$construct_q_p_locomotion_planmex_8cpp.html#a781f1af328acede2778a0e141506ac17" title="setUpLyapunovFunction" alt="" coords="151,544,311,571"/>
+<area shape="rect" id="node21" href="$construct_q_p_locomotion_planmex_8cpp.html#a85f73bb40f8ab1b3be7c0bf5bc08accc" title="matlabExpPlusPPOrPPTrajectory\lOrVectorToExponentialPlusPiecewise\lPolynomial" alt="" coords="359,493,600,549"/>
+<area shape="rect" id="node23" href="$drake_mex_util_8cpp.html#ae6093bfd52a63656cb83413fa9f11c9d" title="mxGetStdString" alt="" coords="173,725,288,752"/>
+<area shape="rect" id="node24" href="$drake_util_8h.html#a37c3a1858bffc163db73598b446cb407" title="addOffset" alt="" coords="192,776,269,803"/>
+<area shape="rect" id="node33" href="$drake_mex_util_8cpp.html#a80848747f3c10b087080bc2e734f049d" title="createDrakeMexPointer" alt="" coords="151,877,310,904"/>
+<area shape="rect" id="node7" href="$drake_mex_util_8cpp.html#ad199729459890acaed873c8ff86eb737" title="mxGetFieldOrPropertySafe" alt="" coords="941,181,1119,208"/>
+<area shape="rect" id="node9" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="1401,379,1501,405"/>
+<area shape="rect" id="node13" href="$construct_q_p_locomotion_planmex_8cpp.html#a0e086cce771efe8a331b9cd5d0c6a379" title="matlabCoefsAndBreaksToPiecewise\lPolynomial" alt="" coords="915,401,1145,442"/>
+<area shape="rect" id="node15" href="$namespacedrake_1_1math.html#a3607753ce14d5404a48f81757be2b929" title="drake::math::quat2rotmat" alt="" coords="946,299,1114,325"/>
+<area shape="rect" id="node14" href="$drake_mex_util_8cpp.html#a27fe2cece2b786001e80198e9a442a03" title="sub2ind" alt="" coords="1244,492,1311,519"/>
+<area shape="rect" id="node17" href="$construct_q_p_locomotion_planmex_8cpp.html#a25b89463c06ade5ad73c24a56eb88dad" title="matlabPPFormToPiecewisePolynomial" alt="" coords="907,541,1153,568"/>
+<area shape="rect" id="node18" href="$drake_mex_util_8cpp.html#aa284a84f278efd230c5bc2c502e6b34f" title="mxGetFieldSafe" alt="" coords="1220,592,1335,619"/>
+<area shape="rect" id="node22" href="$construct_q_p_locomotion_planmex_8cpp.html#a9e2d12c2b92d12201fafc75ef824ae9b" title="matlabExpPlusPPToExponential\lPlusPiecewisePolynomial" alt="" coords="648,326,859,367"/>
+<area shape="rect" id="node25" href="$drake_util_8h.html#ad7d6deb263fff2e786bd0b196b178e9f" title="baseZeroToBaseOne" alt="" coords="408,725,551,752"/>
+<area shape="rect" id="node26" href="$drake_util_8h.html#a62745df4365eb53716d3bf2641b683ee" title="angleAverage" alt="" coords="704,827,803,853"/>
+<area shape="rect" id="node30" href="$drake_util_8h.html#a769f238d6c122f76a1b1e508966a22c2" title="resolveCenterOfPressure" alt="" coords="397,776,562,803"/>
+<area shape="rect" id="node27" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="989,852,1071,879"/>
+<area shape="rect" id="node29" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="991,801,1069,828"/>
+<area shape="rect" id="node28" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="1201,794,1353,835"/>
+<area shape="rect" id="node31" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="989,751,1071,777"/>
+<area shape="rect" id="node32" href="$drake_util_8cpp.html#ac2ef00f5bd7e364651a1490dcfc6d3d0" title="resolveCenterOfPressure" alt="" coords="671,776,836,803"/>
+<area shape="rect" id="node34" href="$drake_mex_util_8cpp.html#a1977b9665d1d18eed74ae49516a0ab33" title="mexCallMATLABsafe" alt="" coords="407,928,552,955"/>
+<area shape="rect" id="node37" href="$drake_mex_util_8cpp.html#aed53249fc6c3f2ff9cc6dce89b8f9c1e" title="isa" alt="" coords="460,877,499,904"/>
+<area shape="rect" id="node35" href="$drake_debug_mex_8cpp.html#af56110aa10fde712e1cc1235edf235a9" title="mexCallMATLABWithTrap" alt="" coords="667,903,840,929"/>
+<area shape="rect" id="node36" href="$drake_debug_mex_8cpp.html#a859f0f135d8ea5e54f49c58ffdfc912d" title="mexPrintf" alt="" coords="715,953,792,980"/>
+</map>

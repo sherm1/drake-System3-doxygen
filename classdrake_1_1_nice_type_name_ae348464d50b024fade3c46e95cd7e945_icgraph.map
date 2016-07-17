@@ -1,0 +1,4 @@
+<map id="Canonicalize" name="Canonicalize">
+<area shape="rect" id="node2" href="$classdrake_1_1_nice_type_name.html#a89324cc6533acac0d049fde3f96fa2c8" title="Attempts to return a nicely demangled and canonicalized type name that is the same on all platforms..." alt="" coords="149,13,192,39"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_vector_input_port3.html#adf07645961ef6c5a156ed311bca7e1b1" title="Create a VectorInputPort3 that only permits a connection to a particular length of VectorOutputPort3..." alt="" coords="240,5,427,47"/>
+</map>

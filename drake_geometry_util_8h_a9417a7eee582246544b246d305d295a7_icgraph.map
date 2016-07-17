@@ -1,0 +1,7 @@
+<map id="uniformlyRandomAxisAngle" name="uniformlyRandomAxisAngle">
+<area shape="rect" id="node2" href="$drake_geometry_util_8h.html#a8bf020c2602aa710a675eca43fba53bb" title="uniformlyRandomQuat" alt="" coords="241,13,392,39"/>
+<area shape="rect" id="node4" href="$drake_geometry_util_8h.html#a5feacf774ec4d9b6de98abb845baba3f" title="uniformlyRandomRotmat" alt="" coords="235,63,399,90"/>
+<area shape="rect" id="node5" href="$drake_geometry_util_8h.html#a292e2bdd72ddf32da67c953c73754ec4" title="uniformlyRandomRPY" alt="" coords="242,114,391,141"/>
+<area shape="rect" id="node3" href="$class_quaternion_floating_joint.html#ad36ad1d1d6dd5348017cb5e8d1ec19fd" title="QuaternionFloatingJoint\l::randomConfiguration" alt="" coords="453,5,612,47"/>
+<area shape="rect" id="node6" href="$class_roll_pitch_yaw_floating_joint.html#ad36ad1d1d6dd5348017cb5e8d1ec19fd" title="RollPitchYawFloatingJoint\l::randomConfiguration" alt="" coords="447,107,619,148"/>
+</map>

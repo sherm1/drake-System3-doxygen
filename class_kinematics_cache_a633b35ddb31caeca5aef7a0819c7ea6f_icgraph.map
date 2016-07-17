@@ -1,0 +1,4 @@
+<map id="getNumVelocities" name="getNumVelocities">
+<area shape="rect" id="node2" href="$class_drake_1_1_rigid_body_accelerometer.html#a47387816c53b5c8a87a2ecb77841cf3d" title="Drake::RigidBodyAccelerometer\l::output" alt="" coords="177,5,384,47"/>
+<area shape="rect" id="node3" href="$rigid_body_tree_mex_functions_8cpp.html#a9ec4a40da76fa3e08f4fc45998f645fe" title="positionDotToVelocityMapping" alt="" coords="182,71,379,98"/>
+</map>

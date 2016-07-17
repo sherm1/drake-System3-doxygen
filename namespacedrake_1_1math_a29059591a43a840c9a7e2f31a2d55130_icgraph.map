@@ -1,0 +1,11 @@
+<map id="quatProduct" name="quatProduct">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math.html#a0fc70ebdc0ea497711e6e7b69eddef2d" title="quatRotateVec" alt="" coords="145,137,253,163"/>
+<area shape="rect" id="node7" href="$test_quatmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="581,274,678,301"/>
+<area shape="rect" id="node8" href="$namespacedrake_1_1math.html#ae2ef93ff1fa2dc788507d6eadb4bb78f" title="quatDiff" alt="" coords="167,314,232,341"/>
+<area shape="rect" id="node3" href="$class_drake_1_1_rigid_body_accelerometer.html#a47387816c53b5c8a87a2ecb77841cf3d" title="Drake::RigidBodyAccelerometer\l::output" alt="" coords="301,5,508,47"/>
+<area shape="rect" id="node4" href="$class_drake_1_1_rigid_body_magnetometer.html#a47387816c53b5c8a87a2ecb77841cf3d" title="Drake::RigidBodyMagnetometer\l::output" alt="" coords="301,71,508,112"/>
+<area shape="rect" id="node5" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="307,137,502,163"/>
+<area shape="rect" id="node6" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="581,137,678,163"/>
+<area shape="rect" id="node9" href="$namespacedrake_1_1math.html#ad298b049679492bf3e846165c6c7e023" title="quatDiffAxisInvar" alt="" coords="346,339,463,366"/>
+<area shape="rect" id="node10" href="$class_gaze_orient_constraint.html#abd1a66eff6450d1ad293ee3fff82e77c" title="GazeOrientConstraint\l::eval" alt="" coords="556,347,703,388"/>
+</map>

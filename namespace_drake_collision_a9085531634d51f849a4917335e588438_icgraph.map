@@ -1,0 +1,5 @@
+<map id="closestPointsPairwise" name="closestPointsPairwise">
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_bullet_model.html#aefd874bca61a92a70e4e3910396b38a4" title="Finds the points where each pair of the elements in ids_to_check are closest. " alt="" coords="204,5,385,47"/>
+<area shape="rect" id="node3" href="$class_drake_collision_1_1_bullet_model.html#a36739525ddc6266e5c3f5acf9e2be1d0" title="DrakeCollision::BulletModel\l::~BulletModel" alt="" coords="204,71,385,112"/>
+<area shape="rect" id="node4" href="$class_drake_collision_1_1_model.html#aa79d94fcfaad68d16129d1c8e6be1bb8" title="DrakeCollision::Model\l::~Model" alt="" coords="221,136,369,177"/>
+</map>

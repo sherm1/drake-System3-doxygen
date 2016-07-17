@@ -1,0 +1,5 @@
+<map id="v2qdot" name="v2qdot">
+<area shape="rect" id="node2" href="$class_drake_joint.html#a350be3d17b88146433c6b963f96528aa" title="DrakeJoint::getNumPositions" alt="" coords="113,5,304,32"/>
+<area shape="rect" id="node3" href="$class_drake_joint.html#a633b35ddb31caeca5aef7a0819c7ea6f" title="DrakeJoint::getNumVelocities" alt="" coords="112,56,305,83"/>
+<area shape="rect" id="node4" href="$namespace_drake.html#a99f170a01e786ae74ea21e9d6854739c" title="Resize derivatives vector of each element of a matrix to to match the size of the derivatives vector ..." alt="" coords="129,107,289,149"/>
+</map>

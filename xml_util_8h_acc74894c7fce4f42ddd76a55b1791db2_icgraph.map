@@ -1,0 +1,7 @@
+<map id="parseVectorAttribute" name="parseVectorAttribute">
+<area shape="rect" id="node2" href="$namespacedrake_1_1parsers_1_1urdf.html#aa5831d72da36b2adf28450132e679929" title="Manufactures a RigidBodyFrame from the given URDF link and pose XML nodes. " alt="" coords="423,109,676,151"/>
+<area shape="rect" id="node3" href="$class_drake_1_1_rigid_body_propellor.html#af6a35e0410a93c05d2d81ec8d034ea47" title="Drake::RigidBodyPropellor\l::RigidBodyPropellor" alt="" coords="739,44,914,85"/>
+<area shape="rect" id="node5" href="$xml_util_8h.html#ad7cd6cfd20bebb51351752ea3d8526a5" title="originAttributesToTransform" alt="" coords="195,35,375,62"/>
+<area shape="rect" id="node6" href="$xml_util_8h.html#af4c1addc01e3e9eb95c7b3c565abc65a" title="parseScalarAttribute" alt="" coords="479,55,619,82"/>
+<area shape="rect" id="node4" href="$class_drake_1_1_rigid_body_spring_damper.html#a2b31f3d35598ad8d9bdc9c25b6aa9eb8" title="Drake::RigidBodySpringDamper\l::RigidBodySpringDamper" alt="" coords="724,109,929,151"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="computeCoP" name="computeCoP">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#aefc0ec924b5046920e09ec03eabb8f41" title="Computes CoP in world frame. " alt="" coords="151,67,343,109"/>
+<area shape="rect" id="node8" href="$_instantaneous_q_p_controller_8cpp.html#aba92afca68f5bc9b65542ee2f4dd6685" title="averageContactPointHeight" alt="" coords="157,152,336,179"/>
+<area shape="rect" id="node10" href="$drake_util_8h.html#a5b0523371673fa323ff1411c13a0b9da" title="eigenVectorToCArray" alt="" coords="174,203,319,229"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#a2143f26bf2af3dee7bc681557c5afaba" title="RigidBodyTree::relativeTransform" alt="" coords="391,5,601,32"/>
+<area shape="rect" id="node4" href="$drake_geometry_util_8h.html#afd895f5eb68f330637ec6583297d430d" title="transformSpatialForce" alt="" coords="421,56,571,83"/>
+<area shape="rect" id="node5" href="$drake_util_8cpp.html#ac2ef00f5bd7e364651a1490dcfc6d3d0" title="resolveCenterOfPressure" alt="" coords="413,131,579,157"/>
+<area shape="rect" id="node6" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="649,131,732,157"/>
+<area shape="rect" id="node7" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="780,123,932,165"/>
+<area shape="rect" id="node9" href="$class_rigid_body_tree.html#a3d8dcea6ae0ff6abb3d76e2456e326f5" title="RigidBodyTree::transform\lPoints" alt="" coords="412,182,580,223"/>
+</map>

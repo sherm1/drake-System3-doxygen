@@ -1,0 +1,24 @@
+<map id="drake/solvers/Optimization.h" name="drake/solvers/Optimization.h">
+<area shape="rect" id="node2" href="$equality__constrained__qp__solver_8cc.html" title="drake/solvers/equality\l_constrained_qp_solver.cc" alt="" coords="5,80,180,121"/>
+<area shape="rect" id="node3" href="$_ipopt_solver_8cpp.html" title="drake/solvers/IpoptSolver.cpp" alt="" coords="204,87,395,114"/>
+<area shape="rect" id="node4" href="$linear__system__solver_8cc.html" title="drake/solvers/linear\l_system_solver.cc" alt="" coords="419,80,553,121"/>
+<area shape="rect" id="node5" href="$_mathematical_program_8cpp.html" title="drake/solvers/Mathematical\lProgram.cpp" alt="" coords="577,80,757,121"/>
+<area shape="rect" id="node6" href="$_moby_l_c_p_8cpp.html" title="drake/solvers/MobyLCP.cpp" alt="" coords="782,87,966,114"/>
+<area shape="rect" id="node7" href="$_nlopt_solver_8cpp.html" title="drake/solvers/NloptSolver.cpp" alt="" coords="990,87,1182,114"/>
+<area shape="rect" id="node8" href="$_snopt_solver_8cpp.html" title="drake/solvers/SnoptSolver.cpp" alt="" coords="1207,87,1403,114"/>
+<area shape="rect" id="node9" href="$system__identification_8cpp.html" title="drake/solvers/system\l_identification.cpp" alt="" coords="1427,80,1572,121"/>
+<area shape="rect" id="node10" href="$test_optimization_problem_8cpp.html" title="drake/solvers/test\l/testOptimizationProblem.cpp" alt="" coords="1597,80,1791,121"/>
+<area shape="rect" id="node11" href="$_constraint_wrappers_8h.html" title="drake/systems/plants\l/ConstraintWrappers.h" alt="" coords="1866,80,2018,121"/>
+<area shape="rect" id="node12" href="$inverse_kin_backend_8cpp.html" title="drake/systems/plants\l/inverseKinBackend.cpp" alt="" coords="1748,177,1909,218"/>
+<area shape="rect" id="node13" href="$_rigid_body_system_8cpp.html" title="drake/systems/plants\l/RigidBodySystem.cpp" alt="" coords="1934,177,2089,218"/>
+<area shape="rect" id="node14" href="$_rigid_body_system_8h.html" title="drake/systems/plants\l/RigidBodySystem.h" alt="" coords="2743,80,2890,121"/>
+<area shape="rect" id="node15" href="$rigid_body_l_c_m_node_8cpp.html" title="drake/systems/plants\l/rigidBodyLCMNode.cpp" alt="" coords="2113,177,2275,218"/>
+<area shape="rect" id="node16" href="$compare_rigid_body_systems_8cpp.html" title="drake/systems/plants\l/test/compareRigidBodySystems.cpp" alt="" coords="2300,177,2539,218"/>
+<area shape="rect" id="node17" href="$lidar_test_8cpp.html" title="drake/systems/plants\l/test/lidarTest.cpp" alt="" coords="2563,177,2710,218"/>
+<area shape="rect" id="node18" href="$load__model__test_8cc.html" title="drake/systems/plants\l/test/load_model_test.cc" alt="" coords="2734,177,2899,218"/>
+<area shape="rect" id="node19" href="$rigid__body__system__test_8cc.html" title="drake/systems/plants\l/test/rigid_body_system\l/rigid_body_system_test.cc" alt="" coords="2924,169,3107,225"/>
+<area shape="rect" id="node20" href="$test_accelerometer_8cpp.html" title="drake/systems/plants\l/test/testAccelerometer.cpp" alt="" coords="3131,177,3313,218"/>
+<area shape="rect" id="node21" href="$test_gyroscope_8cpp.html" title="drake/systems/plants\l/test/testGyroscope.cpp" alt="" coords="3338,177,3501,218"/>
+<area shape="rect" id="node22" href="$test_magnetometer_8cpp.html" title="drake/systems/plants\l/test/testMagnetometer.cpp" alt="" coords="3525,177,3708,218"/>
+<area shape="rect" id="node23" href="$test_mass_spring_damper_8cpp.html" title="drake/systems/plants\l/test/testMassSpringDamper.cpp" alt="" coords="3733,177,3946,218"/>
+</map>

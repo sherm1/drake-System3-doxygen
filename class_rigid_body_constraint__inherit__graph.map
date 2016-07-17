@@ -1,0 +1,36 @@
+<map id="RigidBodyConstraint" name="RigidBodyConstraint">
+<area shape="rect" id="node2" href="$class_multiple_time_kinematic_constraint.html" title="MultipleTimeKinematicConstraint" alt="" coords="200,92,412,119"/>
+<area shape="rect" id="node6" href="$class_multiple_time_linear_posture_constraint.html" title="MultipleTimeLinearPosture\lConstraint" alt="" coords="219,165,393,206"/>
+<area shape="rect" id="node8" href="$class_posture_constraint.html" title="PostureConstraint" alt="" coords="243,249,369,276"/>
+<area shape="rect" id="node9" href="$class_quasi_static_constraint.html" title="the Center of Mass (CoM) is within the support polygon. " alt="" coords="231,300,381,327"/>
+<area shape="rect" id="node10" href="$class_single_time_kinematic_constraint.html" title="SingleTimeKinematicConstraint" alt="" coords="205,384,407,411"/>
+<area shape="rect" id="node35" href="$class_single_time_linear_posture_constraint.html" title="SingleTimeLinearPostureConstraint" alt="" coords="193,435,419,461"/>
+<area shape="rect" id="node3" href="$class_world_fixed_body_pose_constraint.html" title="WorldFixedBodyPoseConstraint" alt="" coords="467,5,673,32"/>
+<area shape="rect" id="node4" href="$class_world_fixed_orient_constraint.html" title="WorldFixedOrientConstraint" alt="" coords="479,56,661,83"/>
+<area shape="rect" id="node5" href="$class_world_fixed_position_constraint.html" title="WorldFixedPositionConstraint" alt="" coords="473,107,667,133"/>
+<area shape="rect" id="node7" href="$class_posture_change_constraint.html" title="PostureChangeConstraint" alt="" coords="485,157,655,184"/>
+<area shape="rect" id="node11" href="$class_all_bodies_closest_distance_constraint.html" title="AllBodiesClosestDistance\lConstraint" alt="" coords="484,209,656,250"/>
+<area shape="rect" id="node12" href="$class_euler_constraint.html" title="EulerConstraint" alt="" coords="515,275,625,301"/>
+<area shape="rect" id="node14" href="$class_gaze_constraint.html" title="GazeConstraint" alt="" coords="514,325,626,352"/>
+<area shape="rect" id="node23" href="$class_gravity_compensation_torque_constraint.html" title="GravityCompensationTorque\lConstraint" alt="" coords="478,377,662,418"/>
+<area shape="rect" id="node24" href="$class_min_distance_constraint.html" title="MinDistanceConstraint" alt="" coords="493,443,647,469"/>
+<area shape="rect" id="node25" href="$class_point2_line_seg_dist_constraint.html" title="Point2LineSegDistConstraint" alt="" coords="476,493,664,520"/>
+<area shape="rect" id="node26" href="$class_point2_point_distance_constraint.html" title="Point2PointDistanceConstraint" alt="" coords="471,544,669,571"/>
+<area shape="rect" id="node27" href="$class_position_constraint.html" title="PositionConstraint" alt="" coords="506,595,634,621"/>
+<area shape="rect" id="node32" href="$class_quat_constraint.html" title="QuatConstraint" alt="" coords="515,671,625,697"/>
+<area shape="rect" id="node13" href="$class_world_euler_constraint.html" title="WorldEulerConstraint" alt="" coords="735,249,881,276"/>
+<area shape="rect" id="node15" href="$class_gaze_dir_constraint.html" title="GazeDirConstraint" alt="" coords="744,300,872,327"/>
+<area shape="rect" id="node18" href="$class_gaze_orient_constraint.html" title="GazeOrientConstraint" alt="" coords="735,351,881,377"/>
+<area shape="rect" id="node20" href="$class_gaze_target_constraint.html" title="GazeTargetConstraint" alt="" coords="734,401,882,428"/>
+<area shape="rect" id="node16" href="$class_relative_gaze_dir_constraint.html" title="RelativeGazeDirConstraint" alt="" coords="961,249,1134,276"/>
+<area shape="rect" id="node17" href="$class_world_gaze_dir_constraint.html" title="WorldGazeDirConstraint" alt="" coords="966,300,1129,327"/>
+<area shape="rect" id="node19" href="$class_world_gaze_orient_constraint.html" title="WorldGazeOrientConstraint" alt="" coords="957,351,1138,377"/>
+<area shape="rect" id="node21" href="$class_relative_gaze_target_constraint.html" title="RelativeGazeTargetConstraint" alt="" coords="951,401,1144,428"/>
+<area shape="rect" id="node22" href="$class_world_gaze_target_constraint.html" title="WorldGazeTargetConstraint" alt="" coords="956,452,1139,479"/>
+<area shape="rect" id="node28" href="$class_relative_position_constraint.html" title="RelativePositionConstraint" alt="" coords="721,519,895,545"/>
+<area shape="rect" id="node29" href="$class_world_co_m_constraint.html" title="WorldCoMConstraint" alt="" coords="737,569,879,596"/>
+<area shape="rect" id="node30" href="$class_world_position_constraint.html" title="WorldPositionConstraint" alt="" coords="727,620,889,647"/>
+<area shape="rect" id="node31" href="$class_world_position_in_frame_constraint.html" title="WorldPositionInFrameConstraint" alt="" coords="943,620,1152,647"/>
+<area shape="rect" id="node33" href="$class_relative_quat_constraint.html" title="RelativeQuatConstraint" alt="" coords="731,671,885,697"/>
+<area shape="rect" id="node34" href="$class_world_quat_constraint.html" title="WorldQuatConstraint" alt="" coords="737,721,879,748"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="penetrationCost" name="penetrationCost">
+<area shape="rect" id="node2" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="341,23,441,49"/>
+<area shape="rect" id="node3" href="$shift_funnel__snopt__mex_8cpp.html#a9bde605fdcfe99bedceaa3be3f9ad6f0" title="shiftAndTransform" alt="" coords="167,23,293,49"/>
+<area shape="rect" id="node4" href="$shift_funnel__snopt__mex_8cpp.html#aba397ad2b579031966591c10091d7396" title="ptToPolyBullet" alt="" coords="177,73,283,100"/>
+</map>

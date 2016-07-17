@@ -1,0 +1,4 @@
+<map id="getNumStates" name="getNumStates">
+<area shape="rect" id="node2" href="$classdrake_1_1_n_ary_state.html#af53d76295a01fd821e99c754f79c8b17" title="Determines how many Eigen matrix rows will be needed to represent. " alt="" coords="159,5,351,47"/>
+<area shape="rect" id="node3" href="$classdrake_1_1_n_ary_state.html#aa2bd9fbd4cd49855b942627c0e55d58c" title="Calculates the size (Eigen row count) of UnitVector, which is presumed to be fixed for all instances ..." alt="" coords="399,13,581,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="closestPointsAllToAll" name="closestPointsAllToAll">
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_element.html#ab2e56b37e291aca210708d15171fd630" title="Returns true if this element should be checked for collisions with the other object. " alt="" coords="214,5,375,47"/>
+<area shape="rect" id="node4" href="$namespace_drake_collision.html#a9085531634d51f849a4917335e588438" title="DrakeCollision::closestPoints\lPairwise" alt="" coords="199,71,391,112"/>
+<area shape="rect" id="node3" href="$namespace_drake_collision.html#acdf2797372e685a58cc51072edfdf5a6" title="DrakeCollision::operator\&lt;\&lt;" alt="" coords="439,13,615,39"/>
+</map>

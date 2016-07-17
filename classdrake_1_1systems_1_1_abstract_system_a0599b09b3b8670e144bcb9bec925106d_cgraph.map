@@ -1,0 +1,5 @@
+<map id="Connect" name="Connect">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_input_port.html#a8210bad10e749d8b2e3d247348d4d7e2" title="Connect this InputPort to a compatible OutputPort. " alt="" coords="124,5,296,47"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_input_port.html#a19ee8942d00c6382f0baf6b2b3f3fbb6" title="Given an OutputPort proposed as a connection for this InputPort, throw an error message if the Output..." alt="" coords="344,5,516,47"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_input_port.html#ab61a38bc4667def6b62b6add9f78fc2e" title="A concrete InputPort can override this method to restrict the kinds of OutputPort objects that are ac..." alt="" coords="564,5,736,47"/>
+</map>

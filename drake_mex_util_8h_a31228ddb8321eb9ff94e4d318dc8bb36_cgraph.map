@@ -1,0 +1,5 @@
+<map id="destroyDrakeMexPointer" name="destroyDrakeMexPointer">
+<area shape="rect" id="node2" href="$drake_mex_util_8h.html#a07096f00cef36d022780f4f18c64cdfb" title="isa" alt="" coords="273,5,311,32"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8h.html#aa659f514891aa3264f50c2992a02ce1b" title="getDrakeMexPointer" alt="" coords="222,56,362,83"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8h.html#a80dcf2fd87f4abd4f743a1a624ffc6bf" title="eigenToMatlabSparse" alt="" coords="219,107,365,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QuatConstraint" name="QuatConstraint">
+<area shape="rect" id="node4" href="$class_relative_quat_constraint.html" title="RelativeQuatConstraint" alt="" coords="5,229,160,256"/>
+<area shape="rect" id="node5" href="$class_world_quat_constraint.html" title="WorldQuatConstraint" alt="" coords="185,229,327,256"/>
+<area shape="rect" id="node2" href="$class_single_time_kinematic_constraint.html" title="SingleTimeKinematicConstraint" alt="" coords="68,80,271,107"/>
+<area shape="rect" id="node3" href="$class_rigid_body_constraint.html" title="base class. " alt="" coords="99,5,239,32"/>
+</map>

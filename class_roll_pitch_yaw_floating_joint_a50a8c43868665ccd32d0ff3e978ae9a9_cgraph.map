@@ -1,0 +1,5 @@
+<map id="isFloating" name="isFloating">
+<area shape="rect" id="node2" href="$class_drake_joint.html#ae852676bf8ee37ce1cedd47dbbc3fbc9" title="DrakeJoint::zeroConfiguration" alt="" coords="141,5,332,32"/>
+<area shape="rect" id="node3" href="$class_drake_joint.html#a76ddf85ea75a68d259404b560d90e3ba" title="DrakeJoint::randomConfiguration" alt="" coords="132,56,341,83"/>
+<area shape="rect" id="node4" href="$class_drake_joint.html#aded5256128eac40f9b93ddbdc927c801" title="DrakeJoint::getPositionName" alt="" coords="141,107,332,133"/>
+</map>

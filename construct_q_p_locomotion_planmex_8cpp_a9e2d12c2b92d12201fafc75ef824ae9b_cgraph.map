@@ -1,0 +1,7 @@
+<map id="matlabExpPlusPPToExponentialPlusPiecewisePolynomial" name="matlabExpPlusPPToExponentialPlusPiecewisePolynomial">
+<area shape="rect" id="node2" href="$drake_mex_util_8cpp.html#ad199729459890acaed873c8ff86eb737" title="mxGetFieldOrPropertySafe" alt="" coords="290,29,469,56"/>
+<area shape="rect" id="node3" href="$construct_q_p_locomotion_planmex_8cpp.html#a0e086cce771efe8a331b9cd5d0c6a379" title="matlabCoefsAndBreaksToPiecewise\lPolynomial" alt="" coords="264,81,495,122"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8cpp.html#a14807222c6247f3687ff9fd04e5f72ff" title="matlabToStdVector\&lt;\l double \&gt;" alt="" coords="543,51,684,93"/>
+<area shape="rect" id="node6" href="$drake_mex_util_8cpp.html#a27fe2cece2b786001e80198e9a442a03" title="sub2ind" alt="" coords="580,117,647,144"/>
+<area shape="rect" id="node5" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="732,59,832,85"/>
+</map>

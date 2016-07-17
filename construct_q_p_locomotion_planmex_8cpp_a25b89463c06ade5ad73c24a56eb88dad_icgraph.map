@@ -1,0 +1,6 @@
+<map id="matlabPPFormToPiecewisePolynomial" name="matlabPPFormToPiecewisePolynomial">
+<area shape="rect" id="node2" href="$construct_q_p_locomotion_planmex_8cpp.html#a7353c92d9b380f150ab841f5fdcc5a26" title="matlabPPTrajectoryOrMatrix\lToPiecewisePolynomial" alt="" coords="300,67,487,109"/>
+<area shape="rect" id="node3" href="$construct_q_p_locomotion_planmex_8cpp.html#a85f73bb40f8ab1b3be7c0bf5bc08accc" title="matlabExpPlusPPOrPPTrajectory\lOrVectorToExponentialPlusPiecewise\lPolynomial" alt="" coords="535,27,776,83"/>
+<area shape="rect" id="node5" href="$construct_q_p_locomotion_planmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1032,56,1129,83"/>
+<area shape="rect" id="node4" href="$construct_q_p_locomotion_planmex_8cpp.html#a781f1af328acede2778a0e141506ac17" title="setUpLyapunovFunction" alt="" coords="824,5,984,32"/>
+</map>

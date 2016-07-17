@@ -1,0 +1,4 @@
+<map id="hasGeometry" name="hasGeometry">
+<area shape="rect" id="node2" href="$class_drake_shapes_1_1_element.html#a38d95ad0a627e4ce1d9a4e0e25f5f49a" title="getTerrainContactPoints" alt="" coords="153,13,315,39"/>
+<area shape="rect" id="node3" href="$class_drake_collision_1_1_model.html#acc3348d31dfa26b8059d450a06fdcca2" title="DrakeCollision::Model\l::getTerrainContactPoints" alt="" coords="363,5,532,47"/>
+</map>

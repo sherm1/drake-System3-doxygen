@@ -1,0 +1,4 @@
+<map id="to_mutable_vector_interface" name="to_mutable_vector_interface">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_abstract_value.html#a427cf5a05f32818c30963b2c760f4808" title="Returns the value wrapped in this AbstractValue, which must be of exactly type T. ..." alt="" coords="249,5,419,47"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_vector_object.html#a6a774466385559729160bf496bb40a58" title="Returns a mutable pointer to the VectorInterface object owned by this VectorObject, if any. " alt="" coords="236,71,432,112"/>
+</map>

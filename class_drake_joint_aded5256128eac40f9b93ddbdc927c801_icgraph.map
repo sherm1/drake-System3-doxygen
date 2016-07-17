@@ -1,0 +1,5 @@
+<map id="getPositionName" name="getPositionName">
+<area shape="rect" id="node2" href="$class_fixed_joint.html#a4f66cae0f282cdf6744d697ac568df19" title="FixedJoint::frictionTorque" alt="" coords="177,5,344,32"/>
+<area shape="rect" id="node3" href="$class_quaternion_floating_joint.html#a50a8c43868665ccd32d0ff3e978ae9a9" title="QuaternionFloatingJoint\l::isFloating" alt="" coords="181,57,340,98"/>
+<area shape="rect" id="node4" href="$class_roll_pitch_yaw_floating_joint.html#a50a8c43868665ccd32d0ff3e978ae9a9" title="RollPitchYawFloatingJoint\l::isFloating" alt="" coords="175,122,347,163"/>
+</map>

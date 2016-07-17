@@ -1,0 +1,12 @@
+<map id="exp" name="exp">
+<area shape="rect" id="node2" href="$_instantaneous_q_p_controller_8cpp.html#aacda395ad4cd96a5ab6f8acffc0c447e" title="logisticSigmoid" alt="" coords="121,42,231,69"/>
+<area shape="rect" id="node7" href="$class_min_distance_constraint.html#a6d252ebf2e5920861ec0219332638276" title="MinDistanceConstraint\l::penalty" alt="" coords="99,93,253,135"/>
+<area shape="rect" id="node9" href="$smooth_distance_penaltymex_8cpp.html#a1f22cb4a8058f6fc046706674e599c11" title="smoothDistancePenalty" alt="" coords="96,159,256,186"/>
+<area shape="rect" id="node11" href="$test_exponential_plus_piecewise_polynomial_8cpp.html#a84fc80552428f8160c3815968feda220" title="testSimpleCase" alt="" coords="119,210,233,237"/>
+<area shape="rect" id="node3" href="$_instantaneous_q_p_controller_8cpp.html#a7e6b9ccbc2afbd4655ea85acf819d70c" title="addJointSoftLimits" alt="" coords="317,42,445,69"/>
+<area shape="rect" id="node4" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="505,35,683,76"/>
+<area shape="rect" id="node5" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="731,5,916,47"/>
+<area shape="rect" id="node6" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="775,71,872,98"/>
+<area shape="rect" id="node8" href="$class_min_distance_constraint.html#abd1a66eff6450d1ad293ee3fff82e77c" title="MinDistanceConstraint\l::eval" alt="" coords="304,93,457,135"/>
+<area shape="rect" id="node10" href="$smooth_distance_penaltymex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="332,159,429,186"/>
+</map>

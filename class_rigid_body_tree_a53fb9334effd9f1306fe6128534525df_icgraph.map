@@ -1,0 +1,12 @@
+<map id="isBodyPartOfRobot" name="isBodyPartOfRobot">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a071032b888187504c53f1b1c2d4d6357" title="worldMomentumMatrix" alt="" coords="219,5,372,32"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#a0d81651606976b5b3f29bca93424f203" title="worldMomentumMatrixDotTimesV" alt="" coords="187,56,404,83"/>
+<area shape="rect" id="node4" href="$class_rigid_body_tree.html#aa89c75d11ad5f5a27bf2b0e8363cdd9a" title="getMass" alt="" coords="259,107,331,133"/>
+<area shape="rect" id="node11" href="$class_rigid_body_tree.html#a9366fe9ba92a1132aed22ccab92bdf65" title="centerOfMass" alt="" coords="244,157,347,184"/>
+<area shape="rect" id="node5" href="$_instantaneous_q_p_controller_8cpp.html#a018485383255696d37e61dcf44076d0e" title="checkCentroidalMomentumMatches\lTotalWrench" alt="" coords="452,41,683,82"/>
+<area shape="rect" id="node9" href="$class_rigid_body_tree.html#ade7e0e47eae301799761ecb89f76305d" title="centerOfMassJacobian" alt="" coords="490,107,645,133"/>
+<area shape="rect" id="node10" href="$class_rigid_body_tree.html#a75cc557f92e70f29fe4634dce39198c8" title="centerOfMassJacobianDotTimesV" alt="" coords="458,157,677,184"/>
+<area shape="rect" id="node6" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="731,41,908,82"/>
+<area shape="rect" id="node7" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="956,11,1141,53"/>
+<area shape="rect" id="node8" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1000,77,1097,104"/>
+</map>

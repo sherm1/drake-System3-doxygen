@@ -1,0 +1,11 @@
+<map id="taylorVarToEigen" name="taylorVarToEigen">
+<area shape="rect" id="node2" href="$drake_mex_util_8h.html#a4ab991a74c2efcc07723ae7bb4bb9954" title="mxGetPropertySafe" alt="" coords="188,55,324,81"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8h.html#acf1905cff99aa719542a528109f76d10" title="matlabToEigenMap" alt="" coords="189,131,323,157"/>
+<area shape="rect" id="node10" href="$drake_gradient_util_8h.html#a0a10f3c227ab53b854d9cdff035c1ff5" title="gradientMatrixToAutoDiff" alt="" coords="175,181,337,208"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8cpp.html#af003ced56a50849150021ef0ac7f2885" title="mxGetPropertySafe" alt="" coords="404,29,540,56"/>
+<area shape="rect" id="node5" href="$drake_mex_util_8h.html#a4532d10911ccd4d643366bb4ac6dbc00" title="mxGetPrSafe" alt="" coords="422,80,522,107"/>
+<area shape="rect" id="node6" href="$drake_mex_util_8h.html#a6ac0061a82db7f94ed5182281cb5b3ea" title="matlabToEigenSparse" alt="" coords="397,131,547,157"/>
+<area shape="rect" id="node7" href="$drake_mex_util_8h.html#ab0fb545014617327e9a3586df104b692" title="mxGetStdString" alt="" coords="415,181,529,208"/>
+<area shape="rect" id="node8" href="$drake_mex_util_8h.html#a24b3b0c6a4cfb97f0485a8f85ac01e6d" title="mxGetVectorOfStdStrings" alt="" coords="385,232,559,259"/>
+<area shape="rect" id="node9" href="$drake_mex_util_8cpp.html#ae6093bfd52a63656cb83413fa9f11c9d" title="mxGetStdString" alt="" coords="607,232,721,259"/>
+</map>

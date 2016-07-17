@@ -1,0 +1,5 @@
+<map id="get_vector" name="get_vector">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_system_interface.html#accd77d6ed520a41539527f80fd527d53" title="Convenience method for obtaining the up&#45;to&#45;date value for an output port which is known to be vector ..." alt="" coords="135,5,349,47"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_vector_object.html#a046196503b5b8d18880d60113c4624b4" title="Copy constructor uses the source object&#39;s Clone() method to make a deep copy which is then owned by t..." alt="" coords="193,71,291,98"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_vector_object.html#a7a6cc89a1a9ebfa9c1fe03eb4bbefec7" title="Copy assignment replaces the current contents of this VectorObject with a clone of the source object..." alt="" coords="203,122,281,149"/>
+</map>

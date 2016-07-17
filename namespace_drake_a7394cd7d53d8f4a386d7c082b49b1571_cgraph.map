@@ -1,0 +1,5 @@
+<map id="initializeAutoDiffTuple" name="initializeAutoDiffTuple">
+<area shape="rect" id="node2" href="$namespace_drake.html#a68d602f7df6f32a1bb5f5812048758f0" title="Determine the total size at runtime of a number of arguments using their size() methods (base case)..." alt="" coords="211,5,348,32"/>
+<area shape="rect" id="node3" href="$namespace_drake.html#aa3b15bc84ec52c77161d348599dcbae8" title="Determine the total size at compile time of a number of arguments based on their SizeAtCompileTime st..." alt="" coords="199,56,360,83"/>
+<area shape="rect" id="node4" href="$struct_drake_1_1internal_1_1_total_size_at_compile_time.html#a5ab48bd49eff128b6a45bd1e63db4824" title="Drake::internal::TotalSize\lAtCompileTime::eval" alt="" coords="408,49,576,90"/>
+</map>

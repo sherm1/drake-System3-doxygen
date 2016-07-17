@@ -1,0 +1,4 @@
+<map id="LinearEqualityConstraint" name="LinearEqualityConstraint">
+<area shape="rect" id="node2" href="$classdrake_1_1solvers_1_1_linear_constraint.html" title="Implements a constraint of the form &#160;lb &lt;= Ax &lt;= ub . " alt="" coords="108,213,224,240"/>
+<area shape="rect" id="node3" href="$classdrake_1_1solvers_1_1_constraint.html" title="A constraint is a function + lower and upper bounds. " alt="" coords="5,117,87,143"/>
+</map>

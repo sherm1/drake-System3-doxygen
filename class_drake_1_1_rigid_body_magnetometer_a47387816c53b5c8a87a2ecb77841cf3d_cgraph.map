@@ -1,0 +1,12 @@
+<map id="output" name="output">
+<area shape="rect" id="node2" href="$class_drake_1_1_rigid_body_sensor.html#af525e373043ca964d4ac8245f8fe3982" title="Returns the rigid body system to which this sensor attaches. " alt="" coords="123,5,287,47"/>
+<area shape="rect" id="node3" href="$class_drake_1_1_rigid_body_system.html#ae2140743eb4e71556dc590ae6452d84b" title="Drake::RigidBodySystem\l::getRigidBodyTree" alt="" coords="121,71,289,112"/>
+<area shape="rect" id="node8" href="$class_drake_1_1_rigid_body_sensor.html#aa14b0387ace18c0946c875df71ae4cee" title="Returns the frame to which thi sensor is attached. " alt="" coords="123,136,287,177"/>
+<area shape="rect" id="node9" href="$namespacedrake_1_1math.html#a0fc70ebdc0ea497711e6e7b69eddef2d" title="drake::math::quatRotateVec" alt="" coords="112,202,297,229"/>
+<area shape="rect" id="node4" href="$group__system__concept.html#ga528176a344869d3547863dcaedf30abd" title="getNumStates() " alt="" coords="363,27,510,54"/>
+<area shape="rect" id="node6" href="$group__system__concept.html#ga050946a3cb2bf983b166739f550dc9dd" title="getNumInputs() " alt="" coords="365,78,509,105"/>
+<area shape="rect" id="node7" href="$group__system__concept.html#gac546b424d6fc9bfe94cf44d2936e135a" title="getNumOutputs() " alt="" coords="359,129,514,155"/>
+<area shape="rect" id="node5" href="$struct_drake_1_1internal_1_1_num_states_dispatch.html#a2103a04cdd9c2bbd5571d6b9eaf47461" title="Drake::internal::NumStates\lDispatch::eval" alt="" coords="576,71,755,112"/>
+<area shape="rect" id="node10" href="$namespacedrake_1_1math.html#a29059591a43a840c9a7e2f31a2d55130" title="drake::math::quatProduct" alt="" coords="352,190,521,217"/>
+<area shape="rect" id="node11" href="$namespacedrake_1_1math.html#a7e6bdc00adb60394da9687fc9aa5b0aa" title="drake::math::quatConjugate" alt="" coords="345,241,528,267"/>
+</map>

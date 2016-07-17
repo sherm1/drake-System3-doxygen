@@ -1,0 +1,7 @@
+<map id="flipExpmap" name="flipExpmap">
+<area shape="rect" id="node2" href="$drake_geometry_util_8h.html#af6167f8b833c90f85791d1922b3e1d5c" title="unwrapExpmap" alt="" coords="173,31,283,57"/>
+<area shape="rect" id="node5" href="$flip_expmapmex_8cpp.html#a1fd1fdca229aa9e43505b0125aae525a" title="quat2expmapWithGradient" alt="" coords="140,81,316,108"/>
+<area shape="rect" id="node6" href="$flip_expmapmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="409,119,506,145"/>
+<area shape="rect" id="node3" href="$unwrap_expmapmex_8cpp.html#affe3e9f06a51c7de1ae39dfec5d5e931" title="unwrapExpmapWithGradient" alt="" coords="364,5,551,32"/>
+<area shape="rect" id="node4" href="$unwrap_expmapmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="599,31,696,57"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="getCollisionFilterGroup" name="getCollisionFilterGroup">
+<area shape="rect" id="node2" href="$class_rigid_body.html#ad87c91fe9acf143d25d4400b53425536" title="CollidesWith" alt="" coords="207,13,301,39"/>
+<area shape="rect" id="node3" href="$class_rigid_body_1_1_collision_element.html#a6d53712d8ca51183ad3d0813c21e6374" title="Returns true if this element should be checked for collisions with the other object. " alt="" coords="349,5,536,47"/>
+</map>

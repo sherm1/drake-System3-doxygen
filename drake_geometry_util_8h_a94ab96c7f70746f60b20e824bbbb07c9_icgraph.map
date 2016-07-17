@@ -1,0 +1,5 @@
+<map id="isRegularInertiaMatrix" name="isRegularInertiaMatrix">
+<area shape="rect" id="node2" href="$drake_geometry_util_8h.html#af61cafdf917d0cbc67b786cf1740a190" title="transformSpatialInertia" alt="" coords="200,42,351,69"/>
+<area shape="rect" id="node3" href="$class_rigid_body.html#ad58507d9fb93ce5a62fa64db64df5cbe" title="Transforms all of the visual, collision, and inertial elements associated with this body to the prope..." alt="" coords="406,5,585,47"/>
+<area shape="rect" id="node4" href="$class_rigid_body_tree.html#a999060c06e9cee6777f56402c1a9607e" title="Computes the kinematics on the given cache. " alt="" coords="399,71,592,98"/>
+</map>

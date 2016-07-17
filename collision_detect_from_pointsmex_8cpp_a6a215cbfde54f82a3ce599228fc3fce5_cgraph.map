@@ -1,0 +1,16 @@
+<map id="mexFunction" name="mexFunction">
+<area shape="rect" id="node2" href="$drake_mex_util_8cpp.html#aa711ef3046dbfc38f54f769417041117" title="getDrakeMexPointer" alt="" coords="161,136,301,163"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#a8cea7311fd347cbd9d8f82039c5fd413" title="collisionDetectFromPoints " alt="" coords="151,187,312,229"/>
+<area shape="rect" id="node11" href="$drake_mex_util_8h.html#ae9c2703d688ea3fbec50f6a4a51d9aa1" title="eigenToMatlab" alt="" coords="178,253,285,280"/>
+<area shape="rect" id="node12" href="$drake_mex_util_8h.html#a33d7c55cda19f8c8dbe930425de2f89f" title="stdVectorToMatlab" alt="" coords="166,344,297,371"/>
+<area shape="rect" id="node4" href="$class_rigid_body_tree.html#ae1e11c3d9dfc7da9db3a5b48f6eb1c5d" title="RigidBodyTree::updateDynamic\lCollisionElements" alt="" coords="360,57,564,98"/>
+<area shape="rect" id="node8" href="$class_drake_collision_1_1_element.html#af37a20797aec42df9b73eab6d40faed8" title="Returns a pointer to the const RigidBody to which this CollisionElement is attached. " alt="" coords="381,122,543,163"/>
+<area shape="rect" id="node9" href="$class_rigid_body_tree.html#a3b8516e2261e850c3f3086d252ef3ab6" title="RigidBodyTree::collision\lRaycast" alt="" coords="381,187,543,229"/>
+<area shape="rect" id="node10" href="$class_rigid_body_tree.html#a061ded5908c20cfc0cfd36a67384d0fa" title="RigidBodyTree::collision\lDetect" alt="" coords="381,253,543,294"/>
+<area shape="rect" id="node5" href="$class_rigid_body.html#a37c598900da68ab344705d89661e73b9" title="RigidBody::hasParent" alt="" coords="639,5,787,32"/>
+<area shape="rect" id="node6" href="$class_rigid_body_tree.html#aa4d6c2b7769ee8b6ca9ea5816b671bdc" title="RigidBodyTree::updateCollision\lElements" alt="" coords="612,57,815,98"/>
+<area shape="rect" id="node7" href="$class_kinematics_cache.html#a1bb2e150dd823aca8eec67057e5b3b2f" title="KinematicsCache::getElement" alt="" coords="614,123,813,149"/>
+<area shape="rect" id="node13" href="$drake_mex_util_8h.html#a4a9ff55ef87582d143f09d0ddcd33656" title="stdStringToMatlab" alt="" coords="399,319,525,345"/>
+<area shape="rect" id="node14" href="$drake_mex_util_8h.html#a50cfab9ec711f40738d502aff2ebaf09" title="vectorOfStdStringsToMatlab" alt="" coords="371,369,553,396"/>
+<area shape="rect" id="node15" href="$drake_mex_util_8h.html#ac37e84d0809c68f4974ca244f34d5b4d" title="sizecheck" alt="" coords="421,420,503,447"/>
+</map>

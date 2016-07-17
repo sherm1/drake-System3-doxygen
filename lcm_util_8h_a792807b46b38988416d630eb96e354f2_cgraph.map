@@ -1,0 +1,9 @@
+<map id="decodePolynomialMatrix" name="decodePolynomialMatrix">
+<area shape="rect" id="node2" href="$lcm_util_8h.html#add66a55921a26d3fa07d3605cf1dccae" title="decodePolynomial" alt="" coords="247,27,375,54"/>
+<area shape="rect" id="node3" href="$lcm_util_8h.html#a5e31e8d3f170d876e619701e63390aa1" title="encodePiecewisePolynomial" alt="" coords="217,78,404,105"/>
+<area shape="rect" id="node7" href="$lcm_util_8h.html#a046dcbf52768474da7c715d4b86100d0" title="decodePiecewisePolynomial" alt="" coords="217,129,404,155"/>
+<area shape="rect" id="node8" href="$lcm_util_8h.html#a7d4e98c3e73714c467261d1f4c789838" title="verifySubtypeSizes" alt="" coords="245,179,377,206"/>
+<area shape="rect" id="node4" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="452,5,609,47"/>
+<area shape="rect" id="node5" href="$class_piecewise_function.html#a61deacd040f26782fa134e9b717ca8ee" title="PiecewiseFunction::\lgetSegmentTimes" alt="" coords="461,71,600,112"/>
+<area shape="rect" id="node6" href="$class_piecewise_polynomial.html#a59218b09d3c6952001c73a3c49eaa53e" title="PiecewisePolynomial\l::getPolynomialMatrix" alt="" coords="457,136,605,177"/>
+</map>

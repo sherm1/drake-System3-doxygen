@@ -1,0 +1,4 @@
+<map id="getPoints" name="getPoints">
+<area shape="rect" id="node2" href="$class_drake_shapes_1_1_box.html#aec8f474ee597f509d54dfd0d705043d8" title="getBoundingBoxPoints" alt="" coords="134,5,289,32"/>
+<area shape="rect" id="node3" href="$class_drake_shapes_1_1_box.html#a38d95ad0a627e4ce1d9a4e0e25f5f49a" title="getTerrainContactPoints" alt="" coords="131,56,292,83"/>
+</map>

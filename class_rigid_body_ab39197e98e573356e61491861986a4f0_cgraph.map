@@ -1,0 +1,4 @@
+<map id="setCollisionFilter" name="setCollisionFilter">
+<area shape="rect" id="node2" href="$class_rigid_body.html#a808265beea3c8a164edb7b7d0d70ecae" title="setCollisionFilterGroup" alt="" coords="175,5,329,32"/>
+<area shape="rect" id="node3" href="$class_rigid_body.html#ab85af0a0f6fb4b27feed849d5564b4d5" title="setCollisionFilterIgnores" alt="" coords="172,56,332,83"/>
+</map>

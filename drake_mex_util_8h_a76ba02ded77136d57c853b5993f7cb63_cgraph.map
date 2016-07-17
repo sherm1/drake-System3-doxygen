@@ -1,0 +1,5 @@
+<map id="eigenToTrigPoly" name="eigenToTrigPoly">
+<area shape="rect" id="node2" href="$drake_mex_util_8h.html#ad75fec8332633fd9f39f79461e5d91b8" title="mexCallMATLABsafe" alt="" coords="168,31,313,57"/>
+<area shape="rect" id="node3" href="$drake_debug_mex_8cpp.html#af56110aa10fde712e1cc1235edf235a9" title="mexCallMATLABWithTrap" alt="" coords="361,5,535,32"/>
+<area shape="rect" id="node4" href="$drake_debug_mex_8cpp.html#a859f0f135d8ea5e54f49c58ffdfc912d" title="mexPrintf" alt="" coords="409,56,487,83"/>
+</map>

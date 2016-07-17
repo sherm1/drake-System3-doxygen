@@ -1,0 +1,12 @@
+<map id="drake/systems/plants/collision/bullet_model.cc" name="drake/systems/plants/collision/bullet_model.cc">
+<area shape="rect" id="node2" href="$bullet__model_8h.html" title="drake/systems/plants\l/collision/bullet_model.h" alt="" coords="738,95,899,136"/>
+<area shape="rect" id="node24" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="1176,95,1320,136"/>
+<area shape="rect" id="node29" href="$_drake_collision_8h.html" title="drake/systems/plants\l/collision/DrakeCollision.h" alt="" coords="1759,95,1929,136"/>
+<area shape="rect" id="node9" href="$collision_2_element_8h.html" title="Element.h" alt="" coords="1453,377,1534,404"/>
+<area shape="rect" id="node21" href="$_model_8h.html" title="Model.h" alt="" coords="1690,199,1758,225"/>
+<area shape="rect" id="node16" href="$_drake_shapes_8h.html" title="drake/systems/plants\l/shapes/DrakeShapes.h" alt="" coords="1258,452,1419,493"/>
+<area shape="rect" id="node17" href="$_geometry_8h.html" title="Geometry.h" alt="" coords="1163,691,1253,717"/>
+<area shape="rect" id="node19" href="$shapes_2_element_8h.html" title="Element.h" alt="" coords="1261,616,1342,643"/>
+<area shape="rect" id="node20" href="$_visual_element_8h.html" title="VisualElement.h" alt="" coords="1339,541,1456,568"/>
+<area shape="rect" id="node23" href="$point__pair_8h.html" title="drake/systems/plants\l/collision/point_pair.h" alt="" coords="1733,288,1880,329"/>
+</map>

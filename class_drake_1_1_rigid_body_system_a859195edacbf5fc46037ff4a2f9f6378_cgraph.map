@@ -1,0 +1,8 @@
+<map id="dynamics" name="dynamics">
+<area shape="rect" id="node2" href="$classdrake_1_1solvers_1_1_optimization_problem.html#a8f8ee35fe6df6c509a2fee27bf92dab0" title="drake::solvers::Optimization\lProblem::AddContinuousVariables" alt="" coords="143,8,363,49"/>
+<area shape="rect" id="node4" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="211,75,295,102"/>
+<area shape="rect" id="node6" href="$classdrake_1_1solvers_1_1_optimization_problem.html#a154703635cdd05dc8247fc2fc5d82dc8" title="AddLinearEqualityConstraint. " alt="" coords="132,127,375,168"/>
+<area shape="rect" id="node7" href="$classdrake_1_1solvers_1_1_optimization_problem.html#ae20c365943aa8acb50dfd6b99b7e5194" title="Solve the OptimizationProblem. " alt="" coords="162,192,345,233"/>
+<area shape="rect" id="node3" href="$classdrake_1_1solvers_1_1_decision_variable.html#a324e8c54c4c5161913681a1a52fef959" title="name() " alt="" coords="423,5,583,47"/>
+<area shape="rect" id="node5" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="427,71,579,112"/>
+</map>

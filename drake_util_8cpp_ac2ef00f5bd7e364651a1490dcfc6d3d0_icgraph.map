@@ -1,0 +1,11 @@
+<map id="resolveCenterOfPressure" name="resolveCenterOfPressure">
+<area shape="rect" id="node2" href="$control_util_8cpp.html#a8f0c65265834a8f9fbbfb6ba24b35b94" title="individualSupportCOPs" alt="" coords="451,5,605,32"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#aefc0ec924b5046920e09ec03eabb8f41" title="Computes CoP in world frame. " alt="" coords="432,59,624,101"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#aec993b61122226f0532d1a894f4f93ea" title="Returns an integer that will be used as a unique ID for the next model to be added within the rigid b..." alt="" coords="462,130,594,171"/>
+<area shape="rect" id="node6" href="$drake_util_8h.html#a769f238d6c122f76a1b1e508966a22c2" title="resolveCenterOfPressure" alt="" coords="219,127,384,153"/>
+<area shape="rect" id="node7" href="$drake_util_8h.html#a37c3a1858bffc163db73598b446cb407" title="addOffset" alt="" coords="489,207,567,233"/>
+<area shape="rect" id="node10" href="$resolve_center_of_pressuremex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="479,268,577,295"/>
+<area shape="rect" id="node4" href="$_instantaneous_q_p_controller_8cpp.html#a5b805063084a805cc00f73aee562ce0c" title="computeCoP" alt="" coords="713,67,810,93"/>
+<area shape="rect" id="node8" href="$construct_q_p_locomotion_planmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="713,236,810,263"/>
+<area shape="rect" id="node9" href="$class_q_p_locomotion_plan.html#ab6dcb1484b8d1b7b65574e7b74f2629a" title="QPLocomotionPlan::create\lQPControllerInput" alt="" coords="672,170,851,211"/>
+</map>

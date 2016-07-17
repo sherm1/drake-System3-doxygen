@@ -1,0 +1,40 @@
+<map id="drake/systems/plants/test/testGyroscope.cpp" name="drake/systems/plants/test/testGyroscope.cpp">
+<area shape="rect" id="node4" href="$_rigid_body_system_8h.html" title="drake/systems/plants\l/RigidBodySystem.h" alt="" coords="2159,95,2306,136"/>
+<area shape="rect" id="node81" href="$eigen__matrix__compare_8h.html" title="drake/util/eigen_matrix\l_compare.h" alt="" coords="3736,452,3889,493"/>
+<area shape="rect" id="node82" href="$test_util_8h.html" title="drake/util/testUtil.h" alt="" coords="2677,459,2807,486"/>
+<area shape="rect" id="node5" href="$_kinematics_cache_8h.html" title="KinematicsCache.h" alt="" coords="3249,281,3384,307"/>
+<area shape="rect" id="node45" href="$_optimization_8h.html" title="drake/solvers/Optimization.h" alt="" coords="709,281,895,307"/>
+<area shape="rect" id="node63" href="$_system_8h.html" title="drake/systems/System.h" alt="" coords="1499,370,1667,397"/>
+<area shape="rect" id="node64" href="$_rigid_body_tree_8h.html" title="drake/systems/plants\l/RigidBodyTree.h" alt="" coords="3295,184,3442,225"/>
+<area shape="rect" id="node14" href="$constants_8h.html" title="drake/common/constants.h" alt="" coords="5528,638,5708,665"/>
+<area shape="rect" id="node15" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="2695,631,2839,672"/>
+<area shape="rect" id="node17" href="$eigen__types_8h.html" title="This file contains abbreviated definitions for certain specializations of Eigen::Matrix that are comm..." alt="" coords="5299,541,5441,583"/>
+<area shape="rect" id="node20" href="$_rigid_body_8h.html" title="drake/systems/plants\l/RigidBody.h" alt="" coords="3243,363,3390,404"/>
+<area shape="rect" id="node40" href="$_drake_joint_8h.html" title="drake/systems/plants\l/joints/DrakeJoint.h" alt="" coords="4797,452,4943,493"/>
+<area shape="rect" id="node28" href="$_drake_collision_8h.html" title="drake/systems/plants\l/collision/DrakeCollision.h" alt="" coords="3231,452,3402,493"/>
+<area shape="rect" id="node30" href="$collision_2_element_8h.html" title="Element.h" alt="" coords="3207,720,3288,747"/>
+<area shape="rect" id="node38" href="$_model_8h.html" title="Model.h" alt="" coords="3592,549,3660,575"/>
+<area shape="rect" id="node33" href="$_drake_shapes_8h.html" title="drake/systems/plants\l/shapes/DrakeShapes.h" alt="" coords="2541,795,2703,836"/>
+<area shape="rect" id="node34" href="$_geometry_8h.html" title="Geometry.h" alt="" coords="2411,1033,2502,1060"/>
+<area shape="rect" id="node36" href="$shapes_2_element_8h.html" title="Element.h" alt="" coords="2621,959,2703,985"/>
+<area shape="rect" id="node37" href="$_visual_element_8h.html" title="VisualElement.h" alt="" coords="2522,884,2639,911"/>
+<area shape="rect" id="node39" href="$point__pair_8h.html" title="drake/systems/plants\l/collision/point_pair.h" alt="" coords="3506,631,3653,672"/>
+<area shape="rect" id="node42" href="$math_2_gradient_8h.html" title="drake/math/gradient.h" alt="" coords="4629,549,4777,575"/>
+<area shape="rect" id="node49" href="$_function_8h.html" title="drake/core/Function.h" alt="" coords="1621,459,1769,486"/>
+<area shape="rect" id="node51" href="$core_2_gradient_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="1669,549,1751,575"/>
+<area shape="rect" id="node52" href="$_vector_8h.html" title="drake/core/Vector.h" alt="" coords="1895,459,2031,486"/>
+<area shape="rect" id="node54" href="$_constraint_8h.html" title="drake/solvers/Constraint.h" alt="" coords="1124,370,1296,397"/>
+<area shape="rect" id="node56" href="$_polynomial_8h.html" title="drake/util/Polynomial.h" alt="" coords="967,459,1122,486"/>
+<area shape="rect" id="node60" href="$_mathematical_program_8h.html" title="drake/solvers/Mathematical\lProgram.h" alt="" coords="201,363,381,404"/>
+<area shape="rect" id="node62" href="$solution__result_8h.html" title="drake/solvers/solution\l_result.h" alt="" coords="373,452,519,493"/>
+<area shape="rect" id="node66" href="$drake__deprecated_8h.html" title="Provides a portable macro for use in generating compile&#45;time warnings for use of code that is permitt..." alt="" coords="4578,452,4722,493"/>
+<area shape="rect" id="node67" href="$rotation__matrix_8h.html" title="drake/math/rotation\l_matrix.h" alt="" coords="5357,452,5492,493"/>
+<area shape="rect" id="node69" href="$_force_torque_measurement_8h.html" title="drake/systems/plants\l/ForceTorqueMeasurement.h" alt="" coords="44,273,232,315"/>
+<area shape="rect" id="node70" href="$_kinematic_path_8h.html" title="drake/systems/plants\l/KinematicPath.h" alt="" coords="594,452,741,493"/>
+<area shape="rect" id="node71" href="$_rigid_body_frame_8h.html" title="drake/systems/plants\l/RigidBodyFrame.h" alt="" coords="3078,273,3225,315"/>
+<area shape="rect" id="node72" href="$pose__map_8h.html" title="drake/systems/plants\l/pose_map.h" alt="" coords="1349,452,1495,493"/>
+<area shape="rect" id="node73" href="$drake_geometry_util_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="4253,363,4421,404"/>
+<area shape="rect" id="node79" href="$drake_util_8h.html" title="drake/util/drakeUtil.h" alt="" coords="2410,459,2551,486"/>
+<area shape="rect" id="node76" href="$quaternion_8h.html" title="Utilities for arithmetic on quaternions. " alt="" coords="5018,459,5181,486"/>
+<area shape="rect" id="node77" href="$drake_gradient_util_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="4242,452,4402,493"/>
+</map>

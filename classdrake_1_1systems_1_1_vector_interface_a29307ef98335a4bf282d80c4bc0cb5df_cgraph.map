@@ -1,0 +1,7 @@
+<map id="~VectorInterface" name="~VectorInterface">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_vector_interface.html#a189733944a9223f2752d3520746793bf" title="Returns the size of the vector, which must be equal to the number of rows in get_value(). " alt="" coords="212,5,259,32"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_vector_interface.html#a06d35a2f7e03d66f146ecdd6fa94319f" title="Sets the vector to the given value. " alt="" coords="197,56,273,83"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_vector_interface.html#ac0d4dc1c95aa16266813e66b607813f7" title="Returns a column vector containing the entire value of the signal. " alt="" coords="197,107,273,133"/>
+<area shape="rect" id="node5" href="$classdrake_1_1systems_1_1_vector_interface.html#a0797ee287f068158cc4048ba5290c578" title="Returns a reference that allows mutation of the values in this vector, but does not allow resizing th..." alt="" coords="171,157,300,184"/>
+<area shape="rect" id="node6" href="$classdrake_1_1systems_1_1_vector_interface.html#ae87a75a791f16c9539e3e559561e7fc9" title="Copies the entire vector to a new VectorInterface, with the same concrete implementation type..." alt="" coords="208,208,263,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="testScenario1" name="testScenario1">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a39a917484f853b16fadcfd714433a219" title="RigidBodyTree::getRandom\lConfiguration" alt="" coords="166,23,346,65"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#a49feb527fdea334223689ad9bd923b7f" title="An accessor to the number of position states outputted by this rigid body system. ..." alt="" coords="177,89,335,130"/>
+<area shape="rect" id="node6" href="$drake_gradient_util_8h.html#a0a10f3c227ab53b854d9cdff035c1ff5" title="gradientMatrixToAutoDiff" alt="" coords="175,155,337,181"/>
+<area shape="rect" id="node7" href="$class_rigid_body_tree.html#a8f49d2bdf6a0470e074de082d88945a4" title="Obtains the index of a rigid body within this rigid body tree. " alt="" coords="156,205,356,232"/>
+<area shape="rect" id="node10" href="$structmeasure.html#a9451f7b5181a25bdb6cc52a2b32e7800" title="measure::execution" alt="" coords="188,256,324,283"/>
+<area shape="rect" id="node3" href="$class_drake_joint.html#a350be3d17b88146433c6b963f96528aa" title="DrakeJoint::getNumPositions" alt="" coords="413,5,604,32"/>
+<area shape="rect" id="node4" href="$class_drake_joint.html#a76ddf85ea75a68d259404b560d90e3ba" title="DrakeJoint::randomConfiguration" alt="" coords="404,56,613,83"/>
+<area shape="rect" id="node8" href="$class_rigid_body_tree.html#a1e0b241ac2b40c00ebf408128cc18bb3" title="Finds a body with the specified body_name belonging to a model with the specified model_name and mode..." alt="" coords="424,180,593,207"/>
+<area shape="rect" id="node9" href="$test_util_8h.html#a4290b86928fb877abbb71cc6a4e263dc" title="to_string" alt="" coords="661,205,733,232"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CollisionElement" name="CollisionElement">
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_element.html#ae4e172595fe5ffadcd9fb0919b410f35" title="Sets the rigid body this collision element is attached to. " alt="" coords="172,5,333,47"/>
+<area shape="rect" id="node3" href="$class_rigid_body.html#af8370604529de0f829b8424e1288a104" title="Name of the body. " alt="" coords="192,71,313,98"/>
+<area shape="rect" id="node4" href="$class_drake_collision_1_1_element.html#a65bbc5f796b738f269e6f37eef4473a5" title="Flags this collision element to be static, i.e. " alt="" coords="172,123,333,164"/>
+</map>

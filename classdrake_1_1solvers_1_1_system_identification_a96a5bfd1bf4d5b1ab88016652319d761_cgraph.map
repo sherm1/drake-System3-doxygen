@@ -1,0 +1,11 @@
+<map id="EstimateParameters" name="EstimateParameters">
+<area shape="rect" id="node2" href="$classdrake_1_1solvers_1_1_optimization_problem.html#a8f8ee35fe6df6c509a2fee27bf92dab0" title="drake::solvers::Optimization\lProblem::AddContinuousVariables" alt="" coords="197,5,417,47"/>
+<area shape="rect" id="node4" href="$class_polynomial.html#a499b1ccc98e1c0372c5c6f2070147520" title="Substitute values for some but not necessarily all variables of a polynomial. " alt="" coords="217,71,396,98"/>
+<area shape="rect" id="node5" href="$classdrake_1_1solvers_1_1_optimization_problem.html#a60c38740ddd25866a741e0099bd3a83b" title="AddPolynomialConstraint. " alt="" coords="195,123,419,164"/>
+<area shape="rect" id="node6" href="$classdrake_1_1solvers_1_1_optimization_problem.html#aa434a02bad07c8448f95d95eafcd2847" title="AddQuadraticCost. " alt="" coords="215,188,399,229"/>
+<area shape="rect" id="node7" href="$classdrake_1_1solvers_1_1_optimization_problem.html#ae20c365943aa8acb50dfd6b99b7e5194" title="Solve the OptimizationProblem. " alt="" coords="215,253,398,295"/>
+<area shape="rect" id="node8" href="$test_util_8h.html#a4290b86928fb877abbb71cc6a4e263dc" title="to_string" alt="" coords="271,319,343,346"/>
+<area shape="rect" id="node9" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="265,370,349,397"/>
+<area shape="rect" id="node3" href="$classdrake_1_1solvers_1_1_decision_variable.html#a324e8c54c4c5161913681a1a52fef959" title="name() " alt="" coords="467,5,627,47"/>
+<area shape="rect" id="node10" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="471,363,623,404"/>
+</map>

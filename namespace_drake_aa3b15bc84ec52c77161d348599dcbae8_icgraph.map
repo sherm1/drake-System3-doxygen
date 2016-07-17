@@ -1,0 +1,7 @@
+<map id="totalSizeAtCompileTime" name="totalSizeAtCompileTime">
+<area shape="rect" id="node2" href="$struct_drake_1_1internal_1_1_initialize_auto_diff_tuple_helper_3_010_01_4.html#af85897aa20661ba1dbb3476a354e0a52" title="Drake::internal::Initialize\lAutoDiffTupleHelper\&lt; 0 \&gt;::run" alt="" coords="215,5,407,47"/>
+<area shape="rect" id="node3" href="$namespace_drake.html#a7394cd7d53d8f4a386d7c082b49b1571" title="Given a series of Eigen matrices, create a tuple of corresponding AutoDiff matrices with values equal..." alt="" coords="238,71,383,98"/>
+<area shape="rect" id="node4" href="$namespace_drake.html#a1df0b8e46cdfd56bab25425fe0ec7a3f" title="timeInvariantLQR" alt="" coords="468,13,588,39"/>
+<area shape="rect" id="node5" href="$class_gaze_orient_constraint.html#abd1a66eff6450d1ad293ee3fff82e77c" title="GazeOrientConstraint\l::eval" alt="" coords="455,64,601,105"/>
+<area shape="rect" id="node6" href="$test_quatmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="479,130,577,157"/>
+</map>

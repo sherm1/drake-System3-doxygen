@@ -1,0 +1,10 @@
+<map id="drake/systems/plants/collision/DrakeCollision.cpp" name="drake/systems/plants/collision/DrakeCollision.cpp">
+<area shape="rect" id="node3" href="$_drake_collision_8h.html" title="drake/systems/plants\l/collision/DrakeCollision.h" alt="" coords="616,95,787,136"/>
+<area shape="rect" id="node10" href="$collision_2_element_8h.html" title="Element.h" alt="" coords="653,348,734,375"/>
+<area shape="rect" id="node20" href="$_model_8h.html" title="Model.h" alt="" coords="853,184,921,211"/>
+<area shape="rect" id="node14" href="$_drake_shapes_8h.html" title="drake/systems/plants\l/shapes/DrakeShapes.h" alt="" coords="367,423,529,464"/>
+<area shape="rect" id="node15" href="$_geometry_8h.html" title="Geometry.h" alt="" coords="339,661,429,688"/>
+<area shape="rect" id="node18" href="$shapes_2_element_8h.html" title="Element.h" alt="" coords="398,587,479,613"/>
+<area shape="rect" id="node19" href="$_visual_element_8h.html" title="VisualElement.h" alt="" coords="467,512,584,539"/>
+<area shape="rect" id="node22" href="$point__pair_8h.html" title="drake/systems/plants\l/collision/point_pair.h" alt="" coords="712,259,859,300"/>
+</map>

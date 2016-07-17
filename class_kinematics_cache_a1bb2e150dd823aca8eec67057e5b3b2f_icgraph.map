@@ -1,0 +1,23 @@
+<map id="getElement" name="getElement">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#ae1e11c3d9dfc7da9db3a5b48f6eb1c5d" title="RigidBodyTree::updateDynamic\lCollisionElements" alt="" coords="145,136,349,177"/>
+<area shape="rect" id="node7" href="$class_rigid_body_tree.html#a15495ec955aeb2ddec3da388d3ab5191" title="Computes the point of closest approach between bodies in the RigidBodyTree that are in contact..." alt="" coords="401,5,624,47"/>
+<area shape="rect" id="node14" href="$class_rigid_body_tree.html#a999060c06e9cee6777f56402c1a9607e" title="Computes the kinematics on the given cache. " alt="" coords="151,202,344,229"/>
+<area shape="rect" id="node15" href="$class_rigid_body_tree.html#a071032b888187504c53f1b1c2d4d6357" title="RigidBodyTree::worldMomentum\lMatrix" alt="" coords="143,253,352,295"/>
+<area shape="rect" id="node16" href="$class_rigid_body_tree.html#a0d81651606976b5b3f29bca93424f203" title="RigidBodyTree::worldMomentum\lMatrixDotTimesV" alt="" coords="143,319,352,360"/>
+<area shape="rect" id="node17" href="$class_rigid_body_tree.html#ac22881ff88fdb61f8ae374cdd714d906" title="RigidBodyTree::geometric\lJacobian" alt="" coords="162,384,333,425"/>
+<area shape="rect" id="node18" href="$class_rigid_body_tree.html#a9ab43a9241e1fd4e16cef7c0a97c21f6" title="RigidBodyTree::geometric\lJacobianDotTimesV" alt="" coords="162,449,333,491"/>
+<area shape="rect" id="node19" href="$class_rigid_body_tree.html#a8614c37baa04ecdf8dcdc30daf636075" title="RigidBodyTree::relativeTwist" alt="" coords="155,515,339,542"/>
+<area shape="rect" id="node20" href="$class_rigid_body_tree.html#afee6e49de6ef9ad40934215e0b40f477" title="RigidBodyTree::relativeTransform" alt="" coords="142,566,353,593"/>
+<area shape="rect" id="node21" href="$class_rigid_body_tree.html#a0401831d011a884852a6a8134891569e" title="RigidBodyTree::massMatrix" alt="" coords="156,617,339,643"/>
+<area shape="rect" id="node22" href="$class_rigid_body_tree.html#af0694d93e6621fa549e686df04dbe551" title="RigidBodyTree::inverseDynamics" alt="" coords="141,667,353,694"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#a8cea7311fd347cbd9d8f82039c5fd413" title="collisionDetectFromPoints " alt="" coords="432,71,593,112"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#a920d5229c17b4ee9c9a208e6907c3676" title="RigidBodyTree::potential\lCollisions" alt="" coords="431,136,594,177"/>
+<area shape="rect" id="node8" href="$class_rigid_body_tree.html#a2985ac4da5a693dd0f7cbf4399857a98" title="RigidBodyTree::colliding\lPointsCheckOnly" alt="" coords="432,201,593,243"/>
+<area shape="rect" id="node10" href="$class_rigid_body_tree.html#a4ee04ee05aa234710873c057e3eaf374" title="RigidBodyTree::colliding\lPoints" alt="" coords="432,267,593,308"/>
+<area shape="rect" id="node12" href="$class_rigid_body_tree.html#a887d5e35d3c9efe5829919cce6bef698" title="RigidBodyTree::allCollisions" alt="" coords="421,333,604,359"/>
+<area shape="rect" id="node4" href="$collision_detect_from_pointsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,78,769,105"/>
+<area shape="rect" id="node6" href="$collision_detectmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,143,769,170"/>
+<area shape="rect" id="node9" href="$colliding_points_check_onlymex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,209,769,235"/>
+<area shape="rect" id="node11" href="$colliding_pointsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,274,769,301"/>
+<area shape="rect" id="node13" href="$all_collisionsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,333,769,359"/>
+</map>

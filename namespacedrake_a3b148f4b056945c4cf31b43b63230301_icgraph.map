@@ -1,0 +1,63 @@
+<map id="cos" name="cos">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math.html#a593885e505c3cb0a4c67a016c3d820e1" title="drake::math::axis2quat" alt="" coords="122,69,277,95"/>
+<area shape="rect" id="node8" href="$namespacedrake_1_1math.html#a0fc6e2cf32c5ee278a40ed9da9052e4a" title="drake::math::axis2rotmat" alt="" coords="116,119,283,146"/>
+<area shape="rect" id="node10" href="$namespacedrake_1_1math_1_1internal.html#a9b6439d3ad449e77276e7781ccde5d2d" title="Returns a 3D rotation matrix by theta about the z axis. " alt="" coords="129,221,270,263"/>
+<area shape="rect" id="node11" href="$namespacedrake_1_1math.html#a105f79b722b1c15d663b0885c542ebfd" title="drake::math::cylindrical2cartesian" alt="" coords="351,170,568,197"/>
+<area shape="rect" id="node15" href="$namespacedrake_1_1math_1_1internal.html#af04b4d15cac27d0880fe4ca074efe050" title="drake::math::internal\l::expmap2quatNonDegenerate" alt="" coords="101,287,298,328"/>
+<area shape="rect" id="node26" href="$control_util_8cpp.html#a4184a55e2eea8d76007f2e83d7440bf2" title="surfaceTangents" alt="" coords="141,353,258,379"/>
+<area shape="rect" id="node29" href="$class_quat_constraint.html#a7d9d8450de20e7e9e4f9cc6d4f5d3a09" title="QuatConstraint::bounds" alt="" coords="120,403,279,430"/>
+<area shape="rect" id="node30" href="$class_gaze_orient_constraint.html#a7d9d8450de20e7e9e4f9cc6d4f5d3a09" title="GazeOrientConstraint\l::bounds" alt="" coords="126,455,273,496"/>
+<area shape="rect" id="node31" href="$class_gaze_dir_constraint.html#a7d9d8450de20e7e9e4f9cc6d4f5d3a09" title="GazeDirConstraint::\lbounds" alt="" coords="131,520,267,561"/>
+<area shape="rect" id="node32" href="$class_gaze_target_constraint.html#a7d9d8450de20e7e9e4f9cc6d4f5d3a09" title="GazeTargetConstraint\l::bounds" alt="" coords="125,585,273,627"/>
+<area shape="rect" id="node33" href="$class_roll_pitch_yaw_floating_joint.html#a071ee3ed5154a8b4a9ce24dd9e7cd807" title="RollPitchYawFloatingJoint\l::motionSubspace" alt="" coords="373,624,545,665"/>
+<area shape="rect" id="node34" href="$class_roll_pitch_yaw_floating_joint.html#a30e5e6c9f8fb18baf7653b169397dc6b" title="RollPitchYawFloatingJoint\l::motionSubspaceDotTimesV" alt="" coords="104,804,295,845"/>
+<area shape="rect" id="node35" href="$class_drake_1_1_rigid_body_depth_sensor.html#ab3159a89ed3d2fcedf3caabaaaa39f5a" title="Drake::RigidBodyDepthSensor\l::RigidBodyDepthSensor" alt="" coords="100,869,299,911"/>
+<area shape="rect" id="node36" href="$class_drake_1_1_rigid_body_magnetometer.html#ae63c4aa4fc9c4177bed9c238e83776de" title="Drake::RigidBodyMagnetometer\l::setDeclination" alt="" coords="96,935,303,976"/>
+<area shape="rect" id="node38" href="$_rigid_body_tree_contact_8cpp.html#af140f5f497191929a378f9b346d7d429" title="surfaceTangentsSingle" alt="" coords="123,1001,276,1027"/>
+<area shape="rect" id="node42" href="$footstep_collocation_constraints_mex_8cpp.html#abeb34cbbf072c9001ecc53d2a97a9d54" title="constraints" alt="" coords="156,1051,243,1078"/>
+<area shape="rect" id="node50" href="$drake_geometry_util_8h.html#a5ab694ac4a585b5d64cdd56bd9322de0" title="angularvel2rpydotMatrix" alt="" coords="120,753,279,779"/>
+<area shape="rect" id="node55" href="$drake_geometry_util_8h.html#a5cbf802e82c618223171a6f729087bd3" title="rpydot2angularvelMatrix" alt="" coords="120,702,279,729"/>
+<area shape="rect" id="node57" href="$drake_util_8h.html#a62745df4365eb53716d3bf2641b683ee" title="angleAverage" alt="" coords="150,1102,249,1129"/>
+<area shape="rect" id="node61" href="$class_trig_poly.html#a36de9f8eb60c391abc49fea4def70552" title="Given a value for every variable in this expression, evaluates it. " alt="" coords="105,1153,294,1179"/>
+<area shape="rect" id="node62" href="$class_trig_poly.html#ae4aea2b9dd04ab0f0e84df9fed362a77" title="Partially evaluates this expression, returning the resulting expression. " alt="" coords="119,1203,280,1230"/>
+<area shape="rect" id="node3" href="$namespacedrake_1_1math.html#addd57bb077b95550a27b52337659cb12" title="drake::math::axis2rpy" alt="" coords="385,14,533,41"/>
+<area shape="rect" id="node6" href="$drake_geometry_util_8h.html#a8bf020c2602aa710a675eca43fba53bb" title="uniformlyRandomQuat" alt="" coords="384,69,535,95"/>
+<area shape="rect" id="node4" href="$drake_geometry_util_8h.html#a292e2bdd72ddf32da67c953c73754ec4" title="uniformlyRandomRPY" alt="" coords="646,13,795,39"/>
+<area shape="rect" id="node5" href="$class_roll_pitch_yaw_floating_joint.html#ad36ad1d1d6dd5348017cb5e8d1ec19fd" title="RollPitchYawFloatingJoint\l::randomConfiguration" alt="" coords="876,5,1048,47"/>
+<area shape="rect" id="node7" href="$class_quaternion_floating_joint.html#ad36ad1d1d6dd5348017cb5e8d1ec19fd" title="QuaternionFloatingJoint\l::randomConfiguration" alt="" coords="641,64,800,105"/>
+<area shape="rect" id="node9" href="$drake_geometry_util_8h.html#a5feacf774ec4d9b6de98abb845baba3f" title="uniformlyRandomRotmat" alt="" coords="377,119,541,146"/>
+<area shape="rect" id="node13" href="$namespacedrake_1_1math.html#a0d51b40d4730286ec3ec94041f5a916d" title="drake::math::cartesian2cylindrical" alt="" coords="351,225,568,251"/>
+<area shape="rect" id="node12" href="$cylindrical2cartesianmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,135,769,162"/>
+<area shape="rect" id="node14" href="$cartesian2cylindricalmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,186,769,213"/>
+<area shape="rect" id="node16" href="$namespacedrake_1_1math.html#a4bc8c0d47e42141e066c524543c5dd92" title="drake::math::expmap2quat" alt="" coords="371,294,548,321"/>
+<area shape="rect" id="node17" href="$control_util_8cpp.html#a5aadc5075cb9e0bdc4a6f9d4132375ef" title="evaluateXYZExpmapCubicSpline" alt="" coords="616,439,825,466"/>
+<area shape="rect" id="node21" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="623,237,818,263"/>
+<area shape="rect" id="node23" href="$expmap2quat_implmex_8cpp.html#a15d5f9069478259e0cda6de06a009c48" title="expmap2quatWithGradient" alt="" coords="633,338,809,365"/>
+<area shape="rect" id="node24" href="$expmap2quat_implmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="913,338,1011,365"/>
+<area shape="rect" id="node25" href="$expmap2quat_implmex_8cpp.html#a5226aa228100a40ff1add1776e1967e6" title="expmap2quatWithSecondDeriv" alt="" coords="621,389,820,415"/>
+<area shape="rect" id="node18" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="873,457,1051,499"/>
+<area shape="rect" id="node19" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="1099,428,1284,469"/>
+<area shape="rect" id="node20" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1143,494,1240,521"/>
+<area shape="rect" id="node22" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="913,237,1011,263"/>
+<area shape="rect" id="node27" href="$control_util_8cpp.html#af039c04e600e5015c8950cb3d1c1f59c" title="contactConstraintsBV" alt="" coords="646,490,795,517"/>
+<area shape="rect" id="node28" href="$class_rigid_body_tree.html#aec993b61122226f0532d1a894f4f93ea" title="Returns an integer that will be used as a unique ID for the next model to be added within the rigid b..." alt="" coords="393,345,525,387"/>
+<area shape="rect" id="node37" href="$class_drake_1_1_rigid_body_magnetometer.html#afba1bfdfcd429fe05a16e5ae4158fb55" title="Drake::RigidBodyMagnetometer\l::RigidBodyMagnetometer" alt="" coords="356,935,563,976"/>
+<area shape="rect" id="node39" href="$class_rigid_body_tree.html#ac199512a83e5a4dc46ccc1551d4d64ec" title="RigidBodyTree::surfaceTangents" alt="" coords="355,1001,564,1027"/>
+<area shape="rect" id="node40" href="$surface_tangentsmex_8cpp.html#a47548f9a581788a1a4d97cb75b583833" title="getTangentsArray" alt="" coords="659,905,783,931"/>
+<area shape="rect" id="node41" href="$surface_tangentsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="913,905,1011,931"/>
+<area shape="rect" id="node43" href="$namespace_drake.html#a3c5593438105302caf43a8242e58ddd2" title="Drake::getInitialState" alt="" coords="388,1051,531,1078"/>
+<area shape="rect" id="node49" href="$footstep_collocation_constraints_mex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="411,1102,508,1129"/>
+<area shape="rect" id="node44" href="$namespace_drake.html#a6ee77b9123a2ac527aa5487fc8b5708b" title="Drake::runLCM" alt="" coords="666,1174,775,1201"/>
+<area shape="rect" id="node45" href="$rigid_body_l_c_m_node_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="695,955,746,982"/>
+<area shape="rect" id="node46" href="$class_drake_1_1_rigid_body_system.html#ae6d84993d6cfed20f28fd2499a70d275" title="Drake::RigidBodySystem\l::isDirectFeedthrough" alt="" coords="637,1007,805,1048"/>
+<area shape="rect" id="node47" href="$namespacedrake_1_1test.html#aefd90242742b17ba379641ebd9207688" title="drake::test::GTEST_TEST" alt="" coords="634,1073,807,1099"/>
+<area shape="rect" id="node48" href="$group__simulation.html#ga41b54589a549fc76acb033679a123529" title="simulate " alt="" coords="664,1123,777,1150"/>
+<area shape="rect" id="node51" href="$class_rigid_body_tree.html#a7d5d9e02a2d8ebdf46f94af531efbe6a" title="RigidBodyTree::relativeRoll\lPitchYawJacobian" alt="" coords="371,792,547,833"/>
+<area shape="rect" id="node52" href="$class_rigid_body_tree.html#a21cb3526addac4f34add1261b83ab277" title="RigidBodyTree::relativeRoll\lPitchYawJacobianDotTimesV" alt="" coords="363,857,555,899"/>
+<area shape="rect" id="node54" href="$test_geometry_conversion_functionsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="411,741,508,767"/>
+<area shape="rect" id="node53" href="$rigid_body_tree_mex_functions_8cpp.html#a57f89ce171698f9e87d529e265a9b070" title="forwardJacDotTimesVTemp" alt="" coords="631,854,810,881"/>
+<area shape="rect" id="node56" href="$drake_geometry_util_8h.html#a47964fa34851fbc1add7bb02e8a7ae9e" title="rpydot2angularvel" alt="" coords="398,690,521,717"/>
+<area shape="rect" id="node58" href="$drake_util_8h.html#a37c3a1858bffc163db73598b446cb407" title="addOffset" alt="" coords="421,1233,498,1259"/>
+<area shape="rect" id="node59" href="$construct_q_p_locomotion_planmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="672,1291,769,1318"/>
+<area shape="rect" id="node60" href="$class_q_p_locomotion_plan.html#ab6dcb1484b8d1b7b65574e7b74f2629a" title="QPLocomotionPlan::create\lQPControllerInput" alt="" coords="631,1225,810,1267"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="addOffset" name="addOffset">
+<area shape="rect" id="node2" href="$drake_util_8h.html#ad7d6deb263fff2e786bd0b196b178e9f" title="baseZeroToBaseOne" alt="" coords="142,5,285,32"/>
+<area shape="rect" id="node3" href="$drake_util_8h.html#a62745df4365eb53716d3bf2641b683ee" title="angleAverage" alt="" coords="377,56,476,83"/>
+<area shape="rect" id="node7" href="$drake_util_8h.html#a769f238d6c122f76a1b1e508966a22c2" title="resolveCenterOfPressure" alt="" coords="131,107,296,133"/>
+<area shape="rect" id="node4" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="557,31,640,57"/>
+<area shape="rect" id="node6" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="559,81,638,108"/>
+<area shape="rect" id="node5" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="688,74,840,115"/>
+<area shape="rect" id="node8" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="557,132,640,159"/>
+<area shape="rect" id="node9" href="$drake_util_8cpp.html#ac2ef00f5bd7e364651a1490dcfc6d3d0" title="resolveCenterOfPressure" alt="" coords="344,181,509,208"/>
+</map>

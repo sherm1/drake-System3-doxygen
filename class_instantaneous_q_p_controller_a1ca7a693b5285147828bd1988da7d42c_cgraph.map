@@ -1,0 +1,67 @@
+<map id="InstantaneousQPController" name="InstantaneousQPController">
+<area shape="rect" id="node2" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="setupAndSolveQP" alt="" coords="231,779,357,806"/>
+<area shape="rect" id="node3" href="$control_util_8cpp.html#a1b80ff874fe68d715237bfb8166cefab" title="getActiveSupports" alt="" coords="457,754,584,781"/>
+<area shape="rect" id="node10" href="$_instantaneous_q_p_controller_8cpp.html#a7e6b9ccbc2afbd4655ea85acf819d70c" title="addJointSoftLimits" alt="" coords="457,450,585,477"/>
+<area shape="rect" id="node11" href="$control_util_8cpp.html#a6f2165ab23f29aff664e660300208a07" title="inSupport" alt="" coords="751,551,828,578"/>
+<area shape="rect" id="node16" href="$_instantaneous_q_p_controller_8cpp.html#a6d3d9072bf95176ee1c52fbe950931e1" title="applyJointPDOverride" alt="" coords="448,551,593,578"/>
+<area shape="rect" id="node17" href="$namespacedrake_1_1math.html#a3607753ce14d5404a48f81757be2b929" title="drake::math::quat2rotmat" alt="" coords="705,501,873,527"/>
+<area shape="rect" id="node18" href="$lcm_util_8cpp.html#af2c8583debe30ee602dc2712e9a78603" title="decodePiecewisePolynomial" alt="" coords="427,653,614,679"/>
+<area shape="rect" id="node19" href="$control_util_8cpp.html#a5aadc5075cb9e0bdc4a6f9d4132375ef" title="evaluateXYZExpmapCubicSpline" alt="" coords="416,310,625,337"/>
+<area shape="rect" id="node32" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="1271,678,1355,705"/>
+<area shape="rect" id="node37" href="$control_util_8cpp.html#a975ef9836d30ba61c102b422a63d0157" title="bodySpatialMotionPD" alt="" coords="447,805,594,831"/>
+<area shape="rect" id="node42" href="$control_util_8cpp.html#af039c04e600e5015c8950cb3d1c1f59c" title="contactConstraintsBV" alt="" coords="715,1007,864,1034"/>
+<area shape="rect" id="node51" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="1010,1307,1093,1334"/>
+<area shape="rect" id="node52" href="$fast_q_p_8h.html#a924a1b83be92d449b7124c792fec1795" title="fastQPThatTakesQinv" alt="" coords="447,957,594,983"/>
+<area shape="rect" id="node53" href="$fast_q_p_8h.html#a39e58a3ab14df7436146ceffbea20187" title="fastQP" alt="" coords="489,1007,552,1034"/>
+<area shape="rect" id="node54" href="$gurobi_q_p_8h.html#a0a12ac8a773158c91a75d797b9191c70" title="gurobiActiveSetQP" alt="" coords="455,1058,586,1085"/>
+<area shape="rect" id="node55" href="$gurobi_q_p_8h.html#a447699fbd5eef5296f9fc14b34195ce8" title="gurobiQP" alt="" coords="483,1109,559,1135"/>
+<area shape="rect" id="node56" href="$_instantaneous_q_p_controller_8cpp.html#a018485383255696d37e61dcf44076d0e" title="checkCentroidalMomentumMatches\lTotalWrench" alt="" coords="405,1332,636,1373"/>
+<area shape="rect" id="node4" href="$control_util_8cpp.html#a52a0c37ac58ec7234edd9c1fceffcd34" title="getActiveSupportMask" alt="" coords="713,754,865,781"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#aabdcd62794d8bb261b3fa4c836dce46e" title="Initializes a KinematicsCache with the given configuration q, computes the kinematics, and returns the cache. " alt="" coords="955,754,1148,781"/>
+<area shape="rect" id="node7" href="$control_util_8cpp.html#a872fd50d1f166f77c35d48cf7ca53660" title="contactPhi" alt="" coords="1009,1074,1093,1101"/>
+<area shape="rect" id="node9" href="$control_util_8cpp.html#a965dc4aaebc8face520491ae54c917af" title="isSupportElementActive" alt="" coords="971,703,1131,730"/>
+<area shape="rect" id="node6" href="$class_kinematics_cache.html#a0f153683b7c86032079d2ff19ea1a58d" title="KinematicsCache::initialize" alt="" coords="1224,754,1403,781"/>
+<area shape="rect" id="node8" href="$class_rigid_body_tree.html#a3d8dcea6ae0ff6abb3d76e2456e326f5" title="RigidBodyTree::transform\lPoints" alt="" coords="1229,1076,1397,1117"/>
+<area shape="rect" id="node12" href="$_instantaneous_q_p_controller_8cpp.html#aacda395ad4cd96a5ab6f8acffc0c447e" title="logisticSigmoid" alt="" coords="734,450,845,477"/>
+<area shape="rect" id="node13" href="$namespacedrake.html#a4d9daa23e20328990764f5908fe26e59" title="drake::exp" alt="" coords="1272,493,1355,519"/>
+<area shape="rect" id="node15" href="$control_util_8cpp.html#afe6dd2cb5f97a8b992e53c93f17dbfc5" title="angleDiff" alt="" coords="1016,551,1087,578"/>
+<area shape="rect" id="node14" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="1469,671,1621,712"/>
+<area shape="rect" id="node20" href="$class_piecewise_polynomial.html#aa186c04292c38dc34d8e5c58e6643434" title="PiecewisePolynomial\l::value" alt="" coords="717,213,862,255"/>
+<area shape="rect" id="node28" href="$class_piecewise_polynomial.html#a55e621de02140ec8ffa75dcad8888921" title="Takes the derivative of this PiecewisePolynomial. " alt="" coords="717,303,862,344"/>
+<area shape="rect" id="node29" href="$namespacedrake_1_1math.html#a4bc8c0d47e42141e066c524543c5dd92" title="drake::math::expmap2quat" alt="" coords="701,375,878,402"/>
+<area shape="rect" id="node35" href="$namespacedrake_1_1math.html#a2131d12e81399c3201b29118d59adc87" title="drake::math::autoDiffToValue\lMatrix" alt="" coords="695,96,884,137"/>
+<area shape="rect" id="node36" href="$drake_geometry_util_8h.html#a0264b15dc8d7200823b191d2d3a95025" title="quatdot2angularvelMatrix" alt="" coords="707,162,872,189"/>
+<area shape="rect" id="node21" href="$class_piecewise_function.html#aa35609bb4c7fc71304c47fd0132ae828" title="PiecewiseFunction::\lgetSegmentIndex" alt="" coords="982,120,1121,161"/>
+<area shape="rect" id="node22" href="$class_piecewise_function.html#a17e20f6b6982b3b67a96c9e7b2486e8d" title="PiecewiseFunction::\lgetStartTime" alt="" coords="1244,55,1383,96"/>
+<area shape="rect" id="node23" href="$class_piecewise_function.html#a153c61dac33235418d1642e2372cbe72" title="PiecewiseFunction::\lgetEndTime" alt="" coords="1244,179,1383,220"/>
+<area shape="rect" id="node25" href="$class_piecewise_polynomial.html#acff48ea2602882b13d890bd2751590da" title="PiecewisePolynomial\l::rows" alt="" coords="979,303,1124,344"/>
+<area shape="rect" id="node26" href="$class_piecewise_polynomial.html#a6ddb58a344114da2999204c069ae3f91" title="PiecewisePolynomial\l::cols" alt="" coords="979,237,1124,279"/>
+<area shape="rect" id="node27" href="$class_piecewise_polynomial.html#acc6f9183863aadee5e7e1cc317c1c57d" title="PiecewisePolynomial\l::segmentValueAtGlobalAbscissa" alt="" coords="943,55,1160,96"/>
+<area shape="rect" id="node24" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="1467,149,1624,191"/>
+<area shape="rect" id="node30" href="$namespacedrake_1_1math_1_1internal.html#a01dad140d10cda5a14ee7a51a532081c" title="drake::math::internal\l::expmap2quatDegenerate" alt="" coords="964,368,1139,409"/>
+<area shape="rect" id="node31" href="$namespacedrake_1_1math_1_1internal.html#af04b4d15cac27d0880fe4ca074efe050" title="drake::math::internal\l::expmap2quatNonDegenerate" alt="" coords="953,485,1150,527"/>
+<area shape="rect" id="node33" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="1272,627,1355,654"/>
+<area shape="rect" id="node34" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="1274,805,1353,831"/>
+<area shape="rect" id="node38" href="$class_rigid_body_tree.html#a2143f26bf2af3dee7bc681557c5afaba" title="RigidBodyTree::relativeTransform" alt="" coords="684,1161,895,1187"/>
+<area shape="rect" id="node39" href="$namespacedrake_1_1math.html#aa95bfab47d1fbb403cd38228193b5b71" title="drake::math::rotmat2quat" alt="" coords="967,653,1135,679"/>
+<area shape="rect" id="node40" href="$class_rigid_body_tree.html#aaf10e7e9022d5fa04c9cf7f6e6199eb6" title="RigidBodyTree::geometric\lJacobian" alt="" coords="1228,945,1399,987"/>
+<area shape="rect" id="node41" href="$namespacedrake_1_1math.html#ab5e83b74909d26efd343aac2ca7d27f8" title="drake::math::rotmat2axis" alt="" coords="968,855,1135,882"/>
+<area shape="rect" id="node43" href="$class_rigid_body_tree.html#a49feb527fdea334223689ad9bd923b7f" title="An accessor to the number of position states outputted by this rigid body system. ..." alt="" coords="973,1176,1130,1217"/>
+<area shape="rect" id="node44" href="$class_rigid_body_tree.html#a60f97c1290f377658d8f6a8e0bffc8e3" title="RigidBodyTree::transform\lPointsJacobian" alt="" coords="967,1008,1135,1049"/>
+<area shape="rect" id="node46" href="$control_util_8cpp.html#a4184a55e2eea8d76007f2e83d7440bf2" title="surfaceTangents" alt="" coords="993,805,1110,831"/>
+<area shape="rect" id="node47" href="$class_rigid_body_tree.html#a8dc0b25e8bb3dcd6ab3bc14355bb3176" title="RigidBodyTree::transform\lPointsJacobianDotTimesV" alt="" coords="964,1241,1139,1283"/>
+<area shape="rect" id="node45" href="$class_rigid_body_tree.html#a017804f38e8e874c11ba69feba6f111d" title="RigidBodyTree::parseBody\lOrFrameID" alt="" coords="1225,1011,1401,1052"/>
+<area shape="rect" id="node48" href="$class_kinematics_cache.html#a9356e2a0fdde0bcec7feb90635499bb6" title="KinematicsCache::checkCached\lKinematicsSettings" alt="" coords="1208,1207,1419,1248"/>
+<area shape="rect" id="node49" href="$class_rigid_body_tree.html#a3193d5740acde31fc624c866512bc058" title="RigidBodyTree::relativeTwist" alt="" coords="1221,1273,1405,1299"/>
+<area shape="rect" id="node50" href="$class_rigid_body_tree.html#a0f727ab7c77cf8ba5e2eb9d2c83c98b4" title="RigidBodyTree::geometric\lJacobianDotTimesV" alt="" coords="1228,1141,1399,1183"/>
+<area shape="rect" id="node57" href="$class_rigid_body_tree.html#a8f49d2bdf6a0470e074de082d88945a4" title="Obtains the index of a rigid body within this rigid body tree. " alt="" coords="689,1573,889,1599"/>
+<area shape="rect" id="node60" href="$drake_geometry_util_8h.html#afd895f5eb68f330637ec6583297d430d" title="transformSpatialForce" alt="" coords="715,1289,864,1315"/>
+<area shape="rect" id="node61" href="$class_rigid_body_tree.html#aa89c75d11ad5f5a27bf2b0e8363cdd9a" title="RigidBodyTree::getMass" alt="" coords="707,1339,871,1366"/>
+<area shape="rect" id="node63" href="$class_rigid_body_tree.html#ac514070fec506f59cf10c5deefb67fca" title="RigidBodyTree::centerOfMass" alt="" coords="692,1390,887,1417"/>
+<area shape="rect" id="node64" href="$class_rigid_body_tree.html#a3c3b36b4711b296be613e334d926965f" title="RigidBodyTree::worldMomentum\lMatrix" alt="" coords="685,1441,894,1483"/>
+<area shape="rect" id="node65" href="$class_rigid_body_tree.html#afd4868c0fe3eac2b0f1aec052e2ff93c" title="RigidBodyTree::worldMomentum\lMatrixDotTimesV" alt="" coords="685,1507,894,1548"/>
+<area shape="rect" id="node66" href="$namespacedrake_1_1util.html#a6bdafd0f065d4f25b011da965def2b25" title="Compares two matrices to determine whether they are equal to within a certain threshold. " alt="" coords="695,1238,884,1265"/>
+<area shape="rect" id="node58" href="$class_rigid_body_tree.html#a1e0b241ac2b40c00ebf408128cc18bb3" title="Finds a body with the specified body_name belonging to a model with the specified model_name and mode..." alt="" coords="967,1547,1136,1574"/>
+<area shape="rect" id="node59" href="$test_util_8h.html#a4290b86928fb877abbb71cc6a4e263dc" title="to_string" alt="" coords="1277,1573,1349,1599"/>
+<area shape="rect" id="node62" href="$class_rigid_body_tree.html#a53fb9334effd9f1306fe6128534525df" title="RigidBodyTree::isBodyPart\lOfRobot" alt="" coords="962,1359,1141,1400"/>
+</map>

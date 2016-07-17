@@ -1,0 +1,7 @@
+<map id="totalSizeAtRunTime" name="totalSizeAtRunTime">
+<area shape="rect" id="node2" href="$namespace_drake.html#a61cdeabdad11277c6338c1599fc878cc" title="Determine the total size at runtime of a number of arguments using their size() methods (recursive) ..." alt="" coords="195,13,332,40"/>
+<area shape="rect" id="node3" href="$namespace_drake.html#a7394cd7d53d8f4a386d7c082b49b1571" title="Given a series of Eigen matrices, create a tuple of corresponding AutoDiff matrices with values equal..." alt="" coords="191,64,336,91"/>
+<area shape="rect" id="node4" href="$namespace_drake.html#a1df0b8e46cdfd56bab25425fe0ec7a3f" title="timeInvariantLQR" alt="" coords="397,5,517,32"/>
+<area shape="rect" id="node5" href="$class_gaze_orient_constraint.html#abd1a66eff6450d1ad293ee3fff82e77c" title="GazeOrientConstraint\l::eval" alt="" coords="384,57,531,98"/>
+<area shape="rect" id="node6" href="$test_quatmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="409,123,506,149"/>
+</map>

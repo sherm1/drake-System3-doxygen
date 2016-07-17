@@ -1,0 +1,10 @@
+<map id="ShapeToString" name="ShapeToString">
+<area shape="rect" id="node2" href="$namespace_drake_shapes.html#add23b0e61187c63a67fa431f43a6a4cf" title="operator\&lt;\&lt;" alt="" coords="160,195,245,222"/>
+<area shape="rect" id="node3" href="$class_drake_shapes_1_1_geometry.html#a177e12df7e3855e1741737052acfe804" title="DrakeShapes::Geometry\l::getTerrainContactPoints" alt="" coords="297,5,467,47"/>
+<area shape="rect" id="node4" href="$class_drake_shapes_1_1_sphere.html#a6a2e8cddd06550e4fcf5c7480373caf3" title="DrakeShapes::Sphere\l::~Sphere" alt="" coords="307,71,457,112"/>
+<area shape="rect" id="node5" href="$class_drake_shapes_1_1_box.html#a07cb33165cf371cdae61f03e5e4ca84c" title="DrakeShapes::Box::~Box" alt="" coords="297,137,467,163"/>
+<area shape="rect" id="node6" href="$class_drake_shapes_1_1_cylinder.html#a4644c39617365ed9061433b993a81201" title="DrakeShapes::Cylinder\l::~Cylinder" alt="" coords="305,188,459,229"/>
+<area shape="rect" id="node7" href="$class_drake_shapes_1_1_capsule.html#a8460857ee9069b9bda15e699f46fc0d3" title="DrakeShapes::Capsule\l::~Capsule" alt="" coords="305,253,459,295"/>
+<area shape="rect" id="node8" href="$class_drake_shapes_1_1_mesh.html#a92162d9c34b218e4c03472f3483e3a78" title="DrakeShapes::Mesh::\l~Mesh" alt="" coords="308,319,456,360"/>
+<area shape="rect" id="node9" href="$class_drake_shapes_1_1_mesh_points.html#abda0259edc2f56f7158e779b0bd293e2" title="DrakeShapes::MeshPoints\l::~MeshPoints" alt="" coords="293,384,471,425"/>
+</map>

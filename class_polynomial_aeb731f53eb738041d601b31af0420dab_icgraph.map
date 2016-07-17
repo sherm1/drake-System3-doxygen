@@ -1,0 +1,8 @@
+<map id="getCoefficients" name="getCoefficients">
+<area shape="rect" id="node2" href="$n_waypoint_cubic_spline_free_knot_timesmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="205,5,302,32"/>
+<area shape="rect" id="node3" href="$lcm_util_8h.html#a6c5bd20871cac6eff88bf89a28f8d20e" title="encodePolynomial" alt="" coords="189,56,317,83"/>
+<area shape="rect" id="node7" href="$class_polynomial.html#a88eee5c6437b921a0d9947a7e9dada9d" title="Checks if a (univariate) Polynomial is approximately equal to this one. " alt="" coords="160,107,347,149"/>
+<area shape="rect" id="node4" href="$lcm_util_8h.html#a4156c1e85d8efbd69ce63a77fdd28df7" title="encodePolynomialMatrix" alt="" coords="395,31,559,57"/>
+<area shape="rect" id="node5" href="$test_l_c_m_util_8cpp.html#a1b2e725b25e45e69bf9cae872c55ed0f" title="testPolynomial" alt="" coords="423,81,531,108"/>
+<area shape="rect" id="node6" href="$test_l_c_m_util_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="607,81,657,108"/>
+</map>

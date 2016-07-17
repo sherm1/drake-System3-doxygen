@@ -1,0 +1,5 @@
+<map id="DesiredBodyAcceleration" name="DesiredBodyAcceleration">
+<area shape="rect" id="node2" href="$struct_bounds.html" title="Bounds" alt="" coords="9,213,76,240"/>
+<area shape="rect" id="node4" href="$classdouble.html" title="double" alt="" coords="125,213,185,240"/>
+<area shape="rect" id="node5" href="$struct_kinematic_path.html" title="KinematicPath" alt="" coords="260,213,367,240"/>
+</map>

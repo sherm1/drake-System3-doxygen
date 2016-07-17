@@ -1,0 +1,6 @@
+<map id="toVector3d" name="toVector3d">
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_bullet_model.html#a7baa2fa8e78e823d6a37f42e0f311138" title="Computes the set of potential collision points for all eligible pairs of collision geometries in this..." alt="" coords="177,5,359,47"/>
+<area shape="rect" id="node3" href="$class_drake_collision_1_1_bullet_model.html#a495d86ed24955a38c6e09e999810bbec" title="Perform any operations needed to bring the model up&#45;to&#45;date after making changes to its collision ele..." alt="" coords="177,71,359,112"/>
+<area shape="rect" id="node4" href="$class_drake_collision_1_1_bullet_model.html#a7b5c2169942936556926b4882d6e51c5" title="Compute closest distance from each point to any surface in the collision model utilizing Bullet&#39;s col..." alt="" coords="177,136,359,177"/>
+<area shape="rect" id="node5" href="$class_drake_collision_1_1_bullet_model.html#a65107b2cf0dca012fd488e64fed49af4" title="Computes the point of closest approach between collision elements that are in contact. " alt="" coords="139,201,397,243"/>
+</map>

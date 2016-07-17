@@ -1,0 +1,12 @@
+<map id="quat2expmapSequence" name="quat2expmapSequence">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math.html#abd18e2f0405f7355c3029e724355db6e" title="quat2expmap" alt="" coords="244,13,344,39"/>
+<area shape="rect" id="node5" href="$namespacedrake_1_1math.html#ab3c61a24dd7c544df6747676b6faa04a" title="closestExpmap" alt="" coords="238,63,350,90"/>
+<area shape="rect" id="node8" href="$namespacedrake_1_1math.html#a2131d12e81399c3201b29118d59adc87" title="autoDiffToValueMatrix" alt="" coords="220,114,368,141"/>
+<area shape="rect" id="node9" href="$namespacedrake_1_1math.html#af00cd34bea44b187b01da164d5207ae3" title="autoDiffToGradientMatrix" alt="" coords="212,165,376,191"/>
+<area shape="rect" id="node3" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="426,13,510,39"/>
+<area shape="rect" id="node4" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="579,5,731,47"/>
+<area shape="rect" id="node6" href="$autodiff_8h.html#a585272fa110644dd1627097dfaa7a7d4" title="Overloads round to mimic std::round from &lt;cmath&gt;. " alt="" coords="441,63,495,90"/>
+<area shape="rect" id="node7" href="$autodiff_8h.html#ade59d5c5d809f1cdb177cb682fcb2445" title="Overloads floor to mimic std::floor from &lt;cmath&gt;. " alt="" coords="445,114,491,141"/>
+<area shape="rect" id="node10" href="$group__vector__concept.html#gabe2c712db37a45754da01eb7ceb3f8be" title="size() " alt="" coords="424,165,512,191"/>
+<area shape="rect" id="node11" href="$struct_drake_1_1internal_1_1_size_dispatch.html#aea06aba4744fb839844167104aa3ff9e" title="Drake::internal::SizeDispatch\l::eval" alt="" coords="560,157,751,199"/>
+</map>

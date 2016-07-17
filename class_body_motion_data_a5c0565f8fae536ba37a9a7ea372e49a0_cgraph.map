@@ -1,0 +1,6 @@
+<map id="findSegmentIndex" name="findSegmentIndex">
+<area shape="rect" id="node2" href="$class_piecewise_function.html#aa35609bb4c7fc71304c47fd0132ae828" title="PiecewiseFunction::\lgetSegmentIndex" alt="" coords="179,71,317,112"/>
+<area shape="rect" id="node3" href="$class_piecewise_function.html#a17e20f6b6982b3b67a96c9e7b2486e8d" title="PiecewiseFunction::\lgetStartTime" alt="" coords="365,5,504,47"/>
+<area shape="rect" id="node4" href="$class_piecewise_function.html#a153c61dac33235418d1642e2372cbe72" title="PiecewiseFunction::\lgetEndTime" alt="" coords="365,71,504,112"/>
+<area shape="rect" id="node5" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="552,100,709,141"/>
+</map>

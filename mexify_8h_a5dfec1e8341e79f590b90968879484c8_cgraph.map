@@ -1,0 +1,4 @@
+<map id="collectMexTryCallFunctionsErrorDiagnostics" name="collectMexTryCallFunctionsErrorDiagnostics">
+<area shape="rect" id="node2" href="$mexify_8h.html#a4fa8f8f066b44e0f9f9451f5a3f86f83" title="areArgumentsConvertibleFromMex Checks whether the Matlab input arguments match the function signature..." alt="" coords="236,5,457,32"/>
+<area shape="rect" id="node3" href="$mexify_8h.html#a4d41dcaa089168a101fe8408ce29d4d1" title="collectMexTryCallFunctionsErrorDiagnostics write diagnostic information to log; called after mexTryTo..." alt="" coords="255,57,438,98"/>
+</map>

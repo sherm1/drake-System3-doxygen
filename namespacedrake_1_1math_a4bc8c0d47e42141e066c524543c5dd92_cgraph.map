@@ -1,0 +1,8 @@
+<map id="expmap2quat" name="expmap2quat">
+<area shape="rect" id="node2" href="$namespacedrake_1_1math_1_1internal.html#a01dad140d10cda5a14ee7a51a532081c" title="drake::math::internal\l::expmap2quatDegenerate" alt="" coords="165,5,339,47"/>
+<area shape="rect" id="node3" href="$namespacedrake_1_1math_1_1internal.html#af04b4d15cac27d0880fe4ca074efe050" title="drake::math::internal\l::expmap2quatNonDegenerate" alt="" coords="153,71,351,112"/>
+<area shape="rect" id="node4" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="399,27,483,54"/>
+<area shape="rect" id="node6" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="399,78,482,105"/>
+<area shape="rect" id="node7" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="401,129,480,155"/>
+<area shape="rect" id="node5" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="531,71,683,112"/>
+</map>

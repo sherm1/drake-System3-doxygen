@@ -1,0 +1,7 @@
+<map id="matlabCoefsAndBreaksToPiecewisePolynomial" name="matlabCoefsAndBreaksToPiecewisePolynomial">
+<area shape="rect" id="node2" href="$construct_q_p_locomotion_planmex_8cpp.html#a9e2d12c2b92d12201fafc75ef824ae9b" title="matlabExpPlusPPToExponential\lPlusPiecewisePolynomial" alt="" coords="284,37,495,78"/>
+<area shape="rect" id="node6" href="$construct_q_p_locomotion_planmex_8cpp.html#ac8a52d57c5cc39560ec8053676bcfc01" title="setUpBodyMotions" alt="" coords="597,107,729,133"/>
+<area shape="rect" id="node3" href="$construct_q_p_locomotion_planmex_8cpp.html#a85f73bb40f8ab1b3be7c0bf5bc08accc" title="matlabExpPlusPPOrPPTrajectory\lOrVectorToExponentialPlusPiecewise\lPolynomial" alt="" coords="543,27,784,83"/>
+<area shape="rect" id="node4" href="$construct_q_p_locomotion_planmex_8cpp.html#a781f1af328acede2778a0e141506ac17" title="setUpLyapunovFunction" alt="" coords="832,5,992,32"/>
+<area shape="rect" id="node5" href="$construct_q_p_locomotion_planmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1040,56,1137,83"/>
+</map>

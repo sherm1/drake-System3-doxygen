@@ -1,0 +1,9 @@
+<map id="shiftFunnel" name="shiftFunnel">
+<area shape="rect" id="node2" href="$shift_funnel__snopt__mex_8cpp.html#a048c212f3d91e5c7ea2a04a3ff6e8d66" title="snopt_userfun" alt="" coords="139,49,241,75"/>
+<area shape="rect" id="node8" href="$drake_debug_mex_8cpp.html#a859f0f135d8ea5e54f49c58ffdfc912d" title="mexPrintf" alt="" coords="151,99,229,126"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="664,49,764,75"/>
+<area shape="rect" id="node4" href="$shift_funnel__snopt__mex_8cpp.html#ae80338b37f2f11b318a29194db3ea4eb" title="penetrationCost" alt="" coords="309,49,422,75"/>
+<area shape="rect" id="node7" href="$shift_funnel__snopt__mex_8cpp.html#ae651f34c821c560cf4bcd6f8f9e4ea3c" title="containmentConstraint" alt="" coords="289,125,441,151"/>
+<area shape="rect" id="node5" href="$shift_funnel__snopt__mex_8cpp.html#a9bde605fdcfe99bedceaa3be3f9ad6f0" title="shiftAndTransform" alt="" coords="489,49,616,75"/>
+<area shape="rect" id="node6" href="$shift_funnel__snopt__mex_8cpp.html#aba397ad2b579031966591c10091d7396" title="ptToPolyBullet" alt="" coords="499,99,606,126"/>
+</map>

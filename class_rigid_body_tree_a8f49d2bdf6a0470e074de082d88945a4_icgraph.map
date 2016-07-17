@@ -1,0 +1,12 @@
+<map id="FindBodyIndex" name="FindBodyIndex">
+<area shape="rect" id="node2" href="$_instantaneous_q_p_controller_8cpp.html#a018485383255696d37e61dcf44076d0e" title="checkCentroidalMomentumMatches\lTotalWrench" alt="" coords="161,5,392,47"/>
+<area shape="rect" id="node5" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="709,71,807,98"/>
+<area shape="rect" id="node6" href="$class_rigid_body_tree.html#ab5ec76f5c4b9296c64925eea915e8153" title="This is a deprecated version of FindBodyIndex(...). " alt="" coords="239,122,315,149"/>
+<area shape="rect" id="node7" href="$benchmark_rigid_body_tree_8cpp.html#a4cd827595ec2069fecdc09aef0a079a5" title="testScenario1" alt="" coords="225,173,328,199"/>
+<area shape="rect" id="node9" href="$test_i_k_8cpp.html#a58b415e4ba9f44c6c2311ddf543c6f9c" title="GTEST_TEST" alt="" coords="225,223,328,250"/>
+<area shape="rect" id="node10" href="$_q_p_locomotion_plan_8cpp.html#a6b3008cbf69cc7b1e3a38d580fe615f5" title="firstOrderHold" alt="" coords="226,274,327,301"/>
+<area shape="rect" id="node11" href="$yaml_util_8h.html#aa34637a41be488efa443ba8410cf897c" title="parseKinematicTreeMetadata" alt="" coords="181,325,372,351"/>
+<area shape="rect" id="node3" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="440,5,617,47"/>
+<area shape="rect" id="node4" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="665,5,851,47"/>
+<area shape="rect" id="node8" href="$benchmark_rigid_body_tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="503,173,554,199"/>
+</map>

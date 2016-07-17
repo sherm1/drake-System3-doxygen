@@ -1,0 +1,5 @@
+<map id="matlabToEigenSparse" name="matlabToEigenSparse">
+<area shape="rect" id="node2" href="$drake_mex_util_8h.html#acf1905cff99aa719542a528109f76d10" title="matlabToEigenMap" alt="" coords="203,5,336,32"/>
+<area shape="rect" id="node4" href="$standard_mex_conversions_8h.html#ae4d0263bf70c04f3520051584be7ec43" title="fromMexUnsafe" alt="" coords="213,56,325,83"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8h.html#aec11e7ad1086e9446a5086264a634090" title="taylorVarToEigen" alt="" coords="384,5,505,32"/>
+</map>

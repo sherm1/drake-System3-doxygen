@@ -1,0 +1,7 @@
+<map id="snopt_userfun" name="snopt_userfun">
+<area shape="rect" id="node2" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="531,49,631,75"/>
+<area shape="rect" id="node3" href="$shift_funnel__snopt__mex_8cpp.html#ae80338b37f2f11b318a29194db3ea4eb" title="penetrationCost" alt="" coords="175,49,289,75"/>
+<area shape="rect" id="node6" href="$shift_funnel__snopt__mex_8cpp.html#ae651f34c821c560cf4bcd6f8f9e4ea3c" title="containmentConstraint" alt="" coords="156,125,308,151"/>
+<area shape="rect" id="node4" href="$shift_funnel__snopt__mex_8cpp.html#a9bde605fdcfe99bedceaa3be3f9ad6f0" title="shiftAndTransform" alt="" coords="356,49,483,75"/>
+<area shape="rect" id="node5" href="$shift_funnel__snopt__mex_8cpp.html#aba397ad2b579031966591c10091d7396" title="ptToPolyBullet" alt="" coords="366,99,473,126"/>
+</map>

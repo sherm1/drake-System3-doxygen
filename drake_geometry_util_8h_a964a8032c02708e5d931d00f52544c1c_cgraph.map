@@ -1,0 +1,7 @@
+<map id="rotmat2Representation" name="rotmat2Representation">
+<area shape="rect" id="node2" href="$drake_geometry_util_8h.html#a801fb3a199f17b159c60a4086199f1eb" title="rotmat2rpy" alt="" coords="254,5,338,32"/>
+<area shape="rect" id="node5" href="$drake_geometry_util_8h.html#a38279ed81790d767a17a6f2c8161eeba" title="rotmat2quat" alt="" coords="251,56,341,83"/>
+<area shape="rect" id="node6" href="$drake_geometry_util_8h.html#a34917b65df62e6c5142901e038d62396" title="rotationRepresentationSize" alt="" coords="207,107,385,133"/>
+<area shape="rect" id="node3" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="433,31,517,57"/>
+<area shape="rect" id="node4" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="565,23,717,65"/>
+</map>

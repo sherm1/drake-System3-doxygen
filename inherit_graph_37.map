@@ -1,0 +1,20 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_drake_joint.html" title="DrakeJoint" alt="" coords="5,189,88,215"/>
+<area shape="rect" id="node2" href="$class_drake_joint_impl.html" title="DrakeJointImpl\&lt; Derived \&gt;" alt="" coords="148,21,321,47"/>
+<area shape="rect" id="node4" href="$class_drake_joint_impl.html" title="DrakeJointImpl\&lt; FixedJoint \&gt;" alt="" coords="139,75,330,102"/>
+<area shape="rect" id="node6" href="$class_drake_joint_impl.html" title="DrakeJointImpl\&lt; HelicalJoint \&gt;" alt="" coords="136,130,333,157"/>
+<area shape="rect" id="node9" href="$class_drake_joint_impl.html" title="DrakeJointImpl\&lt; Prismatic\lJoint \&gt;" alt="" coords="147,181,322,223"/>
+<area shape="rect" id="node12" href="$class_drake_joint_impl.html" title="DrakeJointImpl\&lt; Quaternion\lFloatingJoint \&gt;" alt="" coords="143,247,326,288"/>
+<area shape="rect" id="node14" href="$class_drake_joint_impl.html" title="DrakeJointImpl\&lt; Revolute\lJoint \&gt;" alt="" coords="151,312,319,353"/>
+<area shape="rect" id="node17" href="$class_drake_joint_impl.html" title="DrakeJointImpl\&lt; RollPitch\lYawFloatingJoint \&gt;" alt="" coords="149,377,320,419"/>
+<area shape="rect" id="node3" href="$class_fixed_axis_one_do_f_joint.html" title="FixedAxisOneDoFJoint\l\&lt; Derived \&gt;" alt="" coords="390,5,545,47"/>
+<area shape="rect" id="node5" href="$class_fixed_joint.html" title="FixedJoint" alt="" coords="427,71,508,98"/>
+<area shape="rect" id="node7" href="$class_fixed_axis_one_do_f_joint.html" title="FixedAxisOneDoFJoint\l\&lt; HelicalJoint \&gt;" alt="" coords="390,123,545,164"/>
+<area shape="rect" id="node8" href="$class_helical_joint.html" title="HelicalJoint" alt="" coords="609,130,697,157"/>
+<area shape="rect" id="node10" href="$class_fixed_axis_one_do_f_joint.html" title="FixedAxisOneDoFJoint\l\&lt; PrismaticJoint \&gt;" alt="" coords="390,188,545,229"/>
+<area shape="rect" id="node11" href="$class_prismatic_joint.html" title="PrismaticJoint" alt="" coords="601,195,705,222"/>
+<area shape="rect" id="node13" href="$class_quaternion_floating_joint.html" title="QuaternionFloatingJoint" alt="" coords="388,254,547,281"/>
+<area shape="rect" id="node15" href="$class_fixed_axis_one_do_f_joint.html" title="FixedAxisOneDoFJoint\l\&lt; RevoluteJoint \&gt;" alt="" coords="390,312,545,353"/>
+<area shape="rect" id="node16" href="$class_revolute_joint.html" title="RevoluteJoint" alt="" coords="604,319,703,346"/>
+<area shape="rect" id="node18" href="$class_roll_pitch_yaw_floating_joint.html" title="RollPitchYawFloatingJoint" alt="" coords="381,385,553,411"/>
+</map>

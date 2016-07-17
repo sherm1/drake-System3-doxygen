@@ -1,0 +1,4 @@
+<map id="dHomogTransInv" name="dHomogTransInv">
+<area shape="rect" id="node2" href="$drake_gradient_util_8h.html#a94e7f89e2f4658e85200497129578c17" title="transposeGrad" alt="" coords="171,5,277,32"/>
+<area shape="rect" id="node3" href="$drake_gradient_util_8h.html#a0695b43534adf71ebf039033c0e33ba6" title="matGradMult" alt="" coords="175,56,273,83"/>
+</map>

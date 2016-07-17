@@ -1,0 +1,45 @@
+<map id="drake/systems/plants/constructModelmex.cpp" name="drake/systems/plants/constructModelmex.cpp">
+<area shape="rect" id="node5" href="$drake_mex_util_8h.html" title="drake/util/drakeMexUtil.h" alt="" coords="3455,281,3622,307"/>
+<area shape="rect" id="node30" href="$rigid_body_tree_mex_conversions_8h.html" title="rigidBodyTreeMexConversions.h" alt="" coords="2343,102,2550,129"/>
+<area shape="rect" id="node73" href="$_drake_joints_8h.html" title="drake/systems/plants\l/joints/DrakeJoints.h" alt="" coords="4360,95,4507,136"/>
+<area shape="rect" id="node9" href="$_trig_poly_8h.html" title="drake/util/TrigPoly.h" alt="" coords="3127,370,3265,397"/>
+<area shape="rect" id="node26" href="$autodiff_8h.html" title="Utilities for arithmetic on AutoDiffScalar. " alt="" coords="3903,459,4046,486"/>
+<area shape="rect" id="node28" href="$drake_gradient_util_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="3719,452,3879,493"/>
+<area shape="rect" id="node11" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="3983,631,4127,672"/>
+<area shape="rect" id="node14" href="$_polynomial_8h.html" title="drake/util/Polynomial.h" alt="" coords="3112,459,3267,486"/>
+<area shape="rect" id="node21" href="$core_2_gradient_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="3225,549,3372,575"/>
+<area shape="rect" id="node27" href="$math_2_gradient_8h.html" title="drake/math/gradient.h" alt="" coords="4623,549,4771,575"/>
+<area shape="rect" id="node31" href="$_rigid_body_tree_8h.html" title="drake/systems/plants\l/RigidBodyTree.h" alt="" coords="1623,184,1769,225"/>
+<area shape="rect" id="node41" href="$_kinematic_path_8h.html" title="drake/systems/plants\l/KinematicPath.h" alt="" coords="1931,363,2077,404"/>
+<area shape="rect" id="node43" href="$_kinematics_cache_8h.html" title="drake/systems/plants\l/KinematicsCache.h" alt="" coords="2373,273,2520,315"/>
+<area shape="rect" id="node70" href="$mexify_8h.html" title="drake/util/mexify.h" alt="" coords="2815,191,2943,218"/>
+<area shape="rect" id="node35" href="$constants_8h.html" title="drake/common/constants.h" alt="" coords="5942,638,6122,665"/>
+<area shape="rect" id="node36" href="$drake__deprecated_8h.html" title="Provides a portable macro for use in generating compile&#45;time warnings for use of code that is permitt..." alt="" coords="4484,452,4628,493"/>
+<area shape="rect" id="node37" href="$rotation__matrix_8h.html" title="drake/math/rotation\l_matrix.h" alt="" coords="4223,452,4358,493"/>
+<area shape="rect" id="node40" href="$_force_torque_measurement_8h.html" title="drake/systems/plants\l/ForceTorqueMeasurement.h" alt="" coords="1667,273,1855,315"/>
+<area shape="rect" id="node47" href="$_rigid_body_8h.html" title="drake/systems/plants\l/RigidBody.h" alt="" coords="1192,363,1339,404"/>
+<area shape="rect" id="node48" href="$_drake_collision_8h.html" title="drake/systems/plants\l/collision/DrakeCollision.h" alt="" coords="1023,452,1193,493"/>
+<area shape="rect" id="node53" href="$_drake_shapes_8h.html" title="drake/systems/plants\l/shapes/DrakeShapes.h" alt="" coords="341,795,502,836"/>
+<area shape="rect" id="node60" href="$_drake_joint_8h.html" title="drake/systems/plants\l/joints/DrakeJoint.h" alt="" coords="3341,452,3488,493"/>
+<area shape="rect" id="node62" href="$_rigid_body_frame_8h.html" title="drake/systems/plants\l/RigidBodyFrame.h" alt="" coords="1204,273,1351,315"/>
+<area shape="rect" id="node63" href="$pose__map_8h.html" title="drake/systems/plants\l/pose_map.h" alt="" coords="2120,452,2267,493"/>
+<area shape="rect" id="node64" href="$drake_geometry_util_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="4964,363,5132,404"/>
+<area shape="rect" id="node68" href="$drake_util_8h.html" title="drake/util/drakeUtil.h" alt="" coords="1803,459,1944,486"/>
+<area shape="rect" id="node38" href="$eigen__types_8h.html" title="This file contains abbreviated definitions for certain specializations of Eigen::Matrix that are comm..." alt="" coords="4847,541,4990,583"/>
+<area shape="rect" id="node50" href="$collision_2_element_8h.html" title="Element.h" alt="" coords="790,720,871,747"/>
+<area shape="rect" id="node58" href="$_model_8h.html" title="Model.h" alt="" coords="989,549,1057,575"/>
+<area shape="rect" id="node54" href="$_geometry_8h.html" title="Geometry.h" alt="" coords="347,1033,437,1060"/>
+<area shape="rect" id="node56" href="$shapes_2_element_8h.html" title="Element.h" alt="" coords="449,959,530,985"/>
+<area shape="rect" id="node57" href="$_visual_element_8h.html" title="VisualElement.h" alt="" coords="363,884,480,911"/>
+<area shape="rect" id="node59" href="$point__pair_8h.html" title="drake/systems/plants\l/collision/point_pair.h" alt="" coords="952,631,1099,672"/>
+<area shape="rect" id="node67" href="$quaternion_8h.html" title="Utilities for arithmetic on quaternions. " alt="" coords="5705,459,5868,486"/>
+<area shape="rect" id="node74" href="$_quaternion_floating_joint_8h.html" title="QuaternionFloatingJoint.h" alt="" coords="5239,281,5409,307"/>
+<area shape="rect" id="node76" href="$_roll_pitch_yaw_floating_joint_8h.html" title="RollPitchYawFloatingJoint.h" alt="" coords="4957,281,5139,307"/>
+<area shape="rect" id="node78" href="$_helical_joint_8h.html" title="HelicalJoint.h" alt="" coords="4517,191,4616,218"/>
+<area shape="rect" id="node82" href="$_prismatic_joint_8h.html" title="PrismaticJoint.h" alt="" coords="4328,191,4443,218"/>
+<area shape="rect" id="node83" href="$_revolute_joint_8h.html" title="RevoluteJoint.h" alt="" coords="4147,191,4256,218"/>
+<area shape="rect" id="node84" href="$_fixed_joint_8h.html" title="FixedJoint.h" alt="" coords="4605,281,4697,307"/>
+<area shape="rect" id="node75" href="$_drake_joint_impl_8h.html" title="drake/systems/plants\l/joints/DrakeJointImpl.h" alt="" coords="4572,363,4729,404"/>
+<area shape="rect" id="node77" href="$roll__pitch__yaw_8h.html" title="drake/math/roll_pitch\l_yaw.h" alt="" coords="5437,452,5579,493"/>
+<area shape="rect" id="node79" href="$_fixed_axis_one_do_f_joint_8h.html" title="FixedAxisOneDoFJoint.h" alt="" coords="4302,281,4469,307"/>
+</map>

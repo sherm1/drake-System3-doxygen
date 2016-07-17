@@ -1,0 +1,5 @@
+<map id="HelicalJoint" name="HelicalJoint">
+<area shape="rect" id="node2" href="$class_fixed_axis_one_do_f_joint.html" title="FixedAxisOneDoFJoint\l\&lt; HelicalJoint \&gt;" alt="" coords="51,261,205,303"/>
+<area shape="rect" id="node3" href="$class_drake_joint_impl.html" title="DrakeJointImpl\&lt; HelicalJoint \&gt;" alt="" coords="29,185,227,212"/>
+<area shape="rect" id="node4" href="$class_drake_joint.html" title="DrakeJoint" alt="" coords="87,109,169,136"/>
+</map>

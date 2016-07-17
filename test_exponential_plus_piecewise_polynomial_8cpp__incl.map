@@ -1,0 +1,10 @@
+<map id="drake/systems/trajectories/test/testExponentialPlusPiecewisePolynomial.cpp" name="drake/systems/trajectories/test/testExponentialPlusPiecewisePolynomial.cpp">
+<area shape="rect" id="node2" href="$_exponential_plus_piecewise_polynomial_8h.html" title="drake/systems/trajectories\l/ExponentialPlusPiecewisePolynomial.h" alt="" coords="910,109,1165,151"/>
+<area shape="rect" id="node27" href="$test_util_8h.html" title="drake/util/testUtil.h" alt="" coords="1788,295,1919,322"/>
+<area shape="rect" id="node5" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="1923,467,2067,508"/>
+<area shape="rect" id="node8" href="$_piecewise_polynomial_8h.html" title="drake/systems/trajectories\l/PiecewisePolynomial.h" alt="" coords="512,199,688,240"/>
+<area shape="rect" id="node9" href="$_piecewise_polynomial_base_8h.html" title="drake/systems/trajectories\l/PiecewisePolynomialBase.h" alt="" coords="251,288,442,329"/>
+<area shape="rect" id="node13" href="$_polynomial_8h.html" title="drake/util/Polynomial.h" alt="" coords="953,295,1108,322"/>
+<area shape="rect" id="node10" href="$_piecewise_function_8h.html" title="PiecewiseFunction.h" alt="" coords="299,385,442,411"/>
+<area shape="rect" id="node20" href="$core_2_gradient_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="1795,385,1941,411"/>
+</map>

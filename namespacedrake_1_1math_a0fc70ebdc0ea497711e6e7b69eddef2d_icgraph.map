@@ -1,0 +1,7 @@
+<map id="quatRotateVec" name="quatRotateVec">
+<area shape="rect" id="node2" href="$class_drake_1_1_rigid_body_accelerometer.html#a47387816c53b5c8a87a2ecb77841cf3d" title="Drake::RigidBodyAccelerometer\l::output" alt="" coords="161,5,368,47"/>
+<area shape="rect" id="node3" href="$class_drake_1_1_rigid_body_magnetometer.html#a47387816c53b5c8a87a2ecb77841cf3d" title="Drake::RigidBodyMagnetometer\l::output" alt="" coords="161,71,368,112"/>
+<area shape="rect" id="node4" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="167,137,362,163"/>
+<area shape="rect" id="node6" href="$test_quatmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="216,187,313,214"/>
+<area shape="rect" id="node5" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="416,137,513,163"/>
+</map>

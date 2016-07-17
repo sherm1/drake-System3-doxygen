@@ -1,0 +1,7 @@
+<map id="matlabToEigenMap" name="matlabToEigenMap">
+<area shape="rect" id="node2" href="$drake_mex_util_8h.html#a4532d10911ccd4d643366bb4ac6dbc00" title="mxGetPrSafe" alt="" coords="223,5,323,32"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8h.html#a6ac0061a82db7f94ed5182281cb5b3ea" title="matlabToEigenSparse" alt="" coords="199,56,348,83"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8h.html#ab0fb545014617327e9a3586df104b692" title="mxGetStdString" alt="" coords="216,107,331,133"/>
+<area shape="rect" id="node5" href="$drake_mex_util_8h.html#a24b3b0c6a4cfb97f0485a8f85ac01e6d" title="mxGetVectorOfStdStrings" alt="" coords="187,157,360,184"/>
+<area shape="rect" id="node6" href="$drake_mex_util_8cpp.html#ae6093bfd52a63656cb83413fa9f11c9d" title="mxGetStdString" alt="" coords="408,157,523,184"/>
+</map>

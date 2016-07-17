@@ -1,0 +1,6 @@
+<map id="matlabPPFormToPiecewisePolynomial" name="matlabPPFormToPiecewisePolynomial">
+<area shape="rect" id="node2" href="$drake_mex_util_8cpp.html#a14807222c6247f3687ff9fd04e5f72ff" title="matlabToStdVector\&lt;\l double \&gt;" alt="" coords="300,5,441,47"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8cpp.html#aa284a84f278efd230c5bc2c502e6b34f" title="mxGetFieldSafe" alt="" coords="313,95,428,122"/>
+<area shape="rect" id="node5" href="$drake_mex_util_8cpp.html#a27fe2cece2b786001e80198e9a442a03" title="sub2ind" alt="" coords="337,146,404,173"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="489,13,589,39"/>
+</map>

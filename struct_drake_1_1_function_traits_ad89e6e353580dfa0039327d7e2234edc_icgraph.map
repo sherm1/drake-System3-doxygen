@@ -1,0 +1,5 @@
+<map id="numOutputs" name="numOutputs">
+<area shape="rect" id="node2" href="$struct_drake_1_1_function_traits_3_01std_1_1reference__wrapper_3_01_f_01_4_01_4.html#a62fe320a2ee0bd30c3cea00d9cec3016" title="Drake::FunctionTraits\l\&lt; std::reference_wrapper\l\&lt; F \&gt; \&gt;::numOutputs" alt="" coords="147,5,312,61"/>
+<area shape="rect" id="node3" href="$struct_drake_1_1_function_traits_3_01std_1_1shared__ptr_3_01_f_01_4_01_4.html#a52ca221a8f8f208eee47c2d83708f5a1" title="Drake::FunctionTraits\l\&lt; std::shared_ptr\&lt; F\l \&gt; \&gt;::numOutputs" alt="" coords="156,85,303,141"/>
+<area shape="rect" id="node4" href="$struct_drake_1_1_function_traits_3_01std_1_1unique__ptr_3_01_f_01_4_01_4.html#a3e07de340fc9aca01008f087da23130b" title="Drake::FunctionTraits\l\&lt; std::unique_ptr\&lt; F\l \&gt; \&gt;::numOutputs" alt="" coords="156,165,303,221"/>
+</map>

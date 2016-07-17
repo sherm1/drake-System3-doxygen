@@ -1,0 +1,4 @@
+<map id="getPoints" name="getPoints">
+<area shape="rect" id="node2" href="$class_drake_shapes_1_1_cylinder.html#aec8f474ee597f509d54dfd0d705043d8" title="getBoundingBoxPoints" alt="" coords="131,13,285,39"/>
+<area shape="rect" id="node3" href="$class_drake_shapes_1_1_geometry.html#a36f79d29a74c60fe357be08e40a6f6c7" title="DrakeShapes::Geometry\l::getBoundingBoxPoints" alt="" coords="333,5,499,47"/>
+</map>

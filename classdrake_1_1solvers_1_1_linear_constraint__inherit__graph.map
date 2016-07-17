@@ -1,0 +1,5 @@
+<map id="LinearConstraint" name="LinearConstraint">
+<area shape="rect" id="node3" href="$classdrake_1_1solvers_1_1_bounding_box_constraint.html" title="Implements a constraint of the form &#160;lb &lt;= x &lt;= ub . " alt="" coords="5,155,164,181"/>
+<area shape="rect" id="node4" href="$classdrake_1_1solvers_1_1_linear_equality_constraint.html" title="Implements a constraint of the form &#160;Ax = b . " alt="" coords="189,155,351,181"/>
+<area shape="rect" id="node2" href="$classdrake_1_1solvers_1_1_constraint.html" title="A constraint is a function + lower and upper bounds. " alt="" coords="136,5,217,32"/>
+</map>

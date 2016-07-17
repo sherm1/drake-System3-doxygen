@@ -1,0 +1,6 @@
+<map id="clone" name="clone">
+<area shape="rect" id="node2" href="$class_rigid_body_1_1_collision_element.html#a793de3fee8c096c7fa48c0721cf00da3" title="CollisionElement" alt="" coords="107,71,225,98"/>
+<area shape="rect" id="node3" href="$class_drake_collision_1_1_element.html#ae4e172595fe5ffadcd9fb0919b410f35" title="Sets the rigid body this collision element is attached to. " alt="" coords="273,5,435,47"/>
+<area shape="rect" id="node4" href="$class_rigid_body.html#af8370604529de0f829b8424e1288a104" title="Name of the body. " alt="" coords="293,71,415,98"/>
+<area shape="rect" id="node5" href="$class_drake_collision_1_1_element.html#a65bbc5f796b738f269e6f37eef4473a5" title="Flags this collision element to be static, i.e. " alt="" coords="273,123,435,164"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="findPositionIndices" name="findPositionIndices">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a08d39cc048d42cba139ca20b779edb08" title="Obtains a pointer to the rigid body whose parent joint is named joint_name and is part of a model wit..." alt="" coords="199,5,360,32"/>
+<area shape="rect" id="node4" href="$class_rigid_body.html#ab3fff98c6aac019c863309ebc64419ec" title="An accessor to this rigid body&#39;s parent joint. " alt="" coords="212,56,347,83"/>
+<area shape="rect" id="node5" href="$class_drake_joint.html#a350be3d17b88146433c6b963f96528aa" title="DrakeJoint::getNumPositions" alt="" coords="184,107,375,133"/>
+<area shape="rect" id="node3" href="$test_util_8h.html#a4290b86928fb877abbb71cc6a4e263dc" title="to_string" alt="" coords="423,5,495,32"/>
+</map>

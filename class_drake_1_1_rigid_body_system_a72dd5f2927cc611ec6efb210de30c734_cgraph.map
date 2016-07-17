@@ -1,0 +1,7 @@
+<map id="addRobotFromURDFString" name="addRobotFromURDFString">
+<area shape="rect" id="node2" href="$namespacedrake_1_1parsers_1_1urdf.html#ab0cf08e4e466d22df6b582587b4402d3" title="Adds a URDF model to a rigid body system. " alt="" coords="229,5,416,47"/>
+<area shape="rect" id="node3" href="$namespace_drake.html#a84db2ac479a80d70178bf72e7fa7d326" title="Drake::parseURDF" alt="" coords="257,71,388,98"/>
+<area shape="rect" id="node4" href="$namespace_drake.html#a549da47af7d2604efbf896236bd3d525" title="Drake::parseRobot" alt="" coords="464,71,595,98"/>
+<area shape="rect" id="node5" href="$namespace_drake.html#afb7c13e8cd13f34be853efca7e05560c" title="Drake::parseForceElement" alt="" coords="643,71,820,98"/>
+<area shape="rect" id="node6" href="$class_drake_1_1_rigid_body_system.html#a7cb924fa34c26f1668c5c6f81c75cc07" title="addForceElement" alt="" coords="868,71,992,98"/>
+</map>

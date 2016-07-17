@@ -1,0 +1,10 @@
+<map id="matGradMultMat" name="matGradMultMat">
+<area shape="rect" id="node2" href="$class_quaternion_floating_joint.html#af82578235dbef5ecc50e322ba6277c3d" title="QuaternionFloatingJoint\l::v2qdot" alt="" coords="545,5,704,47"/>
+<area shape="rect" id="node3" href="$drake_geometry_util_8h.html#a0dcd96faa05315270ac2517a02500f60" title="normalizeVec" alt="" coords="181,101,282,127"/>
+<area shape="rect" id="node8" href="$test_drake_gradient_util_8cpp.html#a691dfdd63c4d2543ecfdfa9a0c1d6e97" title="testMatGradMult" alt="" coords="172,177,291,203"/>
+<area shape="rect" id="node4" href="$class_quaternion_floating_joint.html#a588dcbbf86acadda6112b1d21789cacd" title="QuaternionFloatingJoint\l::qdot2v" alt="" coords="339,35,497,76"/>
+<area shape="rect" id="node5" href="$drake_geometry_util_8h.html#a67cc899178d1e560bcfdd5634bfa8252" title="dquat2rotmat" alt="" coords="369,101,467,127"/>
+<area shape="rect" id="node7" href="$test_geometry_gradientsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="369,151,467,178"/>
+<area shape="rect" id="node6" href="$test_geometry_conversion_functionsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="576,101,673,127"/>
+<area shape="rect" id="node9" href="$test_drake_gradient_util_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="393,202,443,229"/>
+</map>

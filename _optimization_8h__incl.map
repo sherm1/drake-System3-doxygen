@@ -1,0 +1,10 @@
+<map id="drake/solvers/Optimization.h" name="drake/solvers/Optimization.h">
+<area shape="rect" id="node8" href="$drake__assert_8h.html" title="Provides Drake&#39;s assertion implementation. " alt="" coords="275,348,419,389"/>
+<area shape="rect" id="node11" href="$_function_8h.html" title="drake/core/Function.h" alt="" coords="614,177,762,203"/>
+<area shape="rect" id="node18" href="$core_2_gradient_8h.html" title="THIS FILE IS DEPRECATED. " alt="" coords="484,266,567,293"/>
+<area shape="rect" id="node20" href="$_vector_8h.html" title="drake/core/Vector.h" alt="" coords="787,177,923,203"/>
+<area shape="rect" id="node22" href="$_constraint_8h.html" title="drake/solvers/Constraint.h" alt="" coords="925,87,1097,114"/>
+<area shape="rect" id="node24" href="$_polynomial_8h.html" title="drake/util/Polynomial.h" alt="" coords="1251,177,1405,203"/>
+<area shape="rect" id="node30" href="$_mathematical_program_8h.html" title="drake/solvers/Mathematical\lProgram.h" alt="" coords="1421,80,1601,121"/>
+<area shape="rect" id="node32" href="$solution__result_8h.html" title="drake/solvers/solution\l_result.h" alt="" coords="1701,169,1848,211"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="getNumVelocities" name="getNumVelocities">
+<area shape="rect" id="node2" href="$class_fixed_axis_one_do_f_joint.html#af60663c0638518e5a8e505646aa7f684" title="FixedAxisOneDoFJoint\l\&lt; RevoluteJoint \&gt;::~FixedAxis\lOneDoFJoint" alt="" coords="185,5,381,61"/>
+<area shape="rect" id="node3" href="$class_fixed_axis_one_do_f_joint.html#a588dcbbf86acadda6112b1d21789cacd" title="FixedAxisOneDoFJoint\l\&lt; RevoluteJoint \&gt;::qdot2v" alt="" coords="200,86,367,127"/>
+<area shape="rect" id="node4" href="$class_fixed_axis_one_do_f_joint.html#af82578235dbef5ecc50e322ba6277c3d" title="FixedAxisOneDoFJoint\l\&lt; RevoluteJoint \&gt;::v2qdot" alt="" coords="200,151,367,193"/>
+<area shape="rect" id="node5" href="$class_fixed_axis_one_do_f_joint.html#a4f66cae0f282cdf6744d697ac568df19" title="FixedAxisOneDoFJoint\l\&lt; RevoluteJoint \&gt;::friction\lTorque" alt="" coords="199,217,367,273"/>
+<area shape="rect" id="node6" href="$class_fixed_joint.html#a071ee3ed5154a8b4a9ce24dd9e7cd807" title="FixedJoint::motionSubspace" alt="" coords="190,297,377,324"/>
+<area shape="rect" id="node7" href="$class_fixed_joint.html#a4a593f6b34528191494f0e9c20c1ffd3" title="FixedJoint::qdot2v" alt="" coords="220,348,347,375"/>
+<area shape="rect" id="node8" href="$class_fixed_joint.html#a81c54bd49a8fa0b6f57ca7800305e087" title="FixedJoint::v2qdot" alt="" coords="220,399,347,425"/>
+<area shape="rect" id="node9" href="$class_fixed_joint.html#a4f66cae0f282cdf6744d697ac568df19" title="FixedJoint::frictionTorque" alt="" coords="200,449,367,476"/>
+<area shape="rect" id="node10" href="$class_quaternion_floating_joint.html#a071ee3ed5154a8b4a9ce24dd9e7cd807" title="QuaternionFloatingJoint\l::motionSubspace" alt="" coords="204,501,363,542"/>
+<area shape="rect" id="node11" href="$class_quaternion_floating_joint.html#a30e5e6c9f8fb18baf7653b169397dc6b" title="QuaternionFloatingJoint\l::motionSubspaceDotTimesV" alt="" coords="188,566,379,607"/>
+<area shape="rect" id="node12" href="$class_quaternion_floating_joint.html#a588dcbbf86acadda6112b1d21789cacd" title="QuaternionFloatingJoint\l::qdot2v" alt="" coords="204,631,363,673"/>
+<area shape="rect" id="node13" href="$class_quaternion_floating_joint.html#af82578235dbef5ecc50e322ba6277c3d" title="QuaternionFloatingJoint\l::v2qdot" alt="" coords="204,697,363,738"/>
+<area shape="rect" id="node14" href="$class_quaternion_floating_joint.html#a4f66cae0f282cdf6744d697ac568df19" title="QuaternionFloatingJoint\l::frictionTorque" alt="" coords="204,762,363,803"/>
+<area shape="rect" id="node15" href="$class_roll_pitch_yaw_floating_joint.html#a071ee3ed5154a8b4a9ce24dd9e7cd807" title="RollPitchYawFloatingJoint\l::motionSubspace" alt="" coords="197,827,369,869"/>
+<area shape="rect" id="node16" href="$class_roll_pitch_yaw_floating_joint.html#a30e5e6c9f8fb18baf7653b169397dc6b" title="RollPitchYawFloatingJoint\l::motionSubspaceDotTimesV" alt="" coords="188,893,379,934"/>
+<area shape="rect" id="node17" href="$class_roll_pitch_yaw_floating_joint.html#a588dcbbf86acadda6112b1d21789cacd" title="RollPitchYawFloatingJoint\l::qdot2v" alt="" coords="197,958,369,999"/>
+<area shape="rect" id="node18" href="$class_roll_pitch_yaw_floating_joint.html#af82578235dbef5ecc50e322ba6277c3d" title="RollPitchYawFloatingJoint\l::v2qdot" alt="" coords="197,1023,369,1065"/>
+<area shape="rect" id="node19" href="$class_roll_pitch_yaw_floating_joint.html#a4f66cae0f282cdf6744d697ac568df19" title="RollPitchYawFloatingJoint\l::frictionTorque" alt="" coords="197,1089,369,1130"/>
+<area shape="rect" id="node20" href="$test_drake_jointsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="235,1155,332,1181"/>
+<area shape="rect" id="node21" href="$class_kinematics_cache.html#a7d0213bd8e6a5ae5c80087728f64e83d" title="KinematicsCache\&lt; double\l \&gt;::KinematicsCache" alt="" coords="196,1206,371,1247"/>
+<area shape="rect" id="node22" href="$class_kinematics_cache.html#ab815a5b6d93d18b56a7916fc8f0fed26" title="KinematicsCache\&lt; double\l \&gt;::transformVelocityMapping\lToPositionDotMapping" alt="" coords="187,1272,379,1328"/>
+<area shape="rect" id="node23" href="$class_kinematics_cache.html#a275de7868ae9f9084107cc8e21dbac41" title="KinematicsCache\&lt; double\l \&gt;::transformPositionDotMapping\lToVelocityMapping" alt="" coords="177,1352,389,1408"/>
+<area shape="rect" id="node24" href="$class_rigid_body_tree.html#ad0b6341290f77124117afd48343ef2ef" title="RigidBodyTree::compile" alt="" coords="204,1432,363,1459"/>
+<area shape="rect" id="node29" href="$class_rigid_body_tree.html#a999060c06e9cee6777f56402c1a9607e" title="Computes the kinematics on the given cache. " alt="" coords="187,1483,380,1509"/>
+<area shape="rect" id="node30" href="$class_rigid_body_tree.html#a071032b888187504c53f1b1c2d4d6357" title="RigidBodyTree::worldMomentum\lMatrix" alt="" coords="179,1534,388,1575"/>
+<area shape="rect" id="node31" href="$class_rigid_body_tree.html#ac22881ff88fdb61f8ae374cdd714d906" title="RigidBodyTree::geometric\lJacobian" alt="" coords="198,1599,369,1641"/>
+<area shape="rect" id="node32" href="$class_rigid_body_tree.html#a0401831d011a884852a6a8134891569e" title="RigidBodyTree::massMatrix" alt="" coords="192,1665,375,1692"/>
+<area shape="rect" id="node33" href="$class_rigid_body_tree.html#af0694d93e6621fa549e686df04dbe551" title="RigidBodyTree::inverseDynamics" alt="" coords="177,1716,389,1743"/>
+<area shape="rect" id="node34" href="$class_rigid_body_tree.html#ac352642000c47c1c691ce5cb90c3508e" title="RigidBodyTree::frictionTorques" alt="" coords="184,1767,383,1793"/>
+<area shape="rect" id="node35" href="$class_rigid_body_tree.html#a9a914339367d0134fa02cefd2a1b87a4" title="RigidBodyTree::compactToFull" alt="" coords="184,1817,383,1844"/>
+<area shape="rect" id="node25" href="$_instantaneous_q_p_controller_8h.html#af1f271ec76485fb6c434b7409e881089" title="applyURDFModifications" alt="" coords="464,1407,628,1433"/>
+<area shape="rect" id="node28" href="$construct_modelmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="497,1457,595,1484"/>
+<area shape="rect" id="node26" href="$construct_q_p_data_pointer_mex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="736,1381,833,1408"/>
+<area shape="rect" id="node27" href="$_instantaneous_q_p_controller_8h.html#a7221c4a075805997e61cda28c0e2996d" title="applyURDFModifications" alt="" coords="703,1432,867,1459"/>
+<area shape="rect" id="node36" href="$class_rigid_body_tree.html#a7471fedf59ca6818dc7665f6b4d2d23d" title="RigidBodyTree::relativeQuaternion\lJacobian" alt="" coords="437,1777,655,1818"/>
+<area shape="rect" id="node37" href="$class_rigid_body_tree.html#a7d5d9e02a2d8ebdf46f94af531efbe6a" title="RigidBodyTree::relativeRoll\lPitchYawJacobian" alt="" coords="458,1842,634,1883"/>
+</map>

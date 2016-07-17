@@ -1,0 +1,16 @@
+<map id="distance" name="distance">
+<area shape="rect" id="node2" href="$class_drake_collision_1_1_bullet_model.html#a495d86ed24955a38c6e09e999810bbec" title="Perform any operations needed to bring the model up&#45;to&#45;date after making changes to its collision ele..." alt="" coords="163,5,344,47"/>
+<area shape="rect" id="node3" href="$class_drake_collision_1_1_bullet_model.html#a7b5c2169942936556926b4882d6e51c5" title="Compute closest distance from each point to any surface in the collision model utilizing Bullet&#39;s col..." alt="" coords="162,71,345,112"/>
+<area shape="rect" id="node4" href="$class_drake_collision_1_1_bullet_model.html#a65107b2cf0dca012fd488e64fed49af4" title="Computes the point of closest approach between collision elements that are in contact. " alt="" coords="124,136,383,177"/>
+<area shape="rect" id="node5" href="$namespace_eigen.html#a9e30d25195bf6277c2a33e2f8114e22a" title="add_constraint" alt="" coords="200,202,307,229"/>
+<area shape="rect" id="node8" href="$namespace_eigen.html#ac8f0bf4bb130673b3effd395b603c9a2" title="delete_constraint" alt="" coords="193,253,314,279"/>
+<area shape="rect" id="node9" href="$class_rigid_body.html#a2bc14c4353120383f4e89e3bfa66713f" title="RigidBody::appendCollision\lElementIdsFromThisBody" alt="" coords="163,304,343,345"/>
+<area shape="rect" id="node10" href="$is_collision_free__mex_8cpp.html#a670ccdb76941e87ce1e0ead9c5f9f8c0" title="isCollisionFree" alt="" coords="200,370,307,397"/>
+<area shape="rect" id="node12" href="$replan_funnels__mex_8cpp.html#ae80338b37f2f11b318a29194db3ea4eb" title="penetrationCost" alt="" coords="197,421,310,447"/>
+<area shape="rect" id="node6" href="$namespace_eigen.html#ab80241e1d1e11c01ab0233afd602d09a" title="update_r" alt="" coords="446,227,518,254"/>
+<area shape="rect" id="node7" href="$namespace_eigen.html#a547b4a6ee1d21cb57fe853c24afa914d" title="solve_quadprog2" alt="" coords="584,227,703,254"/>
+<area shape="rect" id="node11" href="$is_collision_free__mex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="433,370,531,397"/>
+<area shape="rect" id="node13" href="$replan_funnels__mex_8cpp.html#a048c212f3d91e5c7ea2a04a3ff6e8d66" title="snopt_userfun" alt="" coords="431,421,533,447"/>
+<area shape="rect" id="node14" href="$replan_funnels__mex_8cpp.html#a7a09b7d0875ed3da122d4ee1f42ac747" title="shiftFunnel_snopt" alt="" coords="581,421,705,447"/>
+<area shape="rect" id="node15" href="$replan_funnels__mex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="753,421,851,447"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="getSegmentPolynomialDegree" name="getSegmentPolynomialDegree">
+<area shape="rect" id="node2" href="$class_piecewise_function.html#af30f78a6fbfd315f5d2a166cf4b1c525" title="PiecewiseFunction::\lsegmentNumberRangeCheck" alt="" coords="251,8,441,49"/>
+<area shape="rect" id="node4" href="$class_piecewise_polynomial.html#a5fd8f925144c7ba34c2406f62954d94a" title="operator+=" alt="" coords="303,75,389,102"/>
+<area shape="rect" id="node3" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="489,5,647,47"/>
+<area shape="rect" id="node5" href="$class_piecewise_function.html#aa0e6a330c9017bd82330bd6023346953" title="PiecewiseFunction::\lsegmentTimesEqual" alt="" coords="498,71,638,112"/>
+<area shape="rect" id="node6" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="695,78,777,105"/>
+<area shape="rect" id="node7" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="825,71,977,112"/>
+</map>

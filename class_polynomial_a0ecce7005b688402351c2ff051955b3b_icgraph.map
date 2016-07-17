@@ -1,0 +1,5 @@
+<map id="getSimpleVariable" name="getSimpleVariable">
+<area shape="rect" id="node2" href="$classdrake_1_1solvers_1_1_system_identification.html#af070739c9b3d1cb7c6718c0472b66331" title="Same as GetLumpedParametersFromPolynomial but for multiple Polynomials. " alt="" coords="180,5,445,47"/>
+<area shape="rect" id="node4" href="$class_trig_poly.html#ab02aa05ed8938f058b6f91539a64fb24" title="Constructs a TrigPoly version of q, but with the additional information that the variables s and c re..." alt="" coords="251,71,375,98"/>
+<area shape="rect" id="node3" href="$classdrake_1_1solvers_1_1_system_identification.html#a0b047e7f60a1c8201bb312a64bd23558" title="Extract lumped parameters from a given polynomial. " alt="" coords="493,5,752,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="dquat2rotmat" name="dquat2rotmat">
+<area shape="rect" id="node2" href="$drake_geometry_util_8h.html#a0dcd96faa05315270ac2517a02500f60" title="normalizeVec" alt="" coords="152,89,253,115"/>
+<area shape="rect" id="node3" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="349,13,433,39"/>
+<area shape="rect" id="node5" href="$drake_gradient_util_8h.html#a94e7f89e2f4658e85200497129578c17" title="transposeGrad" alt="" coords="337,63,444,90"/>
+<area shape="rect" id="node6" href="$drake_gradient_util_8h.html#a029a2cfc4ee647e40f438eb22fb0b179" title="matGradMultMat" alt="" coords="331,114,450,141"/>
+<area shape="rect" id="node7" href="$drake_geometry_util_8h.html#a34917b65df62e6c5142901e038d62396" title="rotationRepresentationSize" alt="" coords="301,165,480,191"/>
+<area shape="rect" id="node4" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="528,5,680,47"/>
+</map>

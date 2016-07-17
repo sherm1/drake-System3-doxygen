@@ -1,0 +1,4 @@
+<map id="CollidesWith" name="CollidesWith">
+<area shape="rect" id="node2" href="$class_rigid_body.html#a88bcd53c465eda505618a46bcf611d18" title="getCollisionFilterIgnores" alt="" coords="148,5,308,32"/>
+<area shape="rect" id="node3" href="$class_rigid_body.html#a7bc38734f6a6bbf123843ab9fcb09e7a" title="getCollisionFilterGroup" alt="" coords="151,56,305,83"/>
+</map>

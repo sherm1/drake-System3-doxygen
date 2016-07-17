@@ -1,0 +1,17 @@
+<map id="testSimpleCase" name="testSimpleCase">
+<area shape="rect" id="node2" href="$class_piecewise_function.html#ac95a5c97b96219eb8870a770c1e2dfdb" title="PiecewiseFunction::\lrandomSegmentTimes" alt="" coords="179,5,331,47"/>
+<area shape="rect" id="node3" href="$class_piecewise_polynomial.html#a475f201b58718ac9cad97f328fa0c3f6" title="Obtains a random PiecewisePolynomial of the specified size. " alt="" coords="183,71,328,112"/>
+<area shape="rect" id="node5" href="$class_exponential_plus_piecewise_polynomial.html#ae0bd80a38440d15c3dff295cf27c2140" title="ExponentialPlusPiecewise\lPolynomial::derivative" alt="" coords="168,136,343,177"/>
+<area shape="rect" id="node6" href="$class_piecewise_function.html#aba49a84861c05fb956e8cdbaadb0fc47" title="PiecewiseFunction::\lgetStartTime" alt="" coords="186,201,325,243"/>
+<area shape="rect" id="node9" href="$class_piecewise_function.html#ab9da73d633201867cf931680828f6afd" title="PiecewiseFunction::\lgetEndTime" alt="" coords="186,267,325,308"/>
+<area shape="rect" id="node10" href="$namespacedrake.html#a4d9daa23e20328990764f5908fe26e59" title="drake::exp" alt="" coords="214,333,297,359"/>
+<area shape="rect" id="node12" href="$test_util_8h.html#a034eb373ac0f02ffdfe1ef3fc704b72d" title="valuecheck" alt="" coords="212,383,299,410"/>
+<area shape="rect" id="node13" href="$class_exponential_plus_piecewise_polynomial.html#a1e13bc4bd7d17a7e7e71d8eb621e350f" title="ExponentialPlusPiecewise\lPolynomial::value" alt="" coords="168,435,343,476"/>
+<area shape="rect" id="node4" href="$class_polynomial.html#abbb9b91e5559b268b92f64c90c32ecf2" title="Obtains a matrix of random unvariate Polynomials of the specified size. " alt="" coords="393,71,579,112"/>
+<area shape="rect" id="node7" href="$class_piecewise_function.html#af30f78a6fbfd315f5d2a166cf4b1c525" title="PiecewiseFunction::\lsegmentNumberRangeCheck" alt="" coords="391,260,581,301"/>
+<area shape="rect" id="node8" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="816,325,973,367"/>
+<area shape="rect" id="node11" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="410,325,562,367"/>
+<area shape="rect" id="node14" href="$class_piecewise_function.html#aa35609bb4c7fc71304c47fd0132ae828" title="PiecewiseFunction::\lgetSegmentIndex" alt="" coords="417,391,555,432"/>
+<area shape="rect" id="node15" href="$class_piecewise_function.html#a17e20f6b6982b3b67a96c9e7b2486e8d" title="PiecewiseFunction::\lgetStartTime" alt="" coords="629,449,768,491"/>
+<area shape="rect" id="node16" href="$class_piecewise_function.html#a153c61dac33235418d1642e2372cbe72" title="PiecewiseFunction::\lgetEndTime" alt="" coords="629,384,768,425"/>
+</map>

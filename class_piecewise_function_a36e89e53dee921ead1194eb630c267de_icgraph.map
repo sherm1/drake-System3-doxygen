@@ -1,0 +1,47 @@
+<map id="getNumberOfSegments" name="getNumberOfSegments">
+<area shape="rect" id="node2" href="$n_waypoint_cubic_spline_free_knot_timesmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1343,329,1441,356"/>
+<area shape="rect" id="node3" href="$spline_generation_8h.html#aa5293f5a8e466c41d5a26ebde5547240" title="generateSpline" alt="" coords="805,263,913,289"/>
+<area shape="rect" id="node7" href="$class_q_p_locomotion_plan.html#aaa337019643428d4302adb538265b120" title="QPLocomotionPlan::getRobot" alt="" coords="1295,847,1489,873"/>
+<area shape="rect" id="node10" href="$class_spline_information.html#ad8aa2c1288737eee07031ae6d5a9493d" title="SplineInformation::\lSplineInformation" alt="" coords="265,1461,395,1502"/>
+<area shape="rect" id="node11" href="$zmp_util_8cpp.html#ac431b61044eb2bd705b7d164ba93861c" title="s1Trajectory" alt="" coords="1086,1511,1179,1537"/>
+<area shape="rect" id="node14" href="$class_q_p_locomotion_plan.html#ab6dcb1484b8d1b7b65574e7b74f2629a" title="QPLocomotionPlan::create\lQPControllerInput" alt="" coords="1043,1151,1222,1193"/>
+<area shape="rect" id="node15" href="$class_exponential_plus_piecewise_polynomial.html#aa8a02a4ac1c9e38765609ff59cea9af3" title="ExponentialPlusPiecewise\lPolynomial\&lt; double \&gt;::\lExponentialPlusPiecewisePolynomial" alt="" coords="211,1527,449,1583"/>
+<area shape="rect" id="node16" href="$class_piecewise_function.html#a6b6a1cfeff9872983eff6542d627cf4e" title="PiecewiseFunction" alt="" coords="265,1607,395,1633"/>
+<area shape="rect" id="node17" href="$class_piecewise_function.html#a153c61dac33235418d1642e2372cbe72" title="getEndTime" alt="" coords="285,1308,375,1335"/>
+<area shape="rect" id="node19" href="$class_piecewise_function.html#aa35609bb4c7fc71304c47fd0132ae828" title="getSegmentIndex" alt="" coords="537,871,659,897"/>
+<area shape="rect" id="node29" href="$class_piecewise_function.html#af30f78a6fbfd315f5d2a166cf4b1c525" title="segmentNumberRangeCheck" alt="" coords="235,1009,425,1036"/>
+<area shape="rect" id="node39" href="$class_piecewise_polynomial.html#ab9fe6be55dfaccde26649629bbc16ba8" title="PiecewisePolynomial\l::PiecewisePolynomial" alt="" coords="253,1658,407,1699"/>
+<area shape="rect" id="node40" href="$class_piecewise_polynomial.html#a091bc2bffe30757aa07238ae2c188c0a" title="Takes the integral of this PiecewisePolynomial. " alt="" coords="1060,81,1205,122"/>
+<area shape="rect" id="node41" href="$class_piecewise_polynomial.html#a3ad14253af58f6ba918728486794d0d5" title="Checks if a PiecewisePolynomial is approximately equal to this one. " alt="" coords="257,1723,403,1765"/>
+<area shape="rect" id="node42" href="$class_piecewise_polynomial_base.html#a98fcbe5cd3dcc746ffa1b9571252dd9a" title="PiecewisePolynomialBase\l::getTotalNumberOfCoefficients" alt="" coords="497,255,699,297"/>
+<area shape="rect" id="node43" href="$lcm_util_8h.html#a5e31e8d3f170d876e619701e63390aa1" title="encodePiecewisePolynomial" alt="" coords="237,1409,423,1436"/>
+<area shape="rect" id="node4" href="$spline_generation_8cpp.html#a6a06a3d3095252653412803f304d589f" title="nWaypointCubicSpline" alt="" coords="1056,431,1209,457"/>
+<area shape="rect" id="node9" href="$class_constraint_matrix_singular_error.html#a17b1d4b27b51ed8036bc96e6db7c5145" title="ConstraintMatrixSingular\lError::ConstraintMatrixSingularError" alt="" coords="1019,263,1247,305"/>
+<area shape="rect" id="node5" href="$test_spline_generation_8cpp.html#aa63b5d289cc80814c58ec8310ed7549f" title="randomSpeedTest" alt="" coords="1329,431,1455,457"/>
+<area shape="rect" id="node6" href="$test_spline_generation_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1605,481,1655,508"/>
+<area shape="rect" id="node8" href="$get_q_p_controller_input_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1581,847,1679,873"/>
+<area shape="rect" id="node12" href="$compute_s1_trajmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1343,1485,1441,1512"/>
+<area shape="rect" id="node13" href="$_q_p_locomotion_plan_8cpp.html#a6b3008cbf69cc7b1e3a38d580fe615f5" title="firstOrderHold" alt="" coords="1341,1536,1443,1563"/>
+<area shape="rect" id="node18" href="$class_piecewise_function.html#acf3472faaeb89020b6739c47ec2b4aee" title="getDuration" alt="" coords="554,1308,642,1335"/>
+<area shape="rect" id="node24" href="$class_piecewise_polynomial.html#aa186c04292c38dc34d8e5c58e6643434" title="PiecewisePolynomial\l::value" alt="" coords="786,1403,931,1445"/>
+<area shape="rect" id="node20" href="$class_body_motion_data.html#a5c0565f8fae536ba37a9a7ea372e49a0" title="BodyMotionData::findSegment\lIndex" alt="" coords="759,937,958,978"/>
+<area shape="rect" id="node21" href="$class_exponential_plus_piecewise_polynomial.html#a1e13bc4bd7d17a7e7e71d8eb621e350f" title="ExponentialPlusPiecewise\lPolynomial::value" alt="" coords="771,871,946,913"/>
+<area shape="rect" id="node23" href="$class_piecewise_polynomial.html#a2ada5819391bab504bf4dd6c0090190e" title="PiecewisePolynomial\l::scalarValue" alt="" coords="1060,533,1205,574"/>
+<area shape="rect" id="node22" href="$test_exponential_plus_piecewise_polynomial_8cpp.html#a84fc80552428f8160c3815968feda220" title="testSimpleCase" alt="" coords="1075,668,1190,695"/>
+<area shape="rect" id="node25" href="$control_util_8cpp.html#a5aadc5075cb9e0bdc4a6f9d4132375ef" title="evaluateXYZExpmapCubicSpline" alt="" coords="1028,1411,1237,1437"/>
+<area shape="rect" id="node26" href="$class_instantaneous_q_p_controller.html#abf6f24b6d094ffb6153416fce531f89f" title="InstantaneousQPController\l::setupAndSolveQP" alt="" coords="1303,1403,1481,1445"/>
+<area shape="rect" id="node27" href="$class_instantaneous_q_p_controller.html#a1ca7a693b5285147828bd1988da7d42c" title="InstantaneousQPController\l::InstantaneousQPController" alt="" coords="1537,1374,1723,1415"/>
+<area shape="rect" id="node28" href="$instantaneous_q_p_controllermex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1581,1440,1679,1467"/>
+<area shape="rect" id="node30" href="$class_body_motion_data.html#ab64f2fec934a13fe185635b8a1dc7cf6" title="BodyMotionData::isToeOff\lAllowed" alt="" coords="772,1185,945,1226"/>
+<area shape="rect" id="node31" href="$class_body_motion_data.html#a0f0e824fc91c94853a8184492f4ee34f" title="BodyMotionData::isInFloating\lBaseNullSpace" alt="" coords="763,1119,955,1161"/>
+<area shape="rect" id="node32" href="$class_body_motion_data.html#a1b0b3889d608bc7ffb43d84c621a9bfc" title="BodyMotionData::isPoseControlled\lWhenInContact" alt="" coords="747,1002,971,1043"/>
+<area shape="rect" id="node33" href="$class_piecewise_function.html#aba49a84861c05fb956e8cdbaadb0fc47" title="getStartTime" alt="" coords="550,393,646,420"/>
+<area shape="rect" id="node34" href="$class_piecewise_function.html#ab9da73d633201867cf931680828f6afd" title="getEndTime" alt="" coords="553,693,643,720"/>
+<area shape="rect" id="node35" href="$class_piecewise_polynomial.html#ae43b7521ee9412d8a89d1214c3a82f13" title="PiecewisePolynomial\l::getPolynomial" alt="" coords="1060,198,1205,239"/>
+<area shape="rect" id="node36" href="$class_piecewise_polynomial.html#abf309ea9d32f27a13ea794d42d2de952" title="PiecewisePolynomial\l::getSegmentPolynomialDegree" alt="" coords="756,1521,961,1562"/>
+<area shape="rect" id="node37" href="$class_piecewise_polynomial.html#adb5dde221a7a30bab9d4140a76442592" title="PiecewisePolynomial\l::setPolynomialMatrixBlock" alt="" coords="507,1141,689,1182"/>
+<area shape="rect" id="node38" href="$class_piecewise_polynomial.html#a44d93f2441eaa752b1b6eb5c55c5a6fa" title="PiecewisePolynomial\l::slice" alt="" coords="525,973,671,1014"/>
+<area shape="rect" id="node44" href="$lcm_util_8h.html#a792807b46b38988416d630eb96e354f2" title="decodePolynomialMatrix" alt="" coords="516,1561,680,1588"/>
+<area shape="rect" id="node45" href="$test_l_c_m_util_8cpp.html#a02ddb4b11c47fb1314670f407eaafade" title="testPiecewisePolynomial" alt="" coords="515,1511,681,1537"/>
+<area shape="rect" id="node46" href="$test_l_c_m_util_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="833,1637,884,1664"/>
+</map>

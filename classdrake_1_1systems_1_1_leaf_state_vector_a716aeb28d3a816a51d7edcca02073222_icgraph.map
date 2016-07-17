@@ -1,0 +1,5 @@
+<map id="DoClone" name="DoClone">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_leaf_state_vector.html#a97c22de968b28a2ffa2bd483bf9451a8" title="Copies the entire state to a new LeafStateVector. " alt="" coords="154,13,209,39"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_leaf_state_vector.html#a44b33d99c8939bea9727a5b1a38e75ca" title="LeafStateVector" alt="" coords="124,63,239,90"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_context.html#a0ebd99416e23b30db4b6660a1af01ab9" title="The Context implementation for Diagrams must override this method, since the state of a Diagram will ..." alt="" coords="287,5,452,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="get_body" name="get_body">
+<area shape="rect" id="node2" href="$class_rigid_body_1_1_collision_element.html#a6d53712d8ca51183ad3d0813c21e6374" title="Returns true if this element should be checked for collisions with the other object. " alt="" coords="128,5,315,47"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#a8cea7311fd347cbd9d8f82039c5fd413" title="collisionDetectFromPoints " alt="" coords="141,71,302,112"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#a920d5229c17b4ee9c9a208e6907c3676" title="RigidBodyTree::potential\lCollisions" alt="" coords="140,136,303,177"/>
+<area shape="rect" id="node7" href="$class_rigid_body_tree.html#a887d5e35d3c9efe5829919cce6bef698" title="RigidBodyTree::allCollisions" alt="" coords="130,202,313,229"/>
+<area shape="rect" id="node4" href="$collision_detect_from_pointsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="363,78,460,105"/>
+<area shape="rect" id="node6" href="$collision_detectmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="363,143,460,170"/>
+<area shape="rect" id="node8" href="$all_collisionsmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="363,202,460,229"/>
+</map>

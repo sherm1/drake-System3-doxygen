@@ -1,0 +1,7 @@
+<map id="mexFunction" name="mexFunction">
+<area shape="rect" id="node2" href="$test_drake_jointsmex_8cpp.html#a27923946a1409a2975c0e003a11c540a" title="safelyGetField" alt="" coords="195,5,300,32"/>
+<area shape="rect" id="node3" href="$class_drake_joint.html#aef436e6e20d1dbf2eb78b089ca9d0794" title="DrakeJoint::getName" alt="" coords="176,56,319,83"/>
+<area shape="rect" id="node4" href="$test_drake_jointsmex_8cpp.html#a5df236d52e17319713f2ff0d77eaa268" title="safelySetField" alt="" coords="195,107,299,133"/>
+<area shape="rect" id="node5" href="$drake_mex_util_8h.html#ae9c2703d688ea3fbec50f6a4a51d9aa1" title="eigenToMatlab" alt="" coords="194,157,301,184"/>
+<area shape="rect" id="node6" href="$class_drake_joint.html#a633b35ddb31caeca5aef7a0819c7ea6f" title="DrakeJoint::getNumVelocities" alt="" coords="151,208,344,235"/>
+</map>

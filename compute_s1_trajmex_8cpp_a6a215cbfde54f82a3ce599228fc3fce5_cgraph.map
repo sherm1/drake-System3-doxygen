@@ -1,0 +1,25 @@
+<map id="mexFunction" name="mexFunction">
+<area shape="rect" id="node2" href="$compute_s1_trajmex_8cpp.html#a25b89463c06ade5ad73c24a56eb88dad" title="matlabPPFormToPiecewisePolynomial" alt="" coords="151,83,397,110"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="757,29,857,55"/>
+<area shape="rect" id="node7" href="$zmp_util_8cpp.html#ac431b61044eb2bd705b7d164ba93861c" title="s1Trajectory" alt="" coords="227,355,321,382"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8cpp.html#a14807222c6247f3687ff9fd04e5f72ff" title="matlabToStdVector\&lt;\l double \&gt;" alt="" coords="477,76,619,117"/>
+<area shape="rect" id="node5" href="$drake_mex_util_8cpp.html#aa284a84f278efd230c5bc2c502e6b34f" title="mxGetFieldSafe" alt="" coords="491,166,605,193"/>
+<area shape="rect" id="node6" href="$drake_mex_util_8cpp.html#a27fe2cece2b786001e80198e9a442a03" title="sub2ind" alt="" coords="515,25,581,51"/>
+<area shape="rect" id="node8" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="1152,591,1309,632"/>
+<area shape="rect" id="node9" href="$class_piecewise_polynomial.html#abf309ea9d32f27a13ea794d42d2de952" title="PiecewisePolynomial\l::getSegmentPolynomialDegree" alt="" coords="445,217,651,259"/>
+<area shape="rect" id="node15" href="$class_piecewise_function.html#a61deacd040f26782fa134e9b717ca8ee" title="PiecewiseFunction::\lgetSegmentTimes" alt="" coords="479,348,617,389"/>
+<area shape="rect" id="node16" href="$class_piecewise_polynomial.html#aa186c04292c38dc34d8e5c58e6643434" title="PiecewisePolynomial\l::value" alt="" coords="475,479,621,520"/>
+<area shape="rect" id="node23" href="$class_piecewise_function.html#ab9da73d633201867cf931680828f6afd" title="PiecewiseFunction::\lgetEndTime" alt="" coords="479,283,617,324"/>
+<area shape="rect" id="node24" href="$class_piecewise_polynomial.html#a59218b09d3c6952001c73a3c49eaa53e" title="PiecewisePolynomial\l::getPolynomialMatrix" alt="" coords="474,413,622,455"/>
+<area shape="rect" id="node10" href="$class_piecewise_function.html#af30f78a6fbfd315f5d2a166cf4b1c525" title="PiecewiseFunction::\lsegmentNumberRangeCheck" alt="" coords="712,256,903,297"/>
+<area shape="rect" id="node11" href="$class_piecewise_polynomial.html#a5fd8f925144c7ba34c2406f62954d94a" title="PiecewisePolynomial\l::operator+=" alt="" coords="735,191,880,232"/>
+<area shape="rect" id="node12" href="$class_piecewise_function.html#aa0e6a330c9017bd82330bd6023346953" title="PiecewiseFunction::\lsegmentTimesEqual" alt="" coords="964,191,1104,232"/>
+<area shape="rect" id="node13" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="1189,198,1272,225"/>
+<area shape="rect" id="node14" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="1357,191,1509,232"/>
+<area shape="rect" id="node17" href="$class_piecewise_function.html#aa35609bb4c7fc71304c47fd0132ae828" title="PiecewiseFunction::\lgetSegmentIndex" alt="" coords="738,569,877,611"/>
+<area shape="rect" id="node18" href="$class_piecewise_function.html#a17e20f6b6982b3b67a96c9e7b2486e8d" title="PiecewiseFunction::\lgetStartTime" alt="" coords="965,373,1103,415"/>
+<area shape="rect" id="node19" href="$class_piecewise_function.html#a153c61dac33235418d1642e2372cbe72" title="PiecewiseFunction::\lgetEndTime" alt="" coords="965,620,1103,661"/>
+<area shape="rect" id="node20" href="$class_piecewise_polynomial.html#acff48ea2602882b13d890bd2751590da" title="PiecewisePolynomial\l::rows" alt="" coords="735,439,880,480"/>
+<area shape="rect" id="node21" href="$class_piecewise_polynomial.html#a6ddb58a344114da2999204c069ae3f91" title="PiecewisePolynomial\l::cols" alt="" coords="735,504,880,545"/>
+<area shape="rect" id="node22" href="$class_piecewise_polynomial.html#acc6f9183863aadee5e7e1cc317c1c57d" title="PiecewisePolynomial\l::segmentValueAtGlobalAbscissa" alt="" coords="699,373,916,415"/>
+</map>

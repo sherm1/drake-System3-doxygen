@@ -1,0 +1,5 @@
+<map id="extractMeshVertices" name="extractMeshVertices">
+<area shape="rect" id="node2" href="$struct_drake_collision_1_1_bullet_collision_world_wrapper.html#a0e37eb19ced0f409a5fcb306b2e15a44" title="DrakeCollision::BulletCollision\lWorldWrapper::BulletCollisionWorld\lWrapper" alt="" coords="196,5,425,61"/>
+<area shape="rect" id="node3" href="$class_drake_shapes_1_1_mesh.html#a5ef69afe411117d6c85d71465f931f9f" title="getPoints" alt="" coords="272,85,349,112"/>
+<area shape="rect" id="node4" href="$class_drake_shapes_1_1_mesh.html#aec8f474ee597f509d54dfd0d705043d8" title="getBoundingBoxPoints" alt="" coords="233,136,388,163"/>
+</map>

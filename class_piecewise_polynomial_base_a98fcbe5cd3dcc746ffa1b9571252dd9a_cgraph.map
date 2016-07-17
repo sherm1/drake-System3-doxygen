@@ -1,0 +1,5 @@
+<map id="getTotalNumberOfCoefficients" name="getTotalNumberOfCoefficients">
+<area shape="rect" id="node2" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="251,5,408,47"/>
+<area shape="rect" id="node3" href="$class_piecewise_polynomial_base.html#a2a3c2106589bbd73507bdedca807f6be" title="getNumberOfCoefficients" alt="" coords="247,71,412,98"/>
+<area shape="rect" id="node4" href="$class_piecewise_polynomial_base.html#a44c9cf1e40bb2d762ec6ffe8ef41acf9" title="getSegmentPolynomialDegree" alt="" coords="460,71,657,98"/>
+</map>

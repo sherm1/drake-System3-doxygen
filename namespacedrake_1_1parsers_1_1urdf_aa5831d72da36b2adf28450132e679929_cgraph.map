@@ -1,0 +1,5 @@
+<map id="MakeRigidBodyFrameFromURDFNode" name="MakeRigidBodyFrameFromURDFNode">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a1e0b241ac2b40c00ebf408128cc18bb3" title="Finds a body with the specified body_name belonging to a model with the specified model_name and mode..." alt="" coords="299,5,468,32"/>
+<area shape="rect" id="node4" href="$xml_util_8cpp.html#af9954eb9eb5a35fd3d34266455f28e11" title="parseVectorAttribute" alt="" coords="313,56,454,83"/>
+<area shape="rect" id="node3" href="$test_util_8h.html#a4290b86928fb877abbb71cc6a4e263dc" title="to_string" alt="" coords="516,5,588,32"/>
+</map>

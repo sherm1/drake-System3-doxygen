@@ -1,0 +1,6 @@
+<map id="setPolynomialMatrixBlock" name="setPolynomialMatrixBlock">
+<area shape="rect" id="node2" href="$class_piecewise_function.html#af30f78a6fbfd315f5d2a166cf4b1c525" title="PiecewiseFunction::\lsegmentNumberRangeCheck" alt="" coords="227,5,417,47"/>
+<area shape="rect" id="node4" href="$class_piecewise_polynomial.html#acff48ea2602882b13d890bd2751590da" title="rows" alt="" coords="297,71,347,98"/>
+<area shape="rect" id="node5" href="$class_piecewise_polynomial.html#a6ddb58a344114da2999204c069ae3f91" title="cols" alt="" coords="299,122,345,149"/>
+<area shape="rect" id="node3" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="PiecewiseFunction::\lgetNumberOfSegments" alt="" coords="465,5,623,47"/>
+</map>

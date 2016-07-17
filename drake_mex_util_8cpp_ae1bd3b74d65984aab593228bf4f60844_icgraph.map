@@ -1,0 +1,5 @@
+<map id="msspolyToEigen" name="msspolyToEigen">
+<area shape="rect" id="node2" href="$drake_mex_util_8h.html#a1a32330619d207b0facf0e5711263e68" title="trigPolyToEigen" alt="" coords="199,5,312,32"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8h.html#a49a631d099faa4061563c8f03289dc0f" title="matlabToCArrayOfArrays" alt="" coords="172,56,339,83"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8h.html#a66babcd1ce21bd67b3883f504f376555" title="eigenToMSSPoly" alt="" coords="387,5,509,32"/>
+</map>

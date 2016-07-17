@@ -1,0 +1,5 @@
+<map id="output" name="output">
+<area shape="rect" id="node2" href="$class_drake_1_1_rigid_body_system.html#ab38411c42c5e885e24e9402bf6e10c39" title="getNumOutputs" alt="" coords="112,5,225,32"/>
+<area shape="rect" id="node3" href="$class_drake_1_1_rigid_body_system.html#acc1b05a8d899dc14313aef19d8342685" title="getNumStates" alt="" coords="273,31,379,57"/>
+<area shape="rect" id="node4" href="$class_drake_1_1_rigid_body_system.html#aeb181e460194a35ddc5cf1469691af8f" title="getNumInputs" alt="" coords="117,107,220,133"/>
+</map>

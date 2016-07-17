@@ -1,0 +1,10 @@
+<map id="quat2expmapWithGradient" name="quat2expmapWithGradient">
+<area shape="rect" id="node2" href="$namespace_drake.html#a8ad03d134f41ff68958da87c1a6bb460" title="Initialize a single autodiff matrix given the corresponding value matrix. " alt="" coords="254,5,410,32"/>
+<area shape="rect" id="node3" href="$namespacedrake_1_1math.html#abd18e2f0405f7355c3029e724355db6e" title="drake::math::quat2expmap" alt="" coords="243,56,421,83"/>
+<area shape="rect" id="node6" href="$namespacedrake_1_1math.html#a2131d12e81399c3201b29118d59adc87" title="drake::math::autoDiffToValue\lMatrix" alt="" coords="237,107,427,149"/>
+<area shape="rect" id="node7" href="$namespacedrake_1_1math.html#af00cd34bea44b187b01da164d5207ae3" title="drake::math::autoDiffToGradient\lMatrix" alt="" coords="229,173,435,214"/>
+<area shape="rect" id="node4" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="485,56,569,83"/>
+<area shape="rect" id="node5" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="638,49,790,90"/>
+<area shape="rect" id="node8" href="$group__vector__concept.html#gabe2c712db37a45754da01eb7ceb3f8be" title="size() " alt="" coords="483,180,571,207"/>
+<area shape="rect" id="node9" href="$struct_drake_1_1internal_1_1_size_dispatch.html#aea06aba4744fb839844167104aa3ff9e" title="Drake::internal::SizeDispatch\l::eval" alt="" coords="619,173,809,214"/>
+</map>

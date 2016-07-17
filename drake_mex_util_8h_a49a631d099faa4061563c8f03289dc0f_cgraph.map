@@ -1,0 +1,8 @@
+<map id="matlabToCArrayOfArrays" name="matlabToCArrayOfArrays">
+<area shape="rect" id="node2" href="$drake_mex_util_8h.html#ac37e84d0809c68f4974ca244f34d5b4d" title="sizecheck" alt="" coords="246,5,327,32"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8h.html#a541f97ab6a424c5d1eb297308c697f3e" title="sub2ind" alt="" coords="253,56,320,83"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8h.html#a64c6b7b7127d4dd95646f460c591064f" title="matlabToStdVector" alt="" coords="220,107,353,133"/>
+<area shape="rect" id="node6" href="$drake_mex_util_8h.html#ae734e30a0d81aeeb6facc9dac05ed56d" title="msspolyToEigen" alt="" coords="227,163,346,189"/>
+<area shape="rect" id="node5" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="419,100,519,127"/>
+<area shape="rect" id="node7" href="$drake_mex_util_8cpp.html#af003ced56a50849150021ef0ac7f2885" title="mxGetPropertySafe" alt="" coords="401,175,537,201"/>
+</map>

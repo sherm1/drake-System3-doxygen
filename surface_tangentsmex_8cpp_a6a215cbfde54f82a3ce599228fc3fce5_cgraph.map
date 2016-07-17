@@ -1,0 +1,12 @@
+<map id="mexFunction" name="mexFunction">
+<area shape="rect" id="node2" href="$drake_mex_util_8cpp.html#aa711ef3046dbfc38f54f769417041117" title="getDrakeMexPointer" alt="" coords="151,5,291,32"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="393,56,493,83"/>
+<area shape="rect" id="node4" href="$surface_tangentsmex_8cpp.html#a47548f9a581788a1a4d97cb75b583833" title="getTangentsArray" alt="" coords="159,107,283,133"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#ac199512a83e5a4dc46ccc1551d4d64ec" title="RigidBodyTree::surfaceTangents" alt="" coords="339,107,548,133"/>
+<area shape="rect" id="node6" href="$_rigid_body_tree_contact_8cpp.html#af140f5f497191929a378f9b346d7d429" title="surfaceTangentsSingle" alt="" coords="624,77,777,104"/>
+<area shape="rect" id="node11" href="$class_rigid_body_tree.html#af5ea19fec4c98b7b432bf112e0ed52ff" title="computeContactJacobians " alt="" coords="596,129,805,170"/>
+<area shape="rect" id="node7" href="$namespacedrake.html#a5e216487aab536d13adcad181d8c1b14" title="drake::sqrt" alt="" coords="853,27,937,53"/>
+<area shape="rect" id="node9" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="854,77,937,104"/>
+<area shape="rect" id="node10" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="856,128,935,155"/>
+<area shape="rect" id="node8" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="985,70,1137,111"/>
+</map>

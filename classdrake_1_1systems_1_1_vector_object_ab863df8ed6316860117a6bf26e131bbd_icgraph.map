@@ -1,0 +1,4 @@
+<map id="empty" name="empty">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_vector_object.html#a046196503b5b8d18880d60113c4624b4" title="Copy constructor uses the source object&#39;s Clone() method to make a deep copy which is then owned by t..." alt="" coords="112,5,211,32"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_vector_object.html#a7a6cc89a1a9ebfa9c1fe03eb4bbefec7" title="Copy assignment replaces the current contents of this VectorObject with a clone of the source object..." alt="" coords="123,56,200,83"/>
+</map>

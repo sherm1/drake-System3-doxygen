@@ -1,0 +1,15 @@
+<map id="checkCentroidalMomentumMatchesTotalWrench" name="checkCentroidalMomentumMatchesTotalWrench">
+<area shape="rect" id="node2" href="$class_rigid_body_tree.html#a8f49d2bdf6a0470e074de082d88945a4" title="Obtains the index of a rigid body within this rigid body tree. " alt="" coords="289,31,489,57"/>
+<area shape="rect" id="node5" href="$class_rigid_body_tree.html#a2143f26bf2af3dee7bc681557c5afaba" title="RigidBodyTree::relativeTransform" alt="" coords="284,81,495,108"/>
+<area shape="rect" id="node6" href="$drake_geometry_util_8h.html#afd895f5eb68f330637ec6583297d430d" title="transformSpatialForce" alt="" coords="315,132,464,159"/>
+<area shape="rect" id="node7" href="$class_rigid_body_tree.html#aa89c75d11ad5f5a27bf2b0e8363cdd9a" title="RigidBodyTree::getMass" alt="" coords="307,183,471,209"/>
+<area shape="rect" id="node9" href="$class_rigid_body_tree.html#ac514070fec506f59cf10c5deefb67fca" title="RigidBodyTree::centerOfMass" alt="" coords="292,233,487,260"/>
+<area shape="rect" id="node10" href="$class_rigid_body_tree.html#a3c3b36b4711b296be613e334d926965f" title="RigidBodyTree::worldMomentum\lMatrix" alt="" coords="285,285,494,326"/>
+<area shape="rect" id="node11" href="$class_rigid_body_tree.html#afd4868c0fe3eac2b0f1aec052e2ff93c" title="RigidBodyTree::worldMomentum\lMatrixDotTimesV" alt="" coords="285,350,494,391"/>
+<area shape="rect" id="node12" href="$namespacedrake_1_1util.html#a6bdafd0f065d4f25b011da965def2b25" title="Compares two matrices to determine whether they are equal to within a certain threshold. " alt="" coords="295,416,484,443"/>
+<area shape="rect" id="node3" href="$class_rigid_body_tree.html#a1e0b241ac2b40c00ebf408128cc18bb3" title="Finds a body with the specified body_name belonging to a model with the specified model_name and mode..." alt="" coords="547,5,717,32"/>
+<area shape="rect" id="node4" href="$test_util_8h.html#a4290b86928fb877abbb71cc6a4e263dc" title="to_string" alt="" coords="809,31,881,57"/>
+<area shape="rect" id="node8" href="$class_rigid_body_tree.html#a53fb9334effd9f1306fe6128534525df" title="RigidBodyTree::isBodyPart\lOfRobot" alt="" coords="543,175,721,217"/>
+<area shape="rect" id="node13" href="$namespacedrake.html#a0dd2ef1bf537d53cc880d148c2a8a80b" title="drake::abs" alt="" coords="591,416,673,443"/>
+<area shape="rect" id="node14" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="769,409,921,450"/>
+</map>

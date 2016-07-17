@@ -1,0 +1,4 @@
+<map id="velocityToPositionDotMapping" name="velocityToPositionDotMapping">
+<area shape="rect" id="node2" href="$class_kinematics_cache.html#a350be3d17b88146433c6b963f96528aa" title="KinematicsCache::getNumPositions" alt="" coords="257,5,487,32"/>
+<area shape="rect" id="node3" href="$class_kinematics_cache.html#a275de7868ae9f9084107cc8e21dbac41" title="KinematicsCache::transform\lPositionDotMappingToVelocityMapping" alt="" coords="248,57,496,98"/>
+</map>

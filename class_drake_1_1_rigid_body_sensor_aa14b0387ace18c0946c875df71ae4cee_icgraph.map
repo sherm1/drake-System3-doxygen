@@ -1,0 +1,6 @@
+<map id="get_frame" name="get_frame">
+<area shape="rect" id="node2" href="$class_drake_1_1_rigid_body_accelerometer.html#a47387816c53b5c8a87a2ecb77841cf3d" title="Drake::RigidBodyAccelerometer\l::output" alt="" coords="132,5,339,47"/>
+<area shape="rect" id="node3" href="$class_drake_1_1_rigid_body_magnetometer.html#a47387816c53b5c8a87a2ecb77841cf3d" title="Drake::RigidBodyMagnetometer\l::output" alt="" coords="132,71,339,112"/>
+<area shape="rect" id="node4" href="$class_drake_1_1_rigid_body_gyroscope.html#a47387816c53b5c8a87a2ecb77841cf3d" title="Drake::RigidBodyGyroscope\l::output" alt="" coords="142,136,329,177"/>
+<area shape="rect" id="node5" href="$class_drake_1_1_rigid_body_depth_sensor.html#a47387816c53b5c8a87a2ecb77841cf3d" title="Drake::RigidBodyDepthSensor\l::output" alt="" coords="136,201,335,243"/>
+</map>

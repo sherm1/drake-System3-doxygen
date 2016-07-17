@@ -1,0 +1,8 @@
+<map id="matlabPPTrajectoryOrMatrixToPiecewisePolynomial" name="matlabPPTrajectoryOrMatrixToPiecewisePolynomial">
+<area shape="rect" id="node2" href="$construct_q_p_locomotion_planmex_8cpp.html#a25b89463c06ade5ad73c24a56eb88dad" title="matlabPPFormToPiecewisePolynomial" alt="" coords="240,95,487,122"/>
+<area shape="rect" id="node7" href="$drake_mex_util_8cpp.html#af003ced56a50849150021ef0ac7f2885" title="mxGetPropertySafe" alt="" coords="295,170,431,197"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8cpp.html#a14807222c6247f3687ff9fd04e5f72ff" title="matlabToStdVector\&lt;\l double \&gt;" alt="" coords="535,5,676,47"/>
+<area shape="rect" id="node5" href="$drake_mex_util_8cpp.html#aa284a84f278efd230c5bc2c502e6b34f" title="mxGetFieldSafe" alt="" coords="548,95,663,122"/>
+<area shape="rect" id="node6" href="$drake_mex_util_8cpp.html#a27fe2cece2b786001e80198e9a442a03" title="sub2ind" alt="" coords="572,146,639,173"/>
+<area shape="rect" id="node4" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="724,13,824,39"/>
+</map>

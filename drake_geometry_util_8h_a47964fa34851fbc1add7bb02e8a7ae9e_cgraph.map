@@ -1,0 +1,7 @@
+<map id="rpydot2angularvel" name="rpydot2angularvel">
+<area shape="rect" id="node2" href="$drake_geometry_util_8h.html#a5cbf802e82c618223171a6f729087bd3" title="rpydot2angularvelMatrix" alt="" coords="176,31,335,57"/>
+<area shape="rect" id="node6" href="$drake_gradient_util_8h.html#a0695b43534adf71ebf039033c0e33ba6" title="matGradMult" alt="" coords="207,81,304,108"/>
+<area shape="rect" id="node3" href="$namespacedrake.html#ab4bc8e77fdcd17c523962de9a3f48cb2" title="drake::sin" alt="" coords="385,5,463,32"/>
+<area shape="rect" id="node5" href="$namespacedrake.html#a3b148f4b056945c4cf31b43b63230301" title="drake::cos" alt="" coords="383,56,465,83"/>
+<area shape="rect" id="node4" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="513,23,665,65"/>
+</map>

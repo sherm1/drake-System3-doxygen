@@ -1,0 +1,6 @@
+<map id="~SplineInformation" name="~SplineInformation">
+<area shape="rect" id="node2" href="$class_piecewise_polynomial_base.html#a44c9cf1e40bb2d762ec6ffe8ef41acf9" title="PiecewisePolynomialBase\l::getSegmentPolynomialDegree" alt="" coords="183,5,388,47"/>
+<area shape="rect" id="node3" href="$class_piecewise_function.html#a1a129f427a03b8f90e2c02073904bf42" title="PiecewiseFunction::rows" alt="" coords="202,71,369,98"/>
+<area shape="rect" id="node4" href="$class_piecewise_function.html#aec5c6f55ba1458dc31a3097b9f81f68f" title="PiecewiseFunction::cols" alt="" coords="204,122,367,149"/>
+<area shape="rect" id="node5" href="$class_piecewise_function.html#a61deacd040f26782fa134e9b717ca8ee" title="PiecewiseFunction::\lgetSegmentTimes" alt="" coords="216,173,355,215"/>
+</map>

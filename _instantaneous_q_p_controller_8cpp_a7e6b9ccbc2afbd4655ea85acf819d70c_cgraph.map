@@ -1,0 +1,7 @@
+<map id="addJointSoftLimits" name="addJointSoftLimits">
+<area shape="rect" id="node2" href="$control_util_8cpp.html#a6f2165ab23f29aff664e660300208a07" title="inSupport" alt="" coords="198,5,275,32"/>
+<area shape="rect" id="node3" href="$_instantaneous_q_p_controller_8cpp.html#aacda395ad4cd96a5ab6f8acffc0c447e" title="logisticSigmoid" alt="" coords="181,56,292,83"/>
+<area shape="rect" id="node4" href="$namespacedrake.html#a4d9daa23e20328990764f5908fe26e59" title="drake::exp" alt="" coords="340,31,423,57"/>
+<area shape="rect" id="node6" href="$control_util_8cpp.html#afe6dd2cb5f97a8b992e53c93f17dbfc5" title="angleDiff" alt="" coords="346,81,417,108"/>
+<area shape="rect" id="node5" href="$classdrake_1_1_functional_form.html#a2a09da43f191fd7ade742e2b3122947a" title="Construct an undefined form with no variables. " alt="" coords="471,23,623,65"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="mxGetPropertySafe" name="mxGetPropertySafe">
+<area shape="rect" id="node2" href="$construct_modelmex_8cpp.html#a01d5766e935c3370d82f921bb706dd47" title="setDynamics" alt="" coords="417,38,516,65"/>
+<area shape="rect" id="node3" href="$construct_modelmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="680,63,777,90"/>
+<area shape="rect" id="node4" href="$construct_modelmex_8cpp.html#a56297c4ad3b96a075d8638774dfe0cbb" title="setLimits" alt="" coords="429,89,504,115"/>
+<area shape="rect" id="node5" href="$construct_q_p_locomotion_planmex_8cpp.html#a7353c92d9b380f150ab841f5fdcc5a26" title="matlabPPTrajectoryOrMatrix\lToPiecewisePolynomial" alt="" coords="373,241,560,283"/>
+<area shape="rect" id="node9" href="$construct_q_p_locomotion_planmex_8cpp.html#ac8a52d57c5cc39560ec8053676bcfc01" title="setUpBodyMotions" alt="" coords="401,139,533,166"/>
+<area shape="rect" id="node10" href="$drake_mex_util_8h.html#a4ab991a74c2efcc07723ae7bb4bb9954" title="mxGetPropertySafe" alt="" coords="189,307,325,334"/>
+<area shape="rect" id="node11" href="$drake_mex_util_8h.html#a546ee5d4b66715e718a7ad88faef29b2" title="mxGetFieldOrPropertySafe" alt="" coords="377,358,556,385"/>
+<area shape="rect" id="node12" href="$drake_mex_util_8h.html#ae734e30a0d81aeeb6facc9dac05ed56d" title="msspolyToEigen" alt="" coords="407,611,526,638"/>
+<area shape="rect" id="node13" href="$drake_mex_util_8h.html#a1a32330619d207b0facf0e5711263e68" title="trigPolyToEigen" alt="" coords="672,510,785,537"/>
+<area shape="rect" id="node16" href="$drake_mex_util_8h.html#aec11e7ad1086e9446a5086264a634090" title="taylorVarToEigen" alt="" coords="406,409,527,435"/>
+<area shape="rect" id="node17" href="$standard_mex_conversions_8h.html#a821cef4bffa2f7a3f188e9c0436ba661" title="isConvertibleFromMex" alt="" coords="391,459,542,486"/>
+<area shape="rect" id="node18" href="$standard_mex_conversions_8h.html#ae4d0263bf70c04f3520051584be7ec43" title="fromMexUnsafe" alt="" coords="411,561,523,587"/>
+<area shape="rect" id="node6" href="$construct_q_p_locomotion_planmex_8cpp.html#a85f73bb40f8ab1b3be7c0bf5bc08accc" title="matlabExpPlusPPOrPPTrajectory\lOrVectorToExponentialPlusPiecewise\lPolynomial" alt="" coords="608,211,849,267"/>
+<area shape="rect" id="node8" href="$construct_q_p_locomotion_planmex_8cpp.html#a6a215cbfde54f82a3ce599228fc3fce5" title="mexFunction" alt="" coords="1105,215,1203,242"/>
+<area shape="rect" id="node7" href="$construct_q_p_locomotion_planmex_8cpp.html#a781f1af328acede2778a0e141506ac17" title="setUpLyapunovFunction" alt="" coords="897,241,1057,267"/>
+<area shape="rect" id="node15" href="$drake_mex_util_8h.html#a49a631d099faa4061563c8f03289dc0f" title="matlabToCArrayOfArrays" alt="" coords="645,611,812,638"/>
+<area shape="rect" id="node14" href="$drake_mex_util_8h.html#a66babcd1ce21bd67b3883f504f376555" title="eigenToMSSPoly" alt="" coords="916,510,1039,537"/>
+</map>

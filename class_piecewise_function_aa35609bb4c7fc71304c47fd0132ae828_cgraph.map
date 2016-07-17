@@ -1,0 +1,5 @@
+<map id="getSegmentIndex" name="getSegmentIndex">
+<area shape="rect" id="node2" href="$class_piecewise_function.html#a17e20f6b6982b3b67a96c9e7b2486e8d" title="getStartTime" alt="" coords="176,5,272,32"/>
+<area shape="rect" id="node3" href="$class_piecewise_function.html#a153c61dac33235418d1642e2372cbe72" title="getEndTime" alt="" coords="179,56,269,83"/>
+<area shape="rect" id="node4" href="$class_piecewise_function.html#a36e89e53dee921ead1194eb630c267de" title="getNumberOfSegments" alt="" coords="320,81,477,108"/>
+</map>

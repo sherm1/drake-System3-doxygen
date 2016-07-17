@@ -1,0 +1,6 @@
+<map id="encodePolynomialMatrix" name="encodePolynomialMatrix">
+<area shape="rect" id="node2" href="$lcm_util_8h.html#a6c5bd20871cac6eff88bf89a28f8d20e" title="encodePolynomial" alt="" coords="217,56,345,83"/>
+<area shape="rect" id="node3" href="$drake_util_8h.html#a446641c6fd4dd7ec952d8d484cf582a2" title="eigenVectorToStdVector" alt="" coords="431,5,593,32"/>
+<area shape="rect" id="node4" href="$class_polynomial.html#aeb731f53eb738041d601b31af0420dab" title="Polynomial::getCoefficients" alt="" coords="423,56,601,83"/>
+<area shape="rect" id="node5" href="$class_polynomial.html#aff581e43b827443c31650278c002c0c1" title="Returns the number of unique Monomials (and thus the number of coefficients) in this Polynomial..." alt="" coords="393,107,631,133"/>
+</map>

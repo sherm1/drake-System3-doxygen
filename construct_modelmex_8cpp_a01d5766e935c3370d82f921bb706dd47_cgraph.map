@@ -1,0 +1,4 @@
+<map id="setDynamics" name="setDynamics">
+<area shape="rect" id="node2" href="$drake_mex_util_8cpp.html#af003ced56a50849150021ef0ac7f2885" title="mxGetPropertySafe" alt="" coords="161,29,297,56"/>
+<area shape="rect" id="node3" href="$class_fixed_axis_one_do_f_joint.html#a7486545e007032455f99ee75c1cfa80f" title="FixedAxisOneDoFJoint\l::setDynamics" alt="" coords="152,81,307,122"/>
+</map>

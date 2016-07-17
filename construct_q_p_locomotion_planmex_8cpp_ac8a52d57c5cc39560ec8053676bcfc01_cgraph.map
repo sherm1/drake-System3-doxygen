@@ -1,0 +1,9 @@
+<map id="setUpBodyMotions" name="setUpBodyMotions">
+<area shape="rect" id="node2" href="$drake_mex_util_8cpp.html#adb432ab78ab13ef8e4fd2a39a8ae31bf" title="mxGetPrSafe" alt="" coords="653,36,753,63"/>
+<area shape="rect" id="node3" href="$drake_mex_util_8cpp.html#af003ced56a50849150021ef0ac7f2885" title="mxGetPropertySafe" alt="" coords="233,78,369,104"/>
+<area shape="rect" id="node4" href="$construct_q_p_locomotion_planmex_8cpp.html#a0e086cce771efe8a331b9cd5d0c6a379" title="matlabCoefsAndBreaksToPiecewise\lPolynomial" alt="" coords="185,129,416,170"/>
+<area shape="rect" id="node7" href="$drake_mex_util_8cpp.html#a6532ef8cfbf13da525097a8a749d19f8" title="matlabToStdVector\&lt;\l bool \&gt;" alt="" coords="230,194,371,236"/>
+<area shape="rect" id="node8" href="$namespacedrake_1_1math.html#a3607753ce14d5404a48f81757be2b929" title="drake::math::quat2rotmat" alt="" coords="217,260,385,287"/>
+<area shape="rect" id="node5" href="$drake_mex_util_8cpp.html#a14807222c6247f3687ff9fd04e5f72ff" title="matlabToStdVector\&lt;\l double \&gt;" alt="" coords="464,62,605,104"/>
+<area shape="rect" id="node6" href="$drake_mex_util_8cpp.html#a27fe2cece2b786001e80198e9a442a03" title="sub2ind" alt="" coords="501,136,568,163"/>
+</map>

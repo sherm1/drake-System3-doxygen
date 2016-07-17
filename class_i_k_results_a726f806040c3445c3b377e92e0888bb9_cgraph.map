@@ -1,0 +1,7 @@
+<map id="IKResults" name="IKResults">
+<area shape="rect" id="node2" href="$_rigid_body_i_k_8h.html#a72c0985f3e8e00bbcbdcfdfb413f409d" title="inverseKin solves the inverse kinematics problem min_q (q&#45;q_nom)&#39;Q(q&#45;q_nom) s.t lb&lt;=constraint(q)&lt;=ub..." alt="" coords="160,5,241,32"/>
+<area shape="rect" id="node3" href="$_rigid_body_i_k_8h.html#aadc7e95a1cf3f499aa7c2adbb35984ab" title="inverseKinSimple" alt="" coords="140,56,261,83"/>
+<area shape="rect" id="node4" href="$_rigid_body_i_k_8h.html#ace3e09be91d55d81da97ed16390a224b" title="approximateIK solves the same problem as inverseKin. " alt="" coords="148,107,253,133"/>
+<area shape="rect" id="node5" href="$_rigid_body_i_k_8h.html#a5ddd763c22cde6145175c089cb303e64" title="inverseKinPointwise solves inverse kinematics problem at each t[i] individually " alt="" coords="132,157,269,184"/>
+<area shape="rect" id="node6" href="$_rigid_body_i_k_8h.html#abdecc843698c165af1933c9aa4def1e7" title="inverseKinTraj solves the inverse kinematics problem at all time together. " alt="" coords="149,208,252,235"/>
+</map>

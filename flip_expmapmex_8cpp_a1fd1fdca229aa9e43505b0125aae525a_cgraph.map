@@ -1,0 +1,8 @@
+<map id="quat2expmapWithGradient" name="quat2expmapWithGradient">
+<area shape="rect" id="node2" href="$namespace_drake.html#a8ad03d134f41ff68958da87c1a6bb460" title="Initialize a single autodiff matrix given the corresponding value matrix. " alt="" coords="254,5,410,32"/>
+<area shape="rect" id="node3" href="$drake_geometry_util_8h.html#ad03bd6eb7e9f418116a2b59c2ed0b17c" title="flipExpmap" alt="" coords="289,56,375,83"/>
+<area shape="rect" id="node4" href="$namespacedrake_1_1math.html#a2131d12e81399c3201b29118d59adc87" title="drake::math::autoDiffToValue\lMatrix" alt="" coords="237,107,427,149"/>
+<area shape="rect" id="node5" href="$namespacedrake_1_1math.html#af00cd34bea44b187b01da164d5207ae3" title="drake::math::autoDiffToGradient\lMatrix" alt="" coords="229,173,435,214"/>
+<area shape="rect" id="node6" href="$group__vector__concept.html#gabe2c712db37a45754da01eb7ceb3f8be" title="size() " alt="" coords="483,180,571,207"/>
+<area shape="rect" id="node7" href="$struct_drake_1_1internal_1_1_size_dispatch.html#aea06aba4744fb839844167104aa3ff9e" title="Drake::internal::SizeDispatch\l::eval" alt="" coords="619,173,809,214"/>
+</map>
