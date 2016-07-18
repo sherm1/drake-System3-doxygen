@@ -1,3 +1,5 @@
 <map id="CheckOutputPort" name="CheckOutputPort">
-<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_input_port3.html#af30edcea6fed61e764333222e8644389" title="Connect this InputPort to a compatible OutputPort. " alt="" coords="176,5,260,32"/>
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_input_port3.html#af30edcea6fed61e764333222e8644389" title="Connect this InputPort to a compatible OutputPort. " alt="" coords="176,13,260,39"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_abstract_system3.html#a3393db69fb836bb4739ac9e5d5b54639" title="Connect the given output port of subsystem 1 into the given input port of subsystem 2..." alt="" coords="308,5,477,47"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_cascade3.html#a42cffe5278345f697c1f8a3c40228f1b" title="Takes over ownership of the two System objects and connects the outputs of first to the inputs of sec..." alt="" coords="525,5,704,47"/>
 </map>

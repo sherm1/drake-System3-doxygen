@@ -1,5 +1,4 @@
 <map id="get_mutable_vector" name="get_mutable_vector">
-<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_cache_entry.html#aacff57fbe3df5fa52a9cf86d84bb4f8d" title="drake::systems::CacheEntry\l::get_mutable_vector_value" alt="" coords="201,5,389,47"/>
-<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_vector_output_port3.html#accf787aed456ba0cb5c84be292b46bc1" title="Returns the model value of this port as a mutable pointer to VectorInterface&lt;T&gt;. " alt="" coords="188,71,403,112"/>
-<area shape="rect" id="node4" href="$namespacedrake_1_1systems.html#ae15c73be68aa71e9edf71269e05da696" title="Strip off the VectorObject so we can see the VectorInterface. " alt="" coords="209,136,381,177"/>
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_cache_entry.html#aacff57fbe3df5fa52a9cf86d84bb4f8d" title="drake::systems::CacheEntry\l::get_mutable_vector_value" alt="" coords="188,5,376,47"/>
+<area shape="rect" id="node3" href="$namespacedrake_1_1systems.html#ae15c73be68aa71e9edf71269e05da696" title="Strip off the VectorObject so we can see the VectorInterface. " alt="" coords="196,71,368,112"/>
 </map>

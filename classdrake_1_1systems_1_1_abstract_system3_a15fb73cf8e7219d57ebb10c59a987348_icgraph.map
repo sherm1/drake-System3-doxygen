@@ -1,4 +1,4 @@
 <map id="get_mutable_output_port" name="get_mutable_output_port">
-<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_abstract_system3.html#a8fb72627d59f66c086e2e00ec0d73c3b" title="The given subsystem&#39;s OutputPort becomes the next OutputPort of this system diagram. " alt="" coords="219,13,339,39"/>
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_abstract_system3.html#a59a491254394e5db9d89feb0dee1465e" title="The given subsystem&#39;s OutputPort3 becomes the next OutputPort3 of this system diagram. " alt="" coords="219,13,339,39"/>
 <area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_cascade3.html#a42cffe5278345f697c1f8a3c40228f1b" title="Takes over ownership of the two System objects and connects the outputs of first to the inputs of sec..." alt="" coords="387,5,565,47"/>
 </map>

@@ -1,4 +1,4 @@
 <map id="VectorConstant3" name="VectorConstant3">
-<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_abstract_system3.html#a713b26f71c899fc4863df6f19042bdff" title="Returns a const reference to the OutputPort with the given port number. " alt="" coords="181,5,353,47"/>
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_abstract_system3.html#a713b26f71c899fc4863df6f19042bdff" title="Returns a const reference to the OutputPort3 with the given port number. " alt="" coords="181,5,353,47"/>
 <area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_output_port3.html#a9e7076fd8475b478a8ef8dc392a92d6e" title="Returns a const reference to a value of the type that this OutputPort3 will present at run time..." alt="" coords="172,71,363,112"/>
 </map>

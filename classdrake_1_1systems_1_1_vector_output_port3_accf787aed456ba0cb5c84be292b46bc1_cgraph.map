@@ -1,5 +1,3 @@
 <map id="get_mutable_model_vector" name="get_mutable_model_vector">
-<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_output_port3.html#a7a003a350f7a5ab67df2aab6862aff9b" title="Returns a mutable pointer to a value of the type that this OutputPort3 will present at run time..." alt="" coords="232,5,423,47"/>
-<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_abstract_value.html#a427cf5a05f32818c30963b2c760f4808" title="Returns the value wrapped in this AbstractValue, which must be of exactly type T. ..." alt="" coords="243,71,412,112"/>
-<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_vector_object.html#a6a774466385559729160bf496bb40a58" title="Returns a mutable pointer to the VectorInterface object owned by this VectorObject, if any. " alt="" coords="229,136,425,177"/>
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_output_port3.html#a7a003a350f7a5ab67df2aab6862aff9b" title="Returns a mutable pointer to a value of the type that this OutputPort3 will present at run time..." alt="" coords="229,5,420,47"/>
 </map>

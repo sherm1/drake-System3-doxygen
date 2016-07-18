@@ -1,5 +1,4 @@
 <map id="GetValue" name="GetValue">
-<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_cache_entry.html#a8b319120f12ca7e1bb37d8dfd348d6f2" title="Return a const reference to the value contained in this cache entry, which must be of type Type..." alt="" coords="134,5,322,47"/>
-<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_vector_output_port3.html#aedf66b3ace05c512eaaa1e12a023bdca" title="Returns the model value of this port as a const reference to VectorInterface&lt;T&gt;. " alt="" coords="129,71,327,112"/>
-<area shape="rect" id="node4" href="$namespacedrake_1_1systems.html#a64ebac8b224d64bd40be75367d58d2ef" title="Strip off the VectorObject so we can see the VectorInterface. " alt="" coords="163,136,293,177"/>
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_cache_entry.html#a8b319120f12ca7e1bb37d8dfd348d6f2" title="Return a const reference to the value contained in this cache entry, which must be of type Type..." alt="" coords="129,5,317,47"/>
+<area shape="rect" id="node3" href="$namespacedrake_1_1systems.html#a64ebac8b224d64bd40be75367d58d2ef" title="Strip off the VectorObject so we can see the VectorInterface. " alt="" coords="158,71,289,112"/>
 </map>

@@ -1,0 +1,8 @@
+<map id="Connect" name="Connect">
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_abstract_system3.html#a2cb90b2db1dacdac1c2f979fc05e8f7d" title="Returns a const pointer to the parent system that owns this one, or nullptr if this is a root system..." alt="" coords="147,5,280,32"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_abstract_system3.html#a713b26f71c899fc4863df6f19042bdff" title="Returns a const reference to the OutputPort3 with the given port number. " alt="" coords="157,56,269,83"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_abstract_system3.html#a1cfa314250b1dd8d21c12016c4f8a292" title="Returns a mutable pointer to the InputPort3 with the given port number. " alt="" coords="135,107,292,133"/>
+<area shape="rect" id="node5" href="$classdrake_1_1systems_1_1_input_port3.html#af30edcea6fed61e764333222e8644389" title="Connect this InputPort to a compatible OutputPort. " alt="" coords="124,158,303,199"/>
+<area shape="rect" id="node6" href="$classdrake_1_1systems_1_1_input_port3.html#a43c8b65bf29e4b8370a9248deb80acb7" title="Given an OutputPort proposed as a connection for this InputPort, throw an error message if the Output..." alt="" coords="351,158,529,199"/>
+<area shape="rect" id="node7" href="$classdrake_1_1systems_1_1_input_port3.html#a404de9855437c5dab87415387ceee046" title="A concrete InputPort can override this method to restrict the kinds of OutputPort objects that are ac..." alt="" coords="577,158,756,199"/>
+</map>

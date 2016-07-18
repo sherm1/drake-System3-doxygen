@@ -1,5 +1,8 @@
 <map id="get_subsystem_num" name="get_subsystem_num">
-<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_abstract_system3.html#a0d223edd5feff5e86907d5cea242065b" title="Returns a const reference to one of the contained subsystems, using the index reflecting the order in..." alt="" coords="196,42,307,69"/>
-<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_abstract_context3.html#adbfd198c316f83d5cb045a8105b7c9c1" title="Set the output entry for this port number appropriately, given the corresponding OutputPort in system..." alt="" coords="355,5,524,47"/>
-<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_abstract_system3.html#ab6954534b77235f1a390443c9e29f9b5" title="Obtain an up&#45;to&#45;date value for one of this System&#39;s input ports. " alt="" coords="572,42,671,69"/>
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_abstract_system3.html#aa9f903f1b93d1b4c5f4b19a46d897835" title="The given subsystem&#39;s InputPort3 becomes the next InputPort3 of this system diagram. " alt="" coords="201,5,311,32"/>
+<area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_abstract_system3.html#a59a491254394e5db9d89feb0dee1465e" title="The given subsystem&#39;s OutputPort3 becomes the next OutputPort3 of this system diagram. " alt="" coords="196,56,316,83"/>
+<area shape="rect" id="node5" href="$classdrake_1_1systems_1_1_abstract_system3.html#a0d223edd5feff5e86907d5cea242065b" title="Returns a const reference to one of the contained subsystems, using the index reflecting the order in..." alt="" coords="201,107,311,133"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_cascade3.html#a42cffe5278345f697c1f8a3c40228f1b" title="Takes over ownership of the two System objects and connects the outputs of first to the inputs of sec..." alt="" coords="364,7,543,49"/>
+<area shape="rect" id="node6" href="$classdrake_1_1systems_1_1_abstract_context3.html#adbfd198c316f83d5cb045a8105b7c9c1" title="Set the output entry for this port number appropriately, given the corresponding OutputPort3 in syste..." alt="" coords="369,90,538,131"/>
+<area shape="rect" id="node7" href="$classdrake_1_1systems_1_1_abstract_system3.html#ab6954534b77235f1a390443c9e29f9b5" title="Obtain an up&#45;to&#45;date value for one of this system&#39;s input ports. " alt="" coords="591,127,689,153"/>
 </map>
