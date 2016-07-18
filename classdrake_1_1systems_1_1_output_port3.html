@@ -164,9 +164,9 @@ Friends</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>An OutputPort3 represents a data output from a System. </p>
-<p>Other Systems may have <a class="el" href="classdrake_1_1systems_1_1_input_port.html" title="The InputPort describes a single input to a System, from another System or from an external driver...">InputPort</a> objects that depend on the values presented at an OutputPort3.</p>
+<p>Other Systems may have <a class="el" href="classdrake_1_1systems_1_1_input_port3.html" title="An InputPort3 represents an external data input to a System. ">InputPort3</a> objects that depend on the values presented at an OutputPort3.</p>
 <p>Every OutputPort3 produces a value at run time, represented as an <a class="el" href="classdrake_1_1systems_1_1_abstract_value.html" title="A fully type-erased container class. ">AbstractValue</a> object. A subclass <code><a class="el" href="classdrake_1_1systems_1_1_vector_output_port3.html" title="Extends OutputPort3 for cases where the OutputPort3 is known to be vector-valued, with scalar element...">VectorOutputPort3</a>&lt;T&gt;</code> requires that the actual type of the value be a numerical vector whose elements have scalar type <code>T</code>. <a class="el" href="classdrake_1_1systems_1_1_vector_output_port3.html" title="Extends OutputPort3 for cases where the OutputPort3 is known to be vector-valued, with scalar element...">VectorOutputPort3</a> values can participate in automatic differentiation, but more general OutputPort3 objects cannot.</p>
-<p>An OutputPort3 has a particular data type and sampling information that together can be used to determine whether it satisfies the requirements of a particular <a class="el" href="classdrake_1_1systems_1_1_input_port.html" title="The InputPort describes a single input to a System, from another System or from an external driver...">InputPort</a>. The type is represented here by a "model" value in the form of an <a class="el" href="classdrake_1_1systems_1_1_abstract_value.html" title="A fully type-erased container class. ">AbstractValue</a> object that can be copied to initialize the <a class="el" href="classdrake_1_1systems_1_1_context.html" title="The Context is a container for all of the data necessary to uniquely determine the computations perfo...">Context</a>'s cache entry that holds the value for this OutputPort3. </p>
+<p>An OutputPort3 has a particular data type and sampling information that together can be used to determine whether it satisfies the requirements of a particular <a class="el" href="classdrake_1_1systems_1_1_input_port3.html" title="An InputPort3 represents an external data input to a System. ">InputPort3</a>. The type is represented here by a "model" value in the form of an <a class="el" href="classdrake_1_1systems_1_1_abstract_value.html" title="A fully type-erased container class. ">AbstractValue</a> object that can be copied to initialize the <a class="el" href="classdrake_1_1systems_1_1_context3.html" title="The context is a container for all data necessary to uniquely determine the results of computations p...">Context3</a>'s cache entry that holds the value for this OutputPort3. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a43700cd9590266dc26e318f9e6dc1874"></a>
 <div class="memitem">
@@ -454,7 +454,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedrake.html">drake</a></li><li class="navelem"><a class="el" href="namespacedrake_1_1systems.html">systems</a></li><li class="navelem"><a class="el" href="classdrake_1_1systems_1_1_output_port3.html">OutputPort3</a></li>
-    <li class="footer">Generated on Sun Jul 17 2016 20:31:50 for Drake by
+    <li class="footer">Generated on Sun Jul 17 2016 20:58:21 for Drake by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

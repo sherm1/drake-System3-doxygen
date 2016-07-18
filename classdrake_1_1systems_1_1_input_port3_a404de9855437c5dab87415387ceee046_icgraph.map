@@ -1,7 +1,7 @@
 <map id="DoCheckOutputPort" name="DoCheckOutputPort">
-<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_input_port3.html#a43c8b65bf29e4b8370a9248deb80acb7" title="Given an OutputPort proposed as a connection for this InputPort, throw an error message if the Output..." alt="" coords="224,13,347,39"/>
+<area shape="rect" id="node2" href="$classdrake_1_1systems_1_1_input_port3.html#a43c8b65bf29e4b8370a9248deb80acb7" title="Given an OutputPort3 proposed as a connection for this InputPort3, throw an error message if the Outp..." alt="" coords="224,13,347,39"/>
 <area shape="rect" id="node6" href="$classdrake_1_1systems_1_1_vector_input_port3.html#adf07645961ef6c5a156ed311bca7e1b1" title="Create a VectorInputPort3 that only permits a connection to a particular length of VectorOutputPort3..." alt="" coords="192,64,379,105"/>
-<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_input_port3.html#af30edcea6fed61e764333222e8644389" title="Connect this InputPort to a compatible OutputPort. " alt="" coords="427,13,511,39"/>
+<area shape="rect" id="node3" href="$classdrake_1_1systems_1_1_input_port3.html#af30edcea6fed61e764333222e8644389" title="Connect this InputPort3 to a compatible OutputPort3. " alt="" coords="427,13,511,39"/>
 <area shape="rect" id="node4" href="$classdrake_1_1systems_1_1_abstract_system3.html#a3393db69fb836bb4739ac9e5d5b54639" title="Connect the given output port of subsystem 1 into the given input port of subsystem 2..." alt="" coords="559,5,728,47"/>
 <area shape="rect" id="node5" href="$classdrake_1_1systems_1_1_cascade3.html#a42cffe5278345f697c1f8a3c40228f1b" title="Takes over ownership of the two System objects and connects the outputs of first to the inputs of sec..." alt="" coords="776,5,955,47"/>
 </map>

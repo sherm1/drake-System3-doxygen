@@ -120,7 +120,7 @@ $(document).ready(function(){initNavTree('classdrake_1_1systems_1_1_vector_input
 </div><!--header-->
 <div class="contents">
 
-<p>A VectorInputPort extends <a class="el" href="classdrake_1_1systems_1_1_input_port.html" title="The InputPort describes a single input to a System, from another System or from an external driver...">InputPort</a> with the restriction that only <a class="el" href="classdrake_1_1systems_1_1_vector_output_port.html" title="The OutputPort represents a data output from a System. ">VectorOutputPort</a> connections are acceptable, and the value will be of type <a class="el" href="classdrake_1_1systems_1_1_vector_interface.html" title="VectorInterface is a pure abstract interface that real-valued signals between Systems must satisfy...">VectorInterface</a>.  
+<p>A VectorInputPort3 extends <a class="el" href="classdrake_1_1systems_1_1_input_port3.html" title="An InputPort3 represents an external data input to a System. ">InputPort3</a> with the restriction that only <a class="el" href="classdrake_1_1systems_1_1_vector_output_port3.html" title="Extends OutputPort3 for cases where the OutputPort3 is known to be vector-valued, with scalar element...">VectorOutputPort3</a> connections are acceptable, and the value will be of type <a class="el" href="classdrake_1_1systems_1_1_vector_interface.html" title="VectorInterface is a pure abstract interface that real-valued signals between Systems must satisfy...">VectorInterface</a>.  
  <a href="classdrake_1_1systems_1_1_vector_input_port3.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="system3__input_8h_source.html">drake/systems/framework/system3_input.h</a>&gt;</code></p>
@@ -129,7 +129,7 @@ Inheritance diagram for VectorInputPort3&lt; T &gt;:</div>
 <div class="dyncontent">
 <div class="center"><img src="classdrake_1_1systems_1_1_vector_input_port3__inherit__graph.png" border="0" usemap="#_vector_input_port3_3_01_t_01_4_inherit__map" alt="Inheritance graph"/></div>
 <map name="_vector_input_port3_3_01_t_01_4_inherit__map" id="_vector_input_port3_3_01_t_01_4_inherit__map">
-<area shape="rect" id="node2" href="classdrake_1_1systems_1_1_input_port3.html" title="An InputPort represents an external data input to a System. " alt="" coords="40,5,121,32"/>
+<area shape="rect" id="node2" href="classdrake_1_1systems_1_1_input_port3.html" title="An InputPort3 represents an external data input to a System. " alt="" coords="40,5,121,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
@@ -137,27 +137,27 @@ Collaboration diagram for VectorInputPort3&lt; T &gt;:</div>
 <div class="dyncontent">
 <div class="center"><img src="classdrake_1_1systems_1_1_vector_input_port3__coll__graph.png" border="0" usemap="#_vector_input_port3_3_01_t_01_4_coll__map" alt="Collaboration graph"/></div>
 <map name="_vector_input_port3_3_01_t_01_4_coll__map" id="_vector_input_port3_3_01_t_01_4_coll__map">
-<area shape="rect" id="node2" href="classdrake_1_1systems_1_1_input_port3.html" title="An InputPort represents an external data input to a System. " alt="" coords="40,5,121,32"/>
+<area shape="rect" id="node2" href="classdrake_1_1systems_1_1_input_port3.html" title="An InputPort3 represents an external data input to a System. " alt="" coords="40,5,121,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:af73c6649f97060ead2c25ed2604b02b6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdrake_1_1systems_1_1_vector_input_port3.html#af73c6649f97060ead2c25ed2604b02b6">VectorInputPort3</a> ()</td></tr>
-<tr class="memdesc:af73c6649f97060ead2c25ed2604b02b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Create a VectorInputPort that accepts any length <a class="el" href="classdrake_1_1systems_1_1_vector_output_port.html" title="The OutputPort represents a data output from a System. ">VectorOutputPort</a> as a connection.  <a href="#af73c6649f97060ead2c25ed2604b02b6">More...</a><br /></td></tr>
+<tr class="memdesc:af73c6649f97060ead2c25ed2604b02b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Create a VectorInputPort3 that accepts any length <a class="el" href="classdrake_1_1systems_1_1_vector_output_port3.html" title="Extends OutputPort3 for cases where the OutputPort3 is known to be vector-valued, with scalar element...">VectorOutputPort3</a> as a connection.  <a href="#af73c6649f97060ead2c25ed2604b02b6">More...</a><br /></td></tr>
 <tr class="separator:af73c6649f97060ead2c25ed2604b02b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adf07645961ef6c5a156ed311bca7e1b1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdrake_1_1systems_1_1_vector_input_port3.html#adf07645961ef6c5a156ed311bca7e1b1">VectorInputPort3</a> (int required_length)</td></tr>
 <tr class="memdesc:adf07645961ef6c5a156ed311bca7e1b1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Create a VectorInputPort3 that only permits a connection to a particular length of <a class="el" href="classdrake_1_1systems_1_1_vector_output_port3.html" title="Extends OutputPort3 for cases where the OutputPort3 is known to be vector-valued, with scalar element...">VectorOutputPort3</a>.  <a href="#adf07645961ef6c5a156ed311bca7e1b1">More...</a><br /></td></tr>
 <tr class="separator:adf07645961ef6c5a156ed311bca7e1b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classdrake_1_1systems_1_1_input_port3"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classdrake_1_1systems_1_1_input_port3')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classdrake_1_1systems_1_1_input_port3.html">InputPort3</a></td></tr>
 <tr class="memitem:a923d8436ac23822edd1f7c6a65bcebf5 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdrake_1_1systems_1_1_input_port3.html#a923d8436ac23822edd1f7c6a65bcebf5">InputPort3</a> ()</td></tr>
-<tr class="memdesc:a923d8436ac23822edd1f7c6a65bcebf5 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Create an InputPort that will accept any <a class="el" href="classdrake_1_1systems_1_1_output_port.html" title="An OutputPort represents a data output from a System. ">OutputPort</a> as a connection.  <a href="#a923d8436ac23822edd1f7c6a65bcebf5">More...</a><br /></td></tr>
+<tr class="memdesc:a923d8436ac23822edd1f7c6a65bcebf5 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Create an InputPort3 that accepts any <a class="el" href="classdrake_1_1systems_1_1_output_port3.html" title="An OutputPort3 represents a data output from a System. ">OutputPort3</a> as a connection.  <a href="#a923d8436ac23822edd1f7c6a65bcebf5">More...</a><br /></td></tr>
 <tr class="separator:a923d8436ac23822edd1f7c6a65bcebf5 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af30edcea6fed61e764333222e8644389 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdrake_1_1systems_1_1_input_port3.html#af30edcea6fed61e764333222e8644389">ConnectTo</a> (const <a class="el" href="classdrake_1_1systems_1_1_output_port3.html">OutputPort3</a> *output_port)</td></tr>
-<tr class="memdesc:af30edcea6fed61e764333222e8644389 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Connect this InputPort to a compatible <a class="el" href="classdrake_1_1systems_1_1_output_port.html" title="An OutputPort represents a data output from a System. ">OutputPort</a>.  <a href="#af30edcea6fed61e764333222e8644389">More...</a><br /></td></tr>
+<tr class="memdesc:af30edcea6fed61e764333222e8644389 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Connect this InputPort3 to a compatible <a class="el" href="classdrake_1_1systems_1_1_output_port3.html" title="An OutputPort3 represents a data output from a System. ">OutputPort3</a>.  <a href="#af30edcea6fed61e764333222e8644389">More...</a><br /></td></tr>
 <tr class="separator:af30edcea6fed61e764333222e8644389 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a43c8b65bf29e4b8370a9248deb80acb7 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdrake_1_1systems_1_1_input_port3.html#a43c8b65bf29e4b8370a9248deb80acb7">CheckOutputPort</a> (const <a class="el" href="classdrake_1_1systems_1_1_output_port3.html">OutputPort3</a> *proposed) const </td></tr>
-<tr class="memdesc:a43c8b65bf29e4b8370a9248deb80acb7 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Given an <a class="el" href="classdrake_1_1systems_1_1_output_port.html" title="An OutputPort represents a data output from a System. ">OutputPort</a> proposed as a connection for this InputPort, throw an error message if the <a class="el" href="classdrake_1_1systems_1_1_output_port.html" title="An OutputPort represents a data output from a System. ">OutputPort</a> is not acceptable.  <a href="#a43c8b65bf29e4b8370a9248deb80acb7">More...</a><br /></td></tr>
+<tr class="memdesc:a43c8b65bf29e4b8370a9248deb80acb7 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Given an <a class="el" href="classdrake_1_1systems_1_1_output_port3.html" title="An OutputPort3 represents a data output from a System. ">OutputPort3</a> proposed as a connection for this InputPort3, throw an error message if the <a class="el" href="classdrake_1_1systems_1_1_output_port3.html" title="An OutputPort3 represents a data output from a System. ">OutputPort3</a> is not acceptable.  <a href="#a43c8b65bf29e4b8370a9248deb80acb7">More...</a><br /></td></tr>
 <tr class="separator:a43c8b65bf29e4b8370a9248deb80acb7 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab68bd6b817549956d14a185aafb09558 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classdrake_1_1systems_1_1_output_port3.html">OutputPort3</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdrake_1_1systems_1_1_input_port3.html#ab68bd6b817549956d14a185aafb09558">get_connection</a> () const </td></tr>
 <tr class="memdesc:ab68bd6b817549956d14a185aafb09558 inherit pub_methods_classdrake_1_1systems_1_1_input_port3"><td class="mdescLeft">&#160;</td><td class="mdescRight">If connected, return a pointer to the output port otherwise <code>nullptr</code>.  <a href="#ab68bd6b817549956d14a185aafb09558">More...</a><br /></td></tr>
@@ -170,7 +170,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="textblock"><h3>template&lt;typename T&gt;<br />
 class drake::systems::VectorInputPort3&lt; T &gt;</h3>
 
-<p>A VectorInputPort extends <a class="el" href="classdrake_1_1systems_1_1_input_port.html" title="The InputPort describes a single input to a System, from another System or from an external driver...">InputPort</a> with the restriction that only <a class="el" href="classdrake_1_1systems_1_1_vector_output_port.html" title="The OutputPort represents a data output from a System. ">VectorOutputPort</a> connections are acceptable, and the value will be of type <a class="el" href="classdrake_1_1systems_1_1_vector_interface.html" title="VectorInterface is a pure abstract interface that real-valued signals between Systems must satisfy...">VectorInterface</a>. </p>
+<p>A VectorInputPort3 extends <a class="el" href="classdrake_1_1systems_1_1_input_port3.html" title="An InputPort3 represents an external data input to a System. ">InputPort3</a> with the restriction that only <a class="el" href="classdrake_1_1systems_1_1_vector_output_port3.html" title="Extends OutputPort3 for cases where the OutputPort3 is known to be vector-valued, with scalar element...">VectorOutputPort3</a> connections are acceptable, and the value will be of type <a class="el" href="classdrake_1_1systems_1_1_vector_interface.html" title="VectorInterface is a pure abstract interface that real-valued signals between Systems must satisfy...">VectorInterface</a>. </p>
 <p>You may optionally require that only a specified length of vector is acceptable; otherwise any length is allowed. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="af73c6649f97060ead2c25ed2604b02b6"></a>
@@ -194,7 +194,7 @@ class drake::systems::VectorInputPort3&lt; T &gt;</h3>
 </table>
 </div><div class="memdoc">
 
-<p>Create a VectorInputPort that accepts any length <a class="el" href="classdrake_1_1systems_1_1_vector_output_port.html" title="The OutputPort represents a data output from a System. ">VectorOutputPort</a> as a connection. </p>
+<p>Create a VectorInputPort3 that accepts any length <a class="el" href="classdrake_1_1systems_1_1_vector_output_port3.html" title="Extends OutputPort3 for cases where the OutputPort3 is known to be vector-valued, with scalar element...">VectorOutputPort3</a> as a connection. </p>
 
 </div>
 </div>
@@ -227,7 +227,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classdrake_1_1systems_1_1_vector_input_port3_adf07645961ef6c5a156ed311bca7e1b1_cgraph.png" border="0" usemap="#classdrake_1_1systems_1_1_vector_input_port3_adf07645961ef6c5a156ed311bca7e1b1_cgraph" alt=""/></div>
 <map name="classdrake_1_1systems_1_1_vector_input_port3_adf07645961ef6c5a156ed311bca7e1b1_cgraph" id="classdrake_1_1systems_1_1_vector_input_port3_adf07645961ef6c5a156ed311bca7e1b1_cgraph">
-<area shape="rect" id="node2" href="classdrake_1_1systems_1_1_input_port3.html#a404de9855437c5dab87415387ceee046" title="A concrete InputPort can override this method to restrict the kinds of OutputPort objects that are ac..." alt="" coords="172,5,351,47"/>
+<area shape="rect" id="node2" href="classdrake_1_1systems_1_1_input_port3.html#a404de9855437c5dab87415387ceee046" title="A concrete InputPort3 can override this method to restrict the kinds of OutputPort3 objects that are ..." alt="" coords="172,5,351,47"/>
 <area shape="rect" id="node3" href="classdrake_1_1_nice_type_name.html#a89324cc6533acac0d049fde3f96fa2c8" title="Attempts to return a nicely demangled and canonicalized type name that is the same on all platforms..." alt="" coords="172,71,351,98"/>
 <area shape="rect" id="node6" href="test_util_8h.html#a4290b86928fb877abbb71cc6a4e263dc" title="to_string" alt="" coords="225,122,297,149"/>
 <area shape="rect" id="node4" href="classdrake_1_1_nice_type_name.html#ae348464d50b024fade3c46e95cd7e945" title="Given a compiler&#45;dependent demangled type name string as returned by Demangle(), attempts to form a c..." alt="" coords="399,31,549,72"/>
@@ -247,7 +247,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedrake.html">drake</a></li><li class="navelem"><a class="el" href="namespacedrake_1_1systems.html">systems</a></li><li class="navelem"><a class="el" href="classdrake_1_1systems_1_1_vector_input_port3.html">VectorInputPort3</a></li>
-    <li class="footer">Generated on Sun Jul 17 2016 20:31:51 for Drake by
+    <li class="footer">Generated on Sun Jul 17 2016 20:58:23 for Drake by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>
